@@ -5,4 +5,7 @@ __pycache__/
 *.log
 media_cache/
 capture_cookies.py
+check_buttons.py
+test_*.py
+debug_shots/
 .pytest_cache/

@@ -114,7 +114,7 @@ def send_approval_email(queue_data: dict) -> bool:
     html_content = generate_approval_email_html(queue_data)
     return send_email(subject, html_content)
 
-def send_email(subject: str, html_body: str) -> bool:
+def send_email(subject: str, html_body: str, plain_text: str = "") -> bool:
     if not (SMTP_USER and SMTP_PASS):
         print(f"[Email Error] Missing SMTP credentials (USER: {bool(SMTP_USER)}, PASS: {bool(SMTP_PASS)}).")
         return False
@@ -122,11 +122,15 @@ def send_email(subject: str, html_body: str) -> bool:
     try:
         msg = MIMEMultipart("alternative")
         msg["Subject"] = subject
-        msg["From"] = f"X Autonomous Manager <{SMTP_USER}>"
+        msg["From"] = f"Zubair Ahmad <{SMTP_USER}>"
         msg["To"] = USER_EMAIL
+        msg["Reply-To"] = SMTP_USER
 
-        part = MIMEText(html_body, "html", "utf-8")
-        msg.attach(part)
+        if not plain_text:
+            plain_text = "Daily X Urdu Posts Queue is ready. Reply 'Approved' to schedule all 7 posts."
+
+        msg.attach(MIMEText(plain_text, "plain", "utf-8"))
+        msg.attach(MIMEText(html_body, "html", "utf-8"))
 
         with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=15) as server:
             server.starttls()

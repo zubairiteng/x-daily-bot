@@ -55,27 +55,6 @@ def save_queue(queue):
     with open(QUEUE_FILE, "w", encoding="utf-8") as f:
         json.dump(queue, f, indent=2, ensure_ascii=False)
 
-def send_email(subject: str, html_body: str) -> bool:
-    if not (SMTP_USER and SMTP_PASS):
-        print("[Email Warning] SMTP credentials not fully configured.")
-        return False
-    try:
-        msg = MIMEMultipart("alternative")
-        msg["Subject"] = subject
-        msg["From"] = f"X Autonomous Manager <{SMTP_USER}>"
-        msg["To"] = USER_EMAIL
-        msg.attach(MIMEText(html_body, "html", "utf-8"))
-
-        with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=15) as server:
-            server.starttls()
-            server.login(SMTP_USER, SMTP_PASS)
-            server.sendmail(SMTP_USER, [USER_EMAIL], msg.as_string())
-        print(f"Dispatched email to {USER_EMAIL} with subject: {subject}")
-        return True
-    except Exception as e:
-        print(f"[Email Error] Failed: {e}")
-        return False
-
 def ensure_daily_queue():
     """
     Checks if today's queue exists. If not or if it's a new day,
@@ -125,11 +104,11 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
         ])
 
         page = context.new_page()
-        page.goto("https://x.com/compose/post", timeout=60000, wait_until="domcontentloaded")
+        page.goto("https://x.com/home", timeout=45000, wait_until="domcontentloaded")
         time.sleep(5)
 
         try:
-            # Dismiss any popups or cookie bars
+            # Dismiss any popups or dialogs
             close_buttons = page.query_selector_all('button[aria-label="Close"]')
             for btn in close_buttons:
                 try:
@@ -137,37 +116,46 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
                 except Exception:
                     pass
 
-            # Handle media attachment if image exists
-            if image_path and os.path.exists(image_path):
-                print(f"[Playwright] Attaching image: {image_path}")
-                try:
-                    file_input = page.query_selector('input[data-testid="fileInput"]')
-                    if file_input:
-                        file_input.set_input_files(image_path)
-                        time.sleep(4)
-                        print("[Playwright] Image file input set successfully.")
-                except Exception as img_err:
-                    print(f"[Playwright Warning] Image attachment non-critical error: {img_err}")
-
             composer = page.wait_for_selector('div[data-testid="tweetTextarea_0"]', timeout=20000)
             if not composer:
                 print("[Playwright Error] Tweet composer not found.")
                 browser.close()
                 return False
 
-            composer.click()
+            # 1. Fill text first before attaching media
+            page.evaluate("(el) => el.focus()", composer)
             composer.fill(text)
             time.sleep(2)
 
-            print("[Playwright] Triggering Control+Enter shortcut...")
-            composer.press("Control+Enter")
-            time.sleep(4)
+            # 2. Attach image if present
+            if image_path and os.path.exists(image_path):
+                print(f"[Playwright] Attaching image: {image_path}")
+                try:
+                    file_input = page.query_selector('input[data-testid="fileInput"]')
+                    if file_input:
+                        file_input.set_input_files(image_path)
+                        # Wait up to 15s for attachment to render
+                        page.wait_for_selector('div[data-testid="attachments"]', timeout=15000)
+                        print("[Playwright] Media attachment uploaded successfully.")
+                        time.sleep(3)
+                except Exception as img_err:
+                    print(f"[Playwright Warning] Image attachment: {img_err}")
 
-            post_btn = page.query_selector('button[data-testid="tweetButton"]')
-            if post_btn and post_btn.is_visible():
-                print("[Playwright] Attempting force click on post button...")
-                post_btn.click(force=True)
-                time.sleep(5)
+            # 3. Locate post button (inline or modal)
+            post_btn = page.query_selector('button[data-testid="tweetButtonInline"]') or page.query_selector('button[data-testid="tweetButton"]')
+            if not post_btn:
+                print("[Playwright Error] Post button not found.")
+                browser.close()
+                return False
+
+            print("[Playwright] Dispatching native JS click on post button...")
+            page.evaluate("(btn) => btn.click()", post_btn)
+            time.sleep(6)
+
+            # Check for toast confirmation
+            toast = page.query_selector('div[data-testid="toast"]')
+            if toast:
+                print(f"[Playwright Verified] Toast: {toast.inner_text().strip()}")
 
             print("[Playwright SUCCESS] Tweet successfully published to X!")
             browser.close()
@@ -250,7 +238,8 @@ def action_send_evening_analytics():
     </html>
     """
     subject = f"[Daily Analytics] X Operations Report ({posted_count}/{len(posts)} Posts) - {date_str}"
-    return send_email(subject, html)
+    from email_service import send_email
+    return send_email(subject, html, f"Daily X Report: {posted_count}/{len(posts)} posts published.")
 
 def action_auto():
     queue = ensure_daily_queue()
