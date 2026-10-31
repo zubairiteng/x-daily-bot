@@ -1,0 +1,88 @@
+name: Daily X (Twitter) Autonomous Manager
+
+on:
+  schedule:
+    # 7 peak Pakistan posting times: 8 AM, 11 AM, 2 PM, 5 PM, 8 PM, 10 PM, 11 PM PKT (UTC+5)
+    - cron: '0 3,6,9,12,15,17,18 * * *'
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'Action to execute'
+        required: true
+        default: 'auto'
+        type: choice
+        options:
+          - 'auto'
+          - 'morning-email'
+          - 'post-due'
+          - 'evening-email'
+          - 'approve'
+
+permissions:
+  contents: write
+
+jobs:
+  run-daily-action:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Cache Playwright Browsers
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-browsers-${{ runner.os }}-v1
+
+      - name: Install Playwright Chromium
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: |
+          python -m playwright install --with-deps chromium
+
+      - name: Install System Dependencies for Cached Chromium
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+        run: |
+          python -m playwright install-deps chromium
+
+      - name: Run Autonomous Engine
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.gmail.com' }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || 587 }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          USER_EMAIL: ${{ secrets.USER_EMAIL || 'zubair.ahmad4545438@gmail.com' }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          X_AUTH_TOKEN: ${{ secrets.X_AUTH_TOKEN }}
+          X_CT0: ${{ secrets.X_CT0 }}
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            python daily_engine.py --action ${{ inputs.action }}
+          else
+            python daily_engine.py --action auto
+          fi
+
+      - name: Commit & Push Updated Queue State
+        run: |
+          git config --global user.name "X Daily Bot"
+          git config --global user.email "bot@x-manager.local"
+          git add daily_queue.json
+          git diff --staged --quiet || git commit -m "chore: update post queue status [skip ci]"
+          git push

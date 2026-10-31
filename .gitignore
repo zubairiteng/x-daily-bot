@@ -1,0 +1,8 @@
+.env
+browser_session/
+__pycache__/
+*.pyc
+*.log
+media_cache/
+capture_cookies.py
+.pytest_cache/

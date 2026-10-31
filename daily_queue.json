@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-31",
+  "status": "ready",
+  "daily_target": 7,
+  "posts": [
+    {
+      "id": "post-1",
+      "time_slot": "08:30 AM PKT",
+      "category": "قومی و ریاستی امور",
+      "format": "single",
+      "hook": "کیپٹن صفدر کے بیان پر مریم نواز کی مایوسی: ’یہ بیماری ہمارے خاندان میں اُس وقت سے ہے جب میرا جسم، میری مرضی کا کسی کو علم تک نہ تھا‘",
+      "text": "🔴 کیپٹن صفدر کے بیان پر مریم نواز کی مایوسی: ’یہ بیماری ہمارے خاندان میں اُس وقت سے ہے جب میرا جسم، میری مرضی کا کسی کو علم تک نہ تھا‘\n\nوزیرِ اعلیٰ پنجاب مریم نواز نے صارف کی جانب سے شیئر کیے گئے کیپٹن (ر) صفدر کے اس ویڈیو کلپ پر تبصرہ کرتے ہوئے...\n\nبشکریہ: BBC Urdu\n#پاکستان #قومی_خبریں",
+      "source_name": "BBC Urdu",
+      "source_url": "https://www.bbc.com/urdu/articles/cwm23pp090y7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f37/live/e4e1c7b0-d4e4-11f1-a701-fddedf244c16.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-1.jpg",
+      "hashtags": [
+        "#پاکستان",
+        "#قومی_خبریں"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "post-2",
+      "time_slot": "11:30 AM PKT",
+      "category": "معیشت و فنانس",
+      "format": "single",
+      "hook": "کینیڈا ایئرپورٹ پر پاکستانی مسافروں کے سامان سے بکرے کے پائے، گھی اور چکن برآمد: ’انھیں بتائیں یہ چیزیں یہاں ملتی ہیں‘",
+      "text": "🔴 کینیڈا ایئرپورٹ پر پاکستانی مسافروں کے سامان سے بکرے کے پائے، گھی اور چکن برآمد: ’انھیں بتائیں یہ چیزیں یہاں ملتی ہیں‘\n\nسی بی ایس اے کا کہنا ہے کہ مسافروں پر کھانے پینے کی اشیا ڈکلیئر نہ کرنے پر ایک ہزار 350 کینیڈین ڈالر کا...\n\nبشکریہ: BBC Urdu\n#پاکستان_معیشت #کاروبار",
+      "source_name": "BBC Urdu",
+      "source_url": "https://www.bbc.com/urdu/articles/cqj34pljdvr0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d100/live/169ff350-d466-11f1-a701-fddedf244c16.png",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-2.jpg",
+      "hashtags": [
+        "#پاکستان_معیشت",
+        "#کاروبار"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "post-3",
+      "time_slot": "02:00 PM PKT",
+      "category": "ٹیکنالوجی و سائنس",
+      "format": "single",
+      "hook": "چین کا خفیہ خلائی طیارہ جس کی پہلی واضح تصویر پینٹاگون نے جاری کر دی",
+      "text": "🔴 چین کا خفیہ خلائی طیارہ جس کی پہلی واضح تصویر پینٹاگون نے جاری کر دی\n\nامریکی وزارتِ دفاع کی دفاعی انٹیلی جنس ایجنسی نے چین کے ’خلائی طیارے‘ کی ایک تصویر جاری کی ہے، جو 2024 میں...\n\nبشکریہ: BBC Urdu\n#ٹیکنالوجی #سائنس",
+      "source_name": "BBC Urdu",
+      "source_url": "https://www.bbc.com/urdu/articles/cr62y6z4vz84o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/37c6/live/86a3f940-d37a-11f1-bf63-739fb2907d03.png",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-3.jpg",
+      "hashtags": [
+        "#ٹیکنالوجی",
+        "#سائنس"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "post-4",
+      "time_slot": "05:30 PM PKT",
+      "category": "کھیل و قومی ایتھلیٹس",
+      "format": "single",
+      "hook": "سری لنکن بلے بازوں کی شاندار بیٹنگ، پاکستان کو جیت کے لیے 326 رنز کا ہدف",
+      "text": "🔴 سری لنکن بلے بازوں کی شاندار بیٹنگ، پاکستان کو جیت کے لیے 326 رنز کا ہدف\n\nٹاس جیت کر پہلے فیلڈنگ کا فیصلہ کرنے والے پاکستان کو پہلی کامیابی کے لیے کافی انتظار کرنا پڑا۔ سری لنکا کے...\n\nبشکریہ: BBC Urdu\n#کرکٹ #پاکستان_اسپورٹس",
+      "source_name": "BBC Urdu",
+      "source_url": "https://www.bbc.com/urdu/articles/cm62yeylwk13o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a18d/live/c43c5d80-d526-11f1-8f17-a3ab0a52a50d.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-4.jpg",
+      "hashtags": [
+        "#کرکٹ",
+        "#پاکستان_اسپورٹس"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "post-5",
+      "time_slot": "08:15 PM PKT",
+      "category": "خصوصی جائزہ و تجزیہ",
+      "format": "single",
+      "hook": "امریکہ میں وسط مدتی انتخابات: کن سیٹوں پر الیکشن ہو گا اور صدر ٹرمپ کے لیے اس کے کیا معنی ہوں گے؟",
+      "text": "🔴 امریکہ میں وسط مدتی انتخابات: کن سیٹوں پر الیکشن ہو گا اور صدر ٹرمپ کے لیے اس کے کیا معنی ہوں گے؟\n\nمڈٹرم انتخابات کے نتائج یہ طے کریں گے کہ کانگریس پر کس سیاسی جماعت کا کنٹرول ہو گا، آیا صدر ٹرمپ کی رپبلکن...\n\nبشکریہ: BBC Urdu\n#خصوصی_رپورٹ #پاکستان",
+      "source_name": "BBC Urdu",
+      "source_url": "https://www.bbc.com/urdu/articles/ckx2d1gy97gxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd40/live/f37b5f50-d45a-11f1-b441-2b33b063138f.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-5.jpg",
+      "hashtags": [
+        "#خصوصی_رپورٹ",
+        "#پاکستان"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "post-6",
+      "time_slot": "09:45 PM PKT",
+      "category": "عالمی حالاتِ حاضرہ",
+      "format": "single",
+      "hook": "کسی بھی خطرے کا فوری اور بھرپور جواب دیا جائے، ایرانی رہبر اعلیٰ خامنہ ای کی مسلح افواج کو ہدایت",
+      "text": "🔴 کسی بھی خطرے کا فوری اور بھرپور جواب دیا جائے، ایرانی رہبر اعلیٰ خامنہ ای کی مسلح افواج کو ہدایت\n\nایران کے رہبرِ اعلیٰ آیت اللہ علی خامنہ ای نے مسلح افواج کے اعلیٰ کمانڈروں سے ملاقات میں کہا ہے کہ دشمنوں کا...\n\nبشکریہ: BBC Urdu\n#عالمی_خبریں #جغرافیائی_سیاست",
+      "source_name": "BBC Urdu",
+      "source_url": "https://www.bbc.co.uk/urdu/live/c8vgxzky176wt?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ba/live/08029c40-d51e-11f1-93e1-3b657b665bcf.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-6.jpg",
+      "hashtags": [
+        "#عالمی_خبریں",
+        "#جغرافیائی_سیاست"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "post-7",
+      "time_slot": "11:15 PM PKT",
+      "category": "تاریخ، ادب و مثبت فکر",
+      "format": "single",
+      "hook": "اندرا گاندھی کا قتل اور وہ فون کال جس کے بعد انڈیا اور پاکستان کا کرکٹ میچ روکنا پڑا",
+      "text": "🔴 اندرا گاندھی کا قتل اور وہ فون کال جس کے بعد انڈیا اور پاکستان کا کرکٹ میچ روکنا پڑا\n\n31 اکتوبر 1984 کو سیالکوٹ کے جناح سٹیڈیم میں پاکستان اور انڈیا کے درمیان جاری ایک روزہ بین الاقوامی کرکٹ میچ...\n\nبشکریہ: BBC Urdu\n#تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "BBC Urdu",
+      "source_url": "https://www.bbc.com/urdu/articles/cwjdmpry8n58o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/013f/live/f2013c70-d49c-11f1-9221-935a51ab8e4c.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-7.jpg",
+      "hashtags": [
+        "#تاریخی_حقائق",
+        "#مثبت_سوچ"
+      ],
+      "status": "ready"
+    }
+  ],
+  "email_sent_at": "2026-10-31T17:38:31.671510"
+}
