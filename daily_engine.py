@@ -162,6 +162,11 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
             return True
         except Exception as e:
             print(f"[Playwright Exception] {e}")
+            try:
+                print(f"[Debug] Page URL: {page.url} | Title: {page.title()}")
+                page.screenshot(path="x_cloud_debug.png")
+            except Exception:
+                pass
         finally:
             try:
                 browser.close()
