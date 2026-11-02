@@ -2,8 +2,8 @@ name: Daily X (Twitter) Autonomous Manager
 
 on:
   schedule:
-    # 7 peak Pakistan posting times: 8 AM, 11 AM, 2 PM, 5 PM, 8 PM, 10 PM, 11 PM PKT (UTC+5)
-    - cron: '0 3,6,9,12,15,17,18 * * *'
+    # 7 peak Pakistan posting times: 8:15 AM, 11:15 AM, 2:15 PM, 5:15 PM, 8:15 PM, 10:15 PM, 11:15 PM PKT (UTC+5)
+    - cron: '15 3,6,9,12,15,17,18 * * *'
   workflow_dispatch:
     inputs:
       action:
@@ -74,9 +74,9 @@ jobs:
           X_CT0: ${{ secrets.X_CT0 }}
         run: |
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
-            python daily_engine.py --action ${{ inputs.action }}
+            xvfb-run python daily_engine.py --action ${{ inputs.action }}
           else
-            python daily_engine.py --action auto
+            xvfb-run python daily_engine.py --action auto
           fi
 
       - name: Commit & Push Updated Queue State

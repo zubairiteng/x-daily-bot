@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,47 +8,48 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "ستارہِ امتیاز کے لیے نامزد پہلی پاکستانی ٹرانس جینڈر نایاب علی: تیزاب کے حملے سے اقوامِ متحدہ میں پاکستان کی نمائندگی تک",
-      "text": "🔴 ستارہِ امتیاز کے لیے نامزد پہلی پاکستانی ٹرانس جینڈر نایاب علی: تیزاب کے حملے سے اقوامِ متحدہ میں پاکستان کی نمائندگی تک\n\nوزارتِ انسانی حقوق کی جانب سے رواں ماہ جاری کیے گئے ایک نوٹیفکیشن کے مطابق جنیوا میں ہونے والے اجلاس میں...\n\nبشکریہ: BBC Urdu\n#پاکستان #قومی_خبریں",
+      "hook": "’سنتھیٹک آئڈنٹیٹی فراڈ‘: پاکستانی اور انڈین شہریوں کے گروہ نے کینیڈا میں ’لاکھوں ڈالر‘ کا مبینہ فراڈ کیسے کیا؟",
+      "text": "🔴 ’سنتھیٹک آئڈنٹیٹی فراڈ‘: پاکستانی اور انڈین شہریوں کے گروہ نے کینیڈا میں ’لاکھوں ڈالر‘ کا مبینہ فراڈ کیسے کیا؟\n\nاین سی سی آئی اے کے مطابق پاکستانی اور انڈین شہریوں کی جانب سے کیے گئے مبینہ فراڈ کی مالیت ممکنہ طور پر...\n\nبشکریہ: BBC Urdu\n#پاکستان #قومی_خبریں",
       "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.com/urdu/articles/cmlyl92rer4jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1ee/live/d4d6cc50-d59b-11f1-a209-e33b4e3a0179.png",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cqpvg33j99plo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aeea/live/1f81f800-d638-11f1-8399-41f2bbe0e990.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
       "status": "posted",
-      "posted_at": "2026-11-01T10:00:35.609579"
+      "posted_at": "2026-11-02T11:40:01.618414"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "نئی جنگ کی صورت میں تنازع کا جغرافیہ مغربی ایشیا تک محدود نہیں رہے گا: ایرانی فوج کے ترجمان کا انتباہ",
-      "text": "🔴 نئی جنگ کی صورت میں تنازع کا جغرافیہ مغربی ایشیا تک محدود نہیں رہے گا: ایرانی فوج کے ترجمان کا انتباہ\n\nایرانی خبر رساں اداروں کی جانب سے جاری کیے گئے بیان کے مطابق ایرانی فوج کے ترجمان بریگیڈیئر جنرل محمد...\n\nبشکریہ: BBC Urdu\n#پاکستان_معیشت #کاروبار",
-      "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.co.uk/urdu/live/c8vgxzky176wt?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e22/live/a6deec90-d5cf-11f1-82ae-81055b9ae1cd.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
+      "hook": "’کشمیر کی وادی ہماری ہے‘ چین نے شکسگام پر بھارتی دعویٰ مسترد کر دیا",
+      "text": "🔴 ’کشمیر کی وادی ہماری ہے‘ چین نے شکسگام پر بھارتی دعویٰ مسترد کر دیا\n\nچین نے بھارتی وزارت خارجہ کے کشمیر کی وادی شکسگام سے متعلق دعوے کو مسترد کرتے ہوئے کہا ہے کہ شکسگام چین کا...\n\nبشکریہ: Dawn News Urdu\n#پاکستان_معیشت #کاروبار",
+      "source_name": "Dawn News Urdu",
+      "source_url": "https://www.dawnnews.tv/news/1275085/",
+      "image_url": "https://i.dawn.com/large/2026/01/13131200632efb4.webp",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "ready"
+      "status": "posted",
+      "posted_at": "2026-11-02T11:40:47.562231"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "چین کا خفیہ خلائی طیارہ جس کی پہلی واضح تصویر پینٹاگون نے جاری کر دی",
-      "text": "🔴 چین کا خفیہ خلائی طیارہ جس کی پہلی واضح تصویر پینٹاگون نے جاری کر دی\n\nامریکی وزارتِ دفاع کی دفاعی انٹیلی جنس ایجنسی نے چین کے ’خلائی طیارے‘ کی ایک تصویر جاری کی ہے، جو 2024 میں...\n\nبشکریہ: BBC Urdu\n#ٹیکنالوجی #سائنس",
+      "hook": "امریکہ میں طیارے کو حادثہ: ’لگا جیسے کوئی میزائل نیچے آ رہا ہو‘",
+      "text": "🔴 امریکہ میں طیارے کو حادثہ: ’لگا جیسے کوئی میزائل نیچے آ رہا ہو‘\n\nامریکی ریاست فلوریڈا میں ایک لیئر جیٹ 60 کاروباری طیارہ رہائشی علاقے کے قریب گر کر تباہ ہو گیا، جس کے نتیجے...\n\nبشکریہ: BBC Urdu\n#ٹیکنالوجی #سائنس",
       "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.com/urdu/articles/cr62y6z4vz84o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/37c6/live/86a3f940-d37a-11f1-bf63-739fb2907d03.png",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cwvgdmdmgv4qo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
@@ -60,12 +61,12 @@
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "پاکستان ٹرائی سیریز کا فاتح: فخر زمان کی ’فائنل میں پرفارم کرنے کی صلاحیت‘ اور ’گھر کے بڑے بیٹے کی انرجی‘ والے عرفات منہاس",
-      "text": "🔴 پاکستان ٹرائی سیریز کا فاتح: فخر زمان کی ’فائنل میں پرفارم کرنے کی صلاحیت‘ اور ’گھر کے بڑے بیٹے کی انرجی‘ والے عرفات منہاس\n\nلاہور میں کھیلے گئے پاکستان ون ڈے ٹرائی سیریز کے فائنل میں پاکستان نے سری لنکا کو تین وکٹوں سے شکست دے کر...\n\nبشکریہ: BBC Urdu\n#کرکٹ #پاکستان_اسپورٹس",
+      "hook": "سہ فریقی سیریز میں غیر متاثر کُن کارکردگی: بابر اعظم کو ’آرام کرنے‘ اور ’آسٹریلیا یا انگلینڈ میں کوچنگ‘ لینے کے مشورے",
+      "text": "🔴 سہ فریقی سیریز میں غیر متاثر کُن کارکردگی: بابر اعظم کو ’آرام کرنے‘ اور ’آسٹریلیا یا انگلینڈ میں کوچنگ‘ لینے کے مشورے\n\nبابر اعظم کی حالیہ ون ڈے فارم پر سوالات اٹھ رہے ہیں، جنھوں نے سہ فریقی سیریز کی پانچ اننگز میں صرف 118 رنز...\n\nبشکریہ: BBC Urdu\n#کرکٹ #پاکستان_اسپورٹس",
       "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.com/urdu/articles/cm62yeylwk13o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7e1/live/a7c7ea40-d551-11f1-b441-2b33b063138f.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c8e36ew0er90o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc2a/live/4ba63c20-d5f7-11f1-a6a8-6dc45e4fc351.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
@@ -77,12 +78,12 @@
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "سعودی عرب میں سزائے موت پانے والے بنگلہ دیشی شہریوں کے اہلخانہ نے بی بی سی کو کیا بتایا؟",
-      "text": "🔴 سعودی عرب میں سزائے موت پانے والے بنگلہ دیشی شہریوں کے اہلخانہ نے بی بی سی کو کیا بتایا؟\n\nسعودی عرب میں گذشتہ بدھ 14 اکتوبر کو ایک بنگلہ دیشی مرد اور خاتون کو سزائے موت دی گئی تھی۔...\n\nبشکریہ: BBC Urdu\n#خصوصی_رپورٹ #پاکستان",
+      "hook": "المایدہ: قطر سے ’پاکستان آنے والے‘ ایل این جی ٹینکر پر حملے کا معمہ جس کے عملے میں چھ انڈین شہری بھی شامل تھے",
+      "text": "🔴 المایدہ: قطر سے ’پاکستان آنے والے‘ ایل این جی ٹینکر پر حملے کا معمہ جس کے عملے میں چھ انڈین شہری بھی شامل تھے\n\nقطر گیس ٹرانسپورٹ کمپنی ناقلات نے اپنی ویب سائٹ پر اس واقعے کی تصدیق کرتے ہوئے کہا کہ ’المایدہ‘ جمعے کی شام...\n\nبشکریہ: BBC Urdu\n#خصوصی_رپورٹ #پاکستان",
       "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.com/urdu/articles/cq5ynkwe2ljpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cbe0/live/9a3d8b60-cca9-11f1-8789-fd6bb060c3f9.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cmy83w3gqgvgo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b37f/live/8a297c70-d66d-11f1-856b-2f2ef225beb0.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
@@ -94,12 +95,12 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "تائیوان کی ایئر لائنز پاکستانی فضائی حدود سے کیوں گزر رہی تھیں اور انھیں روکنے کی خبروں کے پیچھے کیا کہانی ہے؟",
-      "text": "🔴 تائیوان کی ایئر لائنز پاکستانی فضائی حدود سے کیوں گزر رہی تھیں اور انھیں روکنے کی خبروں کے پیچھے کیا کہانی ہے؟\n\nمشرقی ایشیائی ملک تائیوان کے حکام نے دعویٰ کیا ہے کہ حال ہی میں پاکستان نے ان کی کم از کم دو ایئر لائنز کو...\n\nبشکریہ: BBC Urdu\n#عالمی_خبریں #جغرافیائی_سیاست",
-      "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.com/urdu/articles/cm79pj08d7dro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/24c5/live/98fed500-d3a8-11f1-a5cd-49637fcbd4e4.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
+      "hook": "ٹی ایل پی سربراہ سعد رضوی اور ان کے بھائی کی گمشدگی کا معما برقرار",
+      "text": "🔴 ٹی ایل پی سربراہ سعد رضوی اور ان کے بھائی کی گمشدگی کا معما برقرار\n\nلاہور: قانون نافذ کرنے والے ادارے تقریباً تین ماہ گزرنے کے باوجود تحریک لبیک پاکستان کے سربراہ سعد حسین رضوی...\n\nبشکریہ: Dawn News Urdu\n#عالمی_خبریں #جغرافیائی_سیاست",
+      "source_name": "Dawn News Urdu",
+      "source_url": "https://www.dawnnews.tv/news/1275086/",
+      "image_url": "https://i.dawn.com/large/2025/10/29090317a0858db.webp",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
         "#جغرافیائی_سیاست"
@@ -116,7 +117,7 @@
       "source_name": "BBC Urdu",
       "source_url": "https://www.bbc.com/urdu/articles/cmvg6z22g006o?at_medium=RSS&at_campaign=rss",
       "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/48b4/live/9c063030-d52a-11f1-97b1-4d6889870ee4.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -124,5 +125,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-01T10:00:14.550397"
+  "email_sent_at": "2026-11-02T11:39:19.272271"
 }

@@ -103,9 +103,32 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
             {"name": "ct0", "value": X_CT0, "domain": ".x.com", "path": "/", "httpOnly": False, "secure": True}
         ])
 
+        # Anti-detection stealth init scripts
+        context.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', {
+                get: () => undefined
+            });
+            window.navigator.chrome = { runtime: {} };
+            Object.defineProperty(navigator, 'plugins', {
+                get: () => [1, 2, 3, 4, 5]
+            });
+            Object.defineProperty(navigator, 'languages', {
+                get: () => ['en-US', 'en']
+            });
+        """)
+
         page = context.new_page()
+        print("[Playwright] Navigating to X...")
         page.goto("https://x.com/home", timeout=45000, wait_until="domcontentloaded")
         time.sleep(5)
+
+        # Handle Cloudflare Turnstile challenge if present
+        for _ in range(4):
+            if "Just a moment" in page.title():
+                print("[Playwright] Waiting for Cloudflare verification to complete...")
+                time.sleep(6)
+            else:
+                break
 
         try:
             # Dismiss any popups or dialogs
@@ -116,7 +139,13 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
                 except Exception:
                     pass
 
-            composer = page.wait_for_selector('div[data-testid="tweetTextarea_0"]', timeout=20000)
+            composer = page.query_selector('div[data-testid="tweetTextarea_0"]')
+            if not composer:
+                print("[Playwright] Inline composer not visible on home, attempting /compose/post...")
+                page.goto("https://x.com/compose/post", timeout=35000, wait_until="domcontentloaded")
+                time.sleep(4)
+                composer = page.wait_for_selector('div[data-testid="tweetTextarea_0"]', timeout=20000)
+
             if not composer:
                 print("[Playwright Error] Tweet composer not found.")
                 browser.close()
