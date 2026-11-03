@@ -2,8 +2,9 @@ name: Daily X (Twitter) Autonomous Manager
 
 on:
   schedule:
-    # 7 peak Pakistan posting times: 8:15 AM, 11:15 AM, 2:15 PM, 5:15 PM, 8:15 PM, 10:15 PM, 11:15 PM PKT (UTC+5)
-    - cron: '15 3,6,9,12,15,17,18 * * *'
+    # Autonomous heartbeat checks every 30 minutes (24/7 unlimited free runner minutes)
+    - cron: '15 * * * *'
+    - cron: '45 * * * *'
   workflow_dispatch:
     inputs:
       action:

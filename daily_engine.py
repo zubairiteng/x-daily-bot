@@ -12,13 +12,19 @@ import os
 import sys
 import time
 import argparse
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 from dotenv import load_dotenv
 load_dotenv()
+
+# Pakistan Standard Time (PKT = UTC+5)
+PKT = timezone(timedelta(hours=5))
+
+def get_now_pkt():
+    return datetime.now(PKT)
 
 # Import news generator and email service
 try:
@@ -61,7 +67,7 @@ def ensure_daily_queue():
     automatically generates 7 live verified Urdu posts with media photos.
     """
     queue = load_queue()
-    today_str = datetime.now().strftime("%Y-%m-%d")
+    today_str = get_now_pkt().strftime("%Y-%m-%d")
     queue_date = queue.get("date", "")
 
     if queue_date != today_str:
@@ -72,7 +78,7 @@ def ensure_daily_queue():
             "status": "ready",
             "daily_target": len(posts),
             "posts": posts,
-            "email_sent_at": datetime.now().isoformat()
+            "email_sent_at": get_now_pkt().isoformat()
         }
         save_queue(queue)
         print(f"[Auto] Saved fresh queue for {today_str} with {len(posts)} posts.")
@@ -204,11 +210,37 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
 
     return False
 
-def action_publish_due_post():
+def parse_slot_minutes(slot_str: str) -> int:
+    """Parses '08:30 AM PKT' into minutes from midnight (0 to 1439)."""
+    import re
+    m = re.search(r"(\d{1,2}):(\d{2})\s*(AM|PM)", slot_str, re.IGNORECASE)
+    if not m:
+        return 0
+    hour = int(m.group(1))
+    minute = int(m.group(2))
+    meridiem = m.group(3).upper()
+    if meridiem == "PM" and hour != 12:
+        hour += 12
+    elif meridiem == "AM" and hour == 12:
+        hour = 0
+    return hour * 60 + minute
+
+def action_publish_due_post(force: bool = False) -> bool:
     queue = load_queue()
+    now_pkt = get_now_pkt()
+    now_minutes = now_pkt.hour * 60 + now_pkt.minute
+    current_time_str = now_pkt.strftime("%I:%M %p PKT")
+
     for post in queue.get("posts", []):
         if post.get("status") == "ready":
-            print(f"Publishing {post['id']} ({post['time_slot']})...")
+            slot_str = post.get("time_slot", "")
+            slot_minutes = parse_slot_minutes(slot_str)
+
+            if not force and now_minutes < slot_minutes:
+                print(f"[Auto] Next post {post['id']} is scheduled for {slot_str}. Current PKT is {current_time_str}. Waiting for time slot.")
+                return False
+
+            print(f"[Engine] Publishing {post['id']} ({slot_str}) at {current_time_str}...")
             text = post.get("text", "")
             
             image_path = post.get("image_path", "")
@@ -237,7 +269,7 @@ def action_publish_due_post():
 
             if published:
                 post["status"] = "posted"
-                post["posted_at"] = datetime.now().isoformat()
+                post["posted_at"] = now_pkt.isoformat()
                 save_queue(queue)
                 print(f"[SUCCESS] Post {post['id']} marked as POSTED.")
                 return True
@@ -249,7 +281,7 @@ def action_publish_due_post():
 
 def action_send_evening_analytics():
     queue = load_queue()
-    date_str = queue.get("date", datetime.now().strftime("%Y-%m-%d"))
+    date_str = queue.get("date", get_now_pkt().strftime("%Y-%m-%d"))
     posts = queue.get("posts", [])
     posted_count = sum(1 for p in posts if p.get("status") == "posted")
 
@@ -279,11 +311,19 @@ def action_auto():
     queue = ensure_daily_queue()
     pending = [p for p in queue.get("posts", []) if p.get("status") == "ready"]
     if pending:
-        print(f"[Auto] {len(pending)} posts pending. Publishing next post...")
-        action_publish_due_post()
+        # Publish the due post if time slot has arrived
+        action_publish_due_post(force=False)
     else:
-        print("[Auto] All posts for today have been published. Checking evening report...")
-        action_send_evening_analytics()
+        now_pkt = get_now_pkt()
+        # If all posts are posted and it's after 10 PM PKT, send evening report if not sent yet
+        if now_pkt.hour >= 22 and not queue.get("evening_report_sent"):
+            print("[Auto] All posts for today have been published. Sending evening report...")
+            sent = action_send_evening_analytics()
+            if sent:
+                queue["evening_report_sent"] = True
+                save_queue(queue)
+        else:
+            print(f"[Auto] All {len(queue.get('posts', []))} posts published for today. Nothing pending.")
 
 def main():
     parser = argparse.ArgumentParser(description="X Daily Autonomous Engine")
@@ -293,7 +333,7 @@ def main():
     if args.action == "morning-email":
         action_send_morning_approval()
     elif args.action == "post-due":
-        action_publish_due_post()
+        action_publish_due_post(force=True)
     elif args.action == "evening-email":
         action_send_evening_analytics()
     elif args.action == "approve":
