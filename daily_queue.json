@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,18 +8,17 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "عمان کے ساحل کے قریب تجارتی جہاز پر حملے میں انڈین شہری ہلاک: ’جنگ روکنے کے لیے گیند امریکہ کے کورٹ میں ہے،‘ قالیباف",
-      "text": "🔴 عمان کے ساحل کے قریب تجارتی جہاز پر حملے میں انڈین شہری ہلاک: ’جنگ روکنے کے لیے گیند امریکہ کے کورٹ میں ہے،‘ قالیباف\n\nایران کی پارلیمان کے سپیکر محمد باقر قالیباف نے کہا ہے کہ ایران ’دشمن کی دھمکیوں اور فوجی کارروائیوں کے سامنے...\n\nبشکریہ: BBC Urdu\n#پاکستان #قومی_خبریں",
+      "hook": "امریکہ میں وسط مدتی انتخابات کے لیے پولنگ: معیشت، جمہوریت اور امیگریشن ووٹرز کی ترجیحات میں سرفہرست",
+      "text": "🔴 امریکہ میں وسط مدتی انتخابات کے لیے پولنگ: معیشت، جمہوریت اور امیگریشن ووٹرز کی ترجیحات میں سرفہرست\n\nامریکہ میں وسط مدتی انتخابات کے لیے پولنگ جاری ہے۔ سینیٹ کی 35 جبکہ ایوانِ نمائندگان کی تمام 435 نشستوں کے...\n\nبشکریہ: BBC Urdu\n#پاکستان #قومی_خبریں",
       "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.co.uk/urdu/live/c6vg7d7vgwqlt?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f28/live/f1751020-d75c-11f1-8f6b-d71817972456.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/cj5ynv75y6r4t?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f039/live/72cb6680-d7d3-11f1-8cb0-d304936875f3.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-03T10:09:49.072006"
+      "status": "ready"
     },
     {
       "id": "post-2",
@@ -36,8 +35,7 @@
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-03T10:12:28.035922"
+      "status": "ready"
     },
     {
       "id": "post-3",
@@ -54,81 +52,76 @@
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-03T10:14:30.676723"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "برطانیہ میں مستقل سکونت اختیار کرنے کی نئی شرائط کیا ہیں؟",
-      "text": "🔴 برطانیہ میں مستقل سکونت اختیار کرنے کی نئی شرائط کیا ہیں؟\n\nبرطانوی حکومت نے مستقل سکونت (انڈیفینیٹ لیو ٹو ریمین، آئی ایل آر) کے قواعد میں تبدیلیوں کا اعلان کیا ہے۔...\n\nبشکریہ: BBC Urdu\n#کرکٹ #پاکستان_اسپورٹس",
+      "hook": "محمد عامر سمیت کون سے بڑے کھلاڑی افغانستان پریمیئر لیگ کھیلیں گے؟",
+      "text": "🔴 محمد عامر سمیت کون سے بڑے کھلاڑی افغانستان پریمیئر لیگ کھیلیں گے؟\n\nدبئی میں ہونے والے افغانستان پریمیئر لیگ کے ڈرافٹ کے دوران اعلان کیا گیا ہے کہ سابق پاکستانی فاسٹ بولر محمد...\n\nبشکریہ: BBC Urdu\n#کرکٹ #پاکستان_اسپورٹس",
       "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.com/urdu/articles/cq99z8k8l524o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/86b8/live/8638ea00-d76d-11f1-a956-ff083523ef77.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c5zjxll0v80wo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd66/live/9fc880a0-d7a1-11f1-93e1-3b657b665bcf.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-03T19:19:03.646960+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "’سنتھیٹک آئڈنٹیٹی فراڈ‘: پاکستانی اور انڈین شہریوں کے گروہ نے کینیڈا میں ’لاکھوں ڈالر‘ کا مبینہ فراڈ کیسے کیا؟",
-      "text": "🔴 ’سنتھیٹک آئڈنٹیٹی فراڈ‘: پاکستانی اور انڈین شہریوں کے گروہ نے کینیڈا میں ’لاکھوں ڈالر‘ کا مبینہ فراڈ کیسے کیا؟\n\nاین سی سی آئی اے کے مطابق پاکستانی اور انڈین شہریوں کی جانب سے کیے گئے مبینہ فراڈ کی مالیت ممکنہ طور پر...\n\nبشکریہ: BBC Urdu\n#خصوصی_رپورٹ #پاکستان",
+      "hook": "ایران کے سرکاری ٹی وی پر شہریوں کے لیے جوہری حملے اور تابکاری سے بچاؤ کی ہدایات کیوں نشر ہوئیں؟",
+      "text": "🔴 ایران کے سرکاری ٹی وی پر شہریوں کے لیے جوہری حملے اور تابکاری سے بچاؤ کی ہدایات کیوں نشر ہوئیں؟\n\nیہ ہدایات ایک ایسے وقت میں جاری کی گئیں کہ جب امریکہ کی جانب سے پیر کی شب ایرانی جزیرہ قشم پر حملہ کیا گیا...\n\nبشکریہ: BBC Urdu\n#خصوصی_رپورٹ #پاکستان",
       "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.com/urdu/articles/cqpvg33j99plo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aeea/live/1f81f800-d638-11f1-8399-41f2bbe0e990.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cqdr8v4y5g62o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0533/live/6dbe4860-d792-11f1-801d-cf196dc7232c.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-03T23:02:45.144223+05:00"
+      "status": "ready"
     },
     {
       "id": "post-6",
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "امریکی انتخابات میں کامیابی اور ناکامی کا فیصلہ کیسے ہو گا اور کیا صدر ٹرمپ سیاسی روایات کے برخلاف نتائج حاصل کر پائیں گے؟",
-      "text": "🔴 امریکی انتخابات میں کامیابی اور ناکامی کا فیصلہ کیسے ہو گا اور کیا صدر ٹرمپ سیاسی روایات کے برخلاف نتائج حاصل کر پائیں گے؟\n\nٹرمپ کی کم عوامی مقبولیت اس بات کی وضاحت کرتی ہے کہ ڈیموکریٹس کیوں کانگریس کے دونوں ایوانوں میں کامیابی کے...\n\nبشکریہ: BBC Urdu\n#عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "ٹرمپ کی ایران پر حملے کی تصدیق: ’ایران میں اینٹی ایئر کرافٹ سسٹم کو نشانہ بنایا گیا‘",
+      "text": "🔴 ٹرمپ کی ایران پر حملے کی تصدیق: ’ایران میں اینٹی ایئر کرافٹ سسٹم کو نشانہ بنایا گیا‘\n\nامریکی صدر ڈونلڈ ٹرمپ نے فاکس نیوز کو ٹیلی فونک انٹرویو میں تصدیق کی ہے کہ امریکہ نے ایران پر حملے کیے ہیں۔...\n\nبشکریہ: BBC Urdu\n#عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.com/urdu/articles/c6m24germk71o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8076/live/6cbfe0e0-d6f2-11f1-8f53-6322e2737253.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/c6vg7d7vgwqlt?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b730/live/e7272c90-d791-11f1-801d-cf196dc7232c.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
         "#جغرافیائی_سیاست"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-03T23:28:31.047542+05:00"
+      "status": "ready"
     },
     {
       "id": "post-7",
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "6.3 ارب ڈالر کی ’تاریخی‘ کرپٹو ہیکنگ: شمالی کوریا نے بائنانس حملے میں ملوث ہونے کے الزامات مسترد کر دیے",
-      "text": "🔴 6.3 ارب ڈالر کی ’تاریخی‘ کرپٹو ہیکنگ: شمالی کوریا نے بائنانس حملے میں ملوث ہونے کے الزامات مسترد کر دیے\n\nشمالی کوریا نے کرپٹو کرنسی ایکسچینج بائنانس پر 6.3 ارب ڈالر (4.7 ارب پاؤنڈ) مالیت کے ریکارڈ سائبر حملے میں...\n\nبشکریہ: BBC Urdu\n#تاریخی_حقائق #مثبت_سوچ",
+      "hook": "سکردو میں میاں بیوی اور دو کمسن بچوں کا قتل: ’کمرے کا دروازہ کھولا تو اندر کا منظر انتہائی ہولناک تھا‘",
+      "text": "🔴 سکردو میں میاں بیوی اور دو کمسن بچوں کا قتل: ’کمرے کا دروازہ کھولا تو اندر کا منظر انتہائی ہولناک تھا‘\n\nسکردو پولیس کے مطابق محمد اسلم، اُن کی اہلیہ ہانیہ اسلم اور اُن کے دو بچوں، چار سالہ مہدی اور دو سالہ زہرا،...\n\nبشکریہ: BBC Urdu\n#تاریخی_حقائق #مثبت_سوچ",
       "source_name": "BBC Urdu",
-      "source_url": "https://www.bbc.com/urdu/articles/cmde8pdl0e7ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b6c/live/91cd3330-d56a-11f1-b441-2b33b063138f.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cmvg6z22g006o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/48b4/live/9c063030-d52a-11f1-97b1-4d6889870ee4.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-03T23:49:03.797231+05:00"
+      "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-03T10:08:59.508193"
+  "email_sent_at": "2026-11-04T04:40:48.086843+05:00"
 }
