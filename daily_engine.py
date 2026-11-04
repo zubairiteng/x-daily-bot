@@ -193,8 +193,14 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
                 browser.close()
                 return False
 
-            # 3. Locate and click post button
-            post_btn = page.wait_for_selector('button[data-testid="tweetButton"]', timeout=15000)
+            # 3. Locate and click post button (inline or modal)
+            post_btn = page.query_selector('button[data-testid="tweetButtonInline"]') or page.query_selector('button[data-testid="tweetButton"]')
+            if not post_btn:
+                try:
+                    post_btn = page.wait_for_selector('button[data-testid="tweetButtonInline"], button[data-testid="tweetButton"]', timeout=10000)
+                except Exception:
+                    pass
+
             if not post_btn:
                 print("[Playwright Error] Post button not found.")
                 browser.close()
