@@ -137,6 +137,10 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
                 break
 
         try:
+            # Navigate to dedicated composer for reliable media and text rendering
+            page.goto("https://x.com/compose/post", timeout=40000, wait_until="domcontentloaded")
+            time.sleep(4)
+
             # Dismiss any popups or dialogs
             close_buttons = page.query_selector_all('button[aria-label="Close"]')
             for btn in close_buttons:
@@ -145,43 +149,64 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
                 except Exception:
                     pass
 
-            composer = page.query_selector('div[data-testid="tweetTextarea_0"]')
-            if not composer:
-                print("[Playwright] Inline composer not visible on home, attempting /compose/post...")
-                page.goto("https://x.com/compose/post", timeout=35000, wait_until="domcontentloaded")
-                time.sleep(4)
-                composer = page.wait_for_selector('div[data-testid="tweetTextarea_0"]', timeout=20000)
+            # 1. Attach image FIRST if present so media upload state settles before typing
+            if image_path and os.path.exists(image_path):
+                print(f"[Playwright] Attaching image: {image_path}")
+                try:
+                    file_input = page.wait_for_selector('input[data-testid="fileInput"]', timeout=20000)
+                    if file_input:
+                        file_input.set_input_files(image_path)
+                        # Wait up to 20s for attachment preview to mount
+                        page.wait_for_selector('div[data-testid="attachments"]', timeout=20000)
+                        print("[Playwright] Media attachment mounted successfully.")
+                        time.sleep(3)
+                except Exception as img_err:
+                    print(f"[Playwright Warning] Image attachment: {img_err}")
 
+            # 2. Locate composer AFTER media attachment to ensure Draft.js / Lexical state is fresh
+            composer = page.wait_for_selector('div[data-testid="tweetTextarea_0"]', timeout=20000)
             if not composer:
                 print("[Playwright Error] Tweet composer not found.")
                 browser.close()
                 return False
 
-            # 1. Fill text first before attaching media
-            page.evaluate("(el) => el.focus()", composer)
+            # Focus and enter caption
+            composer.click()
+            time.sleep(1)
             composer.fill(text)
             time.sleep(2)
 
-            # 2. Attach image if present
-            if image_path and os.path.exists(image_path):
-                print(f"[Playwright] Attaching image: {image_path}")
-                try:
-                    file_input = page.query_selector('input[data-testid="fileInput"]')
-                    if file_input:
-                        file_input.set_input_files(image_path)
-                        # Wait up to 15s for attachment to render
-                        page.wait_for_selector('div[data-testid="attachments"]', timeout=15000)
-                        print("[Playwright] Media attachment uploaded successfully.")
-                        time.sleep(3)
-                except Exception as img_err:
-                    print(f"[Playwright Warning] Image attachment: {img_err}")
+            # Fallback to keyboard.insert_text if fill() didn't register in React state
+            rendered_text = composer.inner_text().strip()
+            if len(rendered_text) < 15:
+                print("[Playwright] Text not detected in composer, using keyboard.insert_text...")
+                composer.click()
+                page.keyboard.insert_text(text)
+                time.sleep(2)
+                rendered_text = composer.inner_text().strip()
 
-            # 3. Locate post button (inline or modal)
-            post_btn = page.query_selector('button[data-testid="tweetButtonInline"]') or page.query_selector('button[data-testid="tweetButton"]')
+            print(f"[Playwright Check] Verified composer caption length: {len(rendered_text)} characters.")
+
+            # STRICT SAFETY GUARD: Never post a bare image without caption!
+            if len(rendered_text) < 15:
+                print("[Playwright ABORT] Caption is missing! Refusing to publish bare image.")
+                browser.close()
+                return False
+
+            # 3. Locate and click post button
+            post_btn = page.wait_for_selector('button[data-testid="tweetButton"]', timeout=15000)
             if not post_btn:
                 print("[Playwright Error] Post button not found.")
                 browser.close()
                 return False
+
+            # Wait briefly if button is disabled while media finalizes
+            for _ in range(6):
+                is_disabled = post_btn.get_attribute("aria-disabled")
+                if is_disabled == "true":
+                    time.sleep(2)
+                else:
+                    break
 
             print("[Playwright] Dispatching native JS click on post button...")
             page.evaluate("(btn) => btn.click()", post_btn)
