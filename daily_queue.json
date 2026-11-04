@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,102 +8,97 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "امریکہ، چین اور روس کی حمایت: اقوام متحدہ میں روایتی ہتھیاروں پر پاکستانی قرارداد جس کی مخالفت صرف انڈیا اور اسرائیل نے کی",
-      "text": "🔴 امریکہ، چین اور روس کی حمایت: اقوام متحدہ میں روایتی ہتھیاروں پر پاکستانی قرارداد جس کی مخالفت صرف انڈیا اور اسرائیل نے کی\n\nیہ قراردار ’علاقائی اور ذیلی سطح پر روایتی ہتھیاروں کے کنٹرول‘ سے متعلق تھی۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان #قومی_خبریں",
+      "hook": "’ہماری شکست کی وجہ جنگ تھی‘: امریکی وسط مدتی انتخابات میں ڈیموکریٹس کی تاریخی کامیابی پر وینس کا بیان",
+      "text": "🔴 ہماری شکست کی وجہ جنگ تھی‘: امریکی وسط مدتی انتخابات میں ڈیموکریٹس کی تاریخی کامیابی پر وینس کا بیان\n\nادھر وائٹ ہاؤس نے ایک بیان میں کہا کہ ’ٹرمپ اب بھی آپ کے صدر ہیں۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmwy4zxn4j5eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3bff/live/56b0f5f0-d805-11f1-b441-2b33b063138f.png",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-1.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/cj5ynv75y6r4t?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb62/live/b1c89950-d86b-11f1-b441-2b33b063138f.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-04T09:58:27.756229+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "مشرق وسطیٰ کے بحران نے پاکستانی بندرگاہوں کو ’ریکارڈ منافع‘ کمانے کا موقع کیسے فراہم کیا؟",
-      "text": "🔴 مشرق وسطیٰ کے بحران نے پاکستانی بندرگاہوں کو ’ریکارڈ منافع‘ کمانے کا موقع کیسے فراہم کیا؟\n\nبشکریہ: بی بی سی اردو\n#پاکستان_معیشت #کاروبار",
+      "hook": "10 روپے کے نوٹ کی جگہ سکہ متعارف کرانے کا فیصلہ کیوں کیا گیا؟",
+      "text": "🔴 10 روپے کے نوٹ کی جگہ سکہ متعارف کرانے کا فیصلہ کیوں کیا گیا؟\n\nپاکستان کی وفاقی کابینہ نے وزارتِ خزانہ کی سفارش پر 10 روپے کے بینک نوٹ کی جگہ 10 روپے کا سکہ متعارف کرانے کی منظوری دے دی ہے۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان_معیشت #کاروبار",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cwd09xn4e05vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ed8/live/736361a0-d6df-11f1-b2be-0146bf989691.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-2.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cm1580x0ekjeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe01/live/c8e4b490-b1b3-11f1-bdcf-d393eb724fa3.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-04T16:34:21.408409+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "بی بی سی اُردو اب موبائل ایپ پر بھی دستیاب",
-      "text": "🔴 بی بی سی اُردو اب موبائل ایپ پر بھی دستیاب\n\nبی بی سی اُردو کا تمام مواد BBC World Service کی نئی ایپ پر دستیاب ہو گا جسے آپ اپنے موبائل فون یا ٹیبلٹ کی مناسبت سے ایپ سٹور یا گوگل پلے سے ڈاؤن لوڈ کر سکتے ہیں۔\n\nبشکریہ: بی بی سی اردو\n#ٹیکنالوجی #سائنس",
+      "hook": "ایپ ڈاؤن لوڈ کریں",
+      "text": "🔴 ایپ ڈاؤن لوڈ کریں\n\nبی بی سی اُردونے اپنی نئی ایپ لانچ کر دی ہے، جس کے ذریعے اب صارفین اپنی دلچسپی کی تمام علاقائی و عالمی خبریں، تجزیے اور معلومات براہ راست اپنے موبائل فون یا ٹیبلٹ پر حاصل کر سکیں گے۔\n\nبشکریہ: بی بی سی اردو\n#ٹیکنالوجی #سائنس",
       "source_name": "بی بی سی اردو",
       "source_url": "https://www.bbc.com/urdu/articles/cmgrvzx905wro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3be0/live/956bd7d0-d759-11f1-a701-fddedf244c16.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-3.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8472/live/8a798890-d82b-11f1-a701-fddedf244c16.png",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-04T19:49:05.385228+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "محمد عامر سمیت کون سے بڑے کھلاڑی افغانستان پریمیئر لیگ کھیلیں گے؟",
-      "text": "🔴 محمد عامر سمیت کون سے بڑے کھلاڑی افغانستان پریمیئر لیگ کھیلیں گے؟\n\nمحمد عامر کے علاوہ کوئی بھی سابق یا موجودہ پاکستانی کرکٹر افغانستان پریمیئر لیگ کے ڈرافٹ میں پِک نہیں کیا گیا۔\n\nبشکریہ: بی بی سی اردو\n#کرکٹ #پاکستان_اسپورٹس",
+      "hook": "ایشیا کپ ’رائزنگ سٹارز‘ میں پاکستان اور انڈیا کی ٹیموں پر بحث: ’یہ ابھرتے ہوئے کھلاڑی نہیں‘",
+      "text": "🔴 ایشیا کپ ’رائزنگ سٹارز‘ میں پاکستان اور انڈیا کی ٹیموں پر بحث: ’یہ ابھرتے ہوئے کھلاڑی نہیں\n\nمگر بہت سے شائقین کی رائے میں بہت سے کھلاڑی پہلے سے بین الاقوامی مقابلوں میں حصہ لے چکے ہیں۔\n\nبشکریہ: بی بی سی اردو\n#کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c5zjxll0v80wo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd66/live/9fc880a0-d7a1-11f1-93e1-3b657b665bcf.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-4.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cw77p01rrgnyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e1a/live/0b0e0340-d85a-11f1-94f3-cf7d1e52bb8c.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-04T20:28:16.475172+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "ایران کے سرکاری ٹی وی پر شہریوں کے لیے جوہری حملے اور تابکاری سے بچاؤ کی ہدایات کیوں نشر ہوئیں؟",
-      "text": "🔴 ایران کے سرکاری ٹی وی پر شہریوں کے لیے جوہری حملے اور تابکاری سے بچاؤ کی ہدایات کیوں نشر ہوئیں؟\n\nایران میں حکام نے جوہری حملے کی صورت میں اختیار کیے جانے والے ہنگامی اقدامات کی ہدایات جاری کی ہیں۔\n\nبشکریہ: بی بی سی اردو\n#خصوصی_رپورٹ #پاکستان",
+      "hook": "حوثیوں کا ریاض ایئرپورٹ پر بیلسٹک میزائل حملے کا دعویٰ: ایران پر نئے حملے کے نتائج زیادہ سنگین ہوں گے، اسماعیل بقائی",
+      "text": "🔴 ایران پر نئے حملے کے نتائج زیادہ سنگین ہوں گے، اسماعیل بقائی\n\nبشکریہ: بی بی سی اردو\n#خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cqdr8v4y5g62o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0533/live/6dbe4860-d792-11f1-801d-cf196dc7232c.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-5.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/c6d098zgmdnlt?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f296/live/8c4f6c50-d873-11f1-a364-a1fce50dd192.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-04T23:52:30.670163+05:00"
+      "status": "ready"
     },
     {
       "id": "post-6",
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "امریکی انتخابات میں ڈیموکریٹس نے ایوانِ نمائندگان کا کنٹرول حاصل کر لیا: ’اگر میرا نام بیلٹ پیپر پر ہوتا تو ہم بھاری اکثریت سے جیت جاتے‘ ٹرمپ",
-      "text": "🔴 ’اگر میرا نام بیلٹ پیپر پر ہوتا تو ہم بھاری اکثریت سے جیت جاتے‘ ٹرمپ\n\nامریکہ کے وسط مدتی انتخابات میں ڈیموکریٹس کے لیے یہ رات تاریخی بنتی جا رہی ہے۔\n\nبشکریہ: بی بی سی اردو\n#عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "ایران کے خلاف جنگ سمیت وہ پانچ وجوہات جو ٹرمپ کی ریپبلکن پارٹی کی شکست کا باعث بنیں",
+      "text": "🔴 ایران کے خلاف جنگ سمیت وہ پانچ وجوہات جو ٹرمپ کی ریپبلکن پارٹی کی شکست کا باعث بنیں\n\nغصے سے بھرے ووٹرز سے لے کر ایک غیر مقبول صدر تک، یہ ہیں وہ پانچ وجوہات جن کی بنا پر ریپبلکنز نے اتنی زیادہ نشستیں گنوائیں۔\n\nبشکریہ: بی بی سی اردو\n#عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/cj5ynv75y6r4t?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf53/live/e8358450-d80a-11f1-915d-779ac405bbbc.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-6.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cr3wvjxg617go?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/85be/live/aeb97170-d853-11f1-94f3-cf7d1e52bb8c.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
         "#جغرافیائی_سیاست"
@@ -115,12 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "سکردو میں میاں بیوی اور دو کمسن بچوں کا قتل: ’کمرے کا دروازہ کھولا تو اندر کا منظر انتہائی ہولناک تھا‘",
-      "text": "🔴 سکردو میں میاں بیوی اور دو کمسن بچوں کا قتل: ’کمرے کا دروازہ کھولا تو اندر کا منظر انتہائی ہولناک تھا\n\nانتباہ: اس رپورٹ میں جرم اور قتل کی تفصیلات شامل ہیں جو قارئین کے لیے تکلیف کا باعث ہو سکتی ہیں۔\n\nبشکریہ: بی بی سی اردو\n#تاریخی_حقائق #مثبت_سوچ",
+      "hook": "غازان خان: ہلاکو خان کے پڑپوتے جنھوں نے اسلام قبول کر کے منگول سلطنت کی شناخت بدل دی",
+      "text": "🔴 غازان خان: ہلاکو خان کے پڑپوتے جنھوں نے اسلام قبول کر کے منگول سلطنت کی شناخت بدل دی\n\nوہ اس وقت خراسان کے گورنر اور منگول سلطنت کی ایرانی شاخ، ایلخانی سلطنت، کے تخت کے ایک طاقتور امیدوار تھے۔\n\nبشکریہ: بی بی سی اردو\n#تاریخی_حقائق #مثبت_سوچ",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmvg6z22g006o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/48b4/live/9c063030-d52a-11f1-97b1-4d6889870ee4.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-7.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cmkgk696xjdlo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e31d/live/f0e35fd0-d74e-11f1-89f4-913c83923775.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -128,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-04T09:50:00+05:00"
+  "email_sent_at": "2026-11-05T02:54:44.487739+05:00"
 }
