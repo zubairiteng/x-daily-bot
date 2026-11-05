@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,36 +8,34 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "’ہماری شکست کی وجہ جنگ تھی‘: امریکی وسط مدتی انتخابات میں ڈیموکریٹس کی تاریخی کامیابی پر وینس کا بیان",
-      "text": "🔴 ہماری شکست کی وجہ جنگ تھی‘: امریکی وسط مدتی انتخابات میں ڈیموکریٹس کی تاریخی کامیابی پر وینس کا بیان\n\nادھر وائٹ ہاؤس نے ایک بیان میں کہا کہ ’ٹرمپ اب بھی آپ کے صدر ہیں۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان #قومی_خبریں",
+      "hook": "تین ارب ڈالر کا سعودی قرض ’رول اوور‘: دوست ممالک کے ڈیپازٹس پاکستانی معیشت کا اہم جزو کیوں بن گئے؟",
+      "text": "🔴 دوست ممالک کے ڈیپازٹس پاکستانی معیشت کا اہم جزو کیوں بن گئے؟\n\nوزیر خزانہ نے پارلیمان میں میڈیا کو بتایا کہ سعودی عرب نے اس سال اپریل میں پاکستان کو دیے گئے تین ارب ڈالر کو رول اوور کر دیا ہے۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/cj5ynv75y6r4t?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb62/live/b1c89950-d86b-11f1-b441-2b33b063138f.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cky93zz5r90lo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99b8/live/99dc22f0-d909-11f1-b72c-d16cdc75f35f.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-05T15:58:33.025660+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "10 روپے کے نوٹ کی جگہ سکہ متعارف کرانے کا فیصلہ کیوں کیا گیا؟",
-      "text": "🔴 10 روپے کے نوٹ کی جگہ سکہ متعارف کرانے کا فیصلہ کیوں کیا گیا؟\n\nپاکستان کی وفاقی کابینہ نے وزارتِ خزانہ کی سفارش پر 10 روپے کے بینک نوٹ کی جگہ 10 روپے کا سکہ متعارف کرانے کی منظوری دے دی ہے۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان_معیشت #کاروبار",
+      "hook": "پانچ ارب ڈالر کی لاگت سے تیار ہونے والے انڈین بحریہ کے نئے جنگی جہازوں میں خاص کیا ہے؟",
+      "text": "🔴 پانچ ارب ڈالر کی لاگت سے تیار ہونے والے انڈین بحریہ کے نئے جنگی جہازوں میں خاص کیا ہے؟\n\nحکام کا کہنا ہے کہ یہ فیصلہ بحرِ ہند میں بڑھتے ہوئے سٹریٹیجک خطرات اور انڈین نیوی کو مزید مضبوط بنانے کے لیے کیا گیا ہے۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان_معیشت #کاروبار",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm1580x0ekjeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe01/live/c8e4b490-b1b3-11f1-bdcf-d393eb724fa3.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c6d93w18pwyxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/541c/live/a43ae560-d7e2-11f1-a3ee-4d8c3c01967a.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-05T20:49:13.448465+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
@@ -54,19 +52,18 @@
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-05T23:47:28.301655+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "ایشیا کپ ’رائزنگ سٹارز‘ میں پاکستان اور انڈیا کی ٹیموں پر بحث: ’یہ ابھرتے ہوئے کھلاڑی نہیں‘",
-      "text": "🔴 ایشیا کپ ’رائزنگ سٹارز‘ میں پاکستان اور انڈیا کی ٹیموں پر بحث: ’یہ ابھرتے ہوئے کھلاڑی نہیں\n\nمگر بہت سے شائقین کی رائے میں بہت سے کھلاڑی پہلے سے بین الاقوامی مقابلوں میں حصہ لے چکے ہیں۔\n\nبشکریہ: بی بی سی اردو\n#کرکٹ #پاکستان_اسپورٹس",
+      "hook": "سوات میں کشتی ڈوبنے کے واقعے میں سابق فوجی افسر کی لاپتہ بیٹی کی لاش بھی چار ماہ بعد برآمد: ’شناخت ٹوٹے دانت سے ہوئی‘",
+      "text": "🔴 سوات میں کشتی ڈوبنے کے واقعے میں سابق فوجی افسر کی لاپتہ بیٹی کی لاش بھی چار ماہ بعد برآمد\n\nبشکریہ: بی بی سی اردو\n#کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cw77p01rrgnyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e1a/live/0b0e0340-d85a-11f1-94f3-cf7d1e52bb8c.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c4gyd5jgze0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67a5/live/4a270740-76a1-11f1-b976-0b9c15b0ccfc.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
@@ -79,11 +76,11 @@
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "حوثیوں کا ریاض ایئرپورٹ پر بیلسٹک میزائل حملے کا دعویٰ: ایران پر نئے حملے کے نتائج زیادہ سنگین ہوں گے، اسماعیل بقائی",
-      "text": "🔴 ایران پر نئے حملے کے نتائج زیادہ سنگین ہوں گے، اسماعیل بقائی\n\nبشکریہ: بی بی سی اردو\n#خصوصی_رپورٹ #پاکستان",
+      "hook": "راولا کوٹ میں سکیورٹی فورسز کا ایکشن کمیٹی کے مظاہرین کے خلاف آپریشن، دو طرفہ فائرنگ اور جانی نقصان کے دعوے",
+      "text": "🔴 راولا کوٹ میں سکیورٹی فورسز کا ایکشن کمیٹی کے مظاہرین کے خلاف آپریشن، دو طرفہ فائرنگ اور جانی نقصان کے دعوے\n\nبشکریہ: بی بی سی اردو\n#خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/c6d098zgmdnlt?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f296/live/8c4f6c50-d873-11f1-a364-a1fce50dd192.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c9146d6z5e0vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3527/live/fff3b870-d911-11f1-a81d-35e942472442.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
@@ -96,11 +93,11 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "ایران کے خلاف جنگ سمیت وہ پانچ وجوہات جو ٹرمپ کی ریپبلکن پارٹی کی شکست کا باعث بنیں",
-      "text": "🔴 ایران کے خلاف جنگ سمیت وہ پانچ وجوہات جو ٹرمپ کی ریپبلکن پارٹی کی شکست کا باعث بنیں\n\nغصے سے بھرے ووٹرز سے لے کر ایک غیر مقبول صدر تک، یہ ہیں وہ پانچ وجوہات جن کی بنا پر ریپبلکنز نے اتنی زیادہ نشستیں گنوائیں۔\n\nبشکریہ: بی بی سی اردو\n#عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "علمِ جفر و رمل: ایران میں اقتدار کے اعلیٰ ایوانوں تک پہنچنے والے پُراسرار علوم کی کہانیاں",
+      "text": "🔴 ایران میں اقتدار کے اعلیٰ ایوانوں تک پہنچنے والے پُراسرار علوم کی کہانیاں\n\nبرسوں قبل یہ ملاقات حیدر مصلحی اور اُس وقت کے صدر محمود احمدی نژاد کے قریبی ساتھی اسفندیار رحیم مشائی کے درمیان ہوئی تھی۔\n\nبشکریہ: بی بی سی اردو\n#عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cr3wvjxg617go?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/85be/live/aeb97170-d853-11f1-94f3-cf7d1e52bb8c.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c64g1vkk453eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b58d/live/2ad80ce0-cc78-11f1-bc2e-018d645d8d21.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -113,11 +110,11 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "غازان خان: ہلاکو خان کے پڑپوتے جنھوں نے اسلام قبول کر کے منگول سلطنت کی شناخت بدل دی",
-      "text": "🔴 غازان خان: ہلاکو خان کے پڑپوتے جنھوں نے اسلام قبول کر کے منگول سلطنت کی شناخت بدل دی\n\nوہ اس وقت خراسان کے گورنر اور منگول سلطنت کی ایرانی شاخ، ایلخانی سلطنت، کے تخت کے ایک طاقتور امیدوار تھے۔\n\nبشکریہ: بی بی سی اردو\n#تاریخی_حقائق #مثبت_سوچ",
+      "hook": "ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم جو پیٹرول پمپ کی سی سی ٹی وی فوٹیج سے پکڑا گیا",
+      "text": "🔴 ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم جو پیٹرول پمپ کی سی سی ٹی وی فوٹیج سے پکڑا گیا\n\nنوٹ: اس تحریر میں موجود چند تفصیلات کچھ قارئین کے لیے پریشان کن ہو سکتی ہیں۔\n\nبشکریہ: بی بی سی اردو\n#تاریخی_حقائق #مثبت_سوچ",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmkgk696xjdlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e31d/live/f0e35fd0-d74e-11f1-89f4-913c83923775.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cx240j8p0ym8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aebb/live/d2b21bb0-d8c9-11f1-a2a7-03373c220754.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
@@ -126,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-05T02:54:44.487739+05:00"
+  "email_sent_at": "2026-11-06T03:26:14.870219+05:00"
 }
