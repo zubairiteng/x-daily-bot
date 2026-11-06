@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,90 +8,85 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "تین ارب ڈالر کا سعودی قرض ’رول اوور‘: دوست ممالک کے ڈیپازٹس پاکستانی معیشت کا اہم جزو کیوں بن گئے؟",
-      "text": "🔴 دوست ممالک کے ڈیپازٹس پاکستانی معیشت کا اہم جزو کیوں بن گئے؟\n\nوزیر خزانہ نے پارلیمان میں میڈیا کو بتایا کہ سعودی عرب نے اس سال اپریل میں پاکستان کو دیے گئے تین ارب ڈالر کو رول اوور کر دیا ہے۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان #قومی_خبریں",
+      "hook": "اگر میں ایران کو جوہری ہتھیار حاصل کرنے سے نہ روکتا تو آج اسرائیل اور پورا مشرق وسطیٰ موجود نہ ہوتا: ٹرمپ",
+      "text": "🔴 اگر میں ایران کو جوہری ہتھیار حاصل کرنے سے نہ روکتا تو آج اسرائیل اور پورا مشرق وسطیٰ موجود نہ ہوتا\n\nبشکریہ: بی بی سی اردو\n#پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cky93zz5r90lo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99b8/live/99dc22f0-d909-11f1-b72c-d16cdc75f35f.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/cvj6jj726r3kt?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ab/live/f64f6800-da1a-11f1-bba7-b50f1faa7672.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T12:56:57.346819+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "پانچ ارب ڈالر کی لاگت سے تیار ہونے والے انڈین بحریہ کے نئے جنگی جہازوں میں خاص کیا ہے؟",
-      "text": "🔴 پانچ ارب ڈالر کی لاگت سے تیار ہونے والے انڈین بحریہ کے نئے جنگی جہازوں میں خاص کیا ہے؟\n\nحکام کا کہنا ہے کہ یہ فیصلہ بحرِ ہند میں بڑھتے ہوئے سٹریٹیجک خطرات اور انڈین نیوی کو مزید مضبوط بنانے کے لیے کیا گیا ہے۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان_معیشت #کاروبار",
+      "hook": "الرجی کی دوا سے اندام نہانی تنگ کرنے اور جنسی لذت بڑھانے کے وائرل رجحان پر ماہرین کا انتباہ",
+      "text": "🔴 الرجی کی دوا سے اندام نہانی تنگ کرنے اور جنسی لذت بڑھانے کے وائرل رجحان پر ماہرین کا انتباہ\n\nبشکریہ: بی بی سی اردو\n#پاکستان_معیشت #کاروبار",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c6d93w18pwyxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/541c/live/a43ae560-d7e2-11f1-a3ee-4d8c3c01967a.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/ckly0jydl9qzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb55/live/aa4d8a80-d9c1-11f1-a00c-673f8daaffd9.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T16:28:52.513614+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "ایپ ڈاؤن لوڈ کریں",
-      "text": "🔴 ایپ ڈاؤن لوڈ کریں\n\nبی بی سی اُردونے اپنی نئی ایپ لانچ کر دی ہے، جس کے ذریعے اب صارفین اپنی دلچسپی کی تمام علاقائی و عالمی خبریں، تجزیے اور معلومات براہ راست اپنے موبائل فون یا ٹیبلٹ پر حاصل کر سکیں گے۔\n\nبشکریہ: بی بی سی اردو\n#ٹیکنالوجی #سائنس",
+      "hook": "کیا 13 نومبر 2026 کو دنیا ختم ہو جائے گی؟ پرانی پیش گوئی ایک بار پھر زیرِ بحث کیوں؟",
+      "text": "🔴 کیا 13 نومبر 2026 کو دنیا ختم ہو جائے گی؟ پرانی پیش گوئی ایک بار پھر زیرِ بحث کیوں؟\n\nاس تاریخ کے قریب آتے ہی سوشل میڈیا اور بعض میڈیا اداروں میں ایک بار پھر ’دنیا کے خاتمے‘ سے متعلق دعوے گردش کر رہے ہیں۔\n\nبشکریہ: بی بی سی اردو\n#ٹیکنالوجی #سائنس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmgrvzx905wro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8472/live/8a798890-d82b-11f1-a701-fddedf244c16.png",
+      "source_url": "https://www.bbc.com/urdu/articles/crd6dd262qgeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/063d/live/feefdfc0-d98f-11f1-af00-c5e948d58280.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T19:49:05.499467+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "سوات میں کشتی ڈوبنے کے واقعے میں سابق فوجی افسر کی لاپتہ بیٹی کی لاش بھی چار ماہ بعد برآمد: ’شناخت ٹوٹے دانت سے ہوئی‘",
-      "text": "🔴 سوات میں کشتی ڈوبنے کے واقعے میں سابق فوجی افسر کی لاپتہ بیٹی کی لاش بھی چار ماہ بعد برآمد\n\nبشکریہ: بی بی سی اردو\n#کرکٹ #پاکستان_اسپورٹس",
+      "hook": "پاکستانی ڈراموں کے پیچیدہ کردار: ’پہلے بھی ہیرو سگریٹ کا کش ہیروئن پر پھونکتا تھا، تو ہم کہتے تھے کتنا رومینٹک ہے‘",
+      "text": "🔴 پاکستانی ڈراموں کے پیچیدہ کردار: ’پہلے بھی ہیرو سگریٹ کا کش ہیروئن پر پھونکتا تھا، تو ہم کہتے تھے کتنا رومینٹک ہے\n\nان کی تہہ دار شخصیت کے کئی پہلو ہیں جو بلیک اور وائٹ سے ہٹ کر گرے کہلائے جا سکتے ہیں۔\n\nبشکریہ: بی بی سی اردو\n#کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c4gyd5jgze0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67a5/live/4a270740-76a1-11f1-b976-0b9c15b0ccfc.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c98rz86g32kgo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c12d/live/28287660-d501-11f1-afe6-8bc2333ca593.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T20:49:04.732677+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "راولا کوٹ میں سکیورٹی فورسز کا ایکشن کمیٹی کے مظاہرین کے خلاف آپریشن، دو طرفہ فائرنگ اور جانی نقصان کے دعوے",
-      "text": "🔴 راولا کوٹ میں سکیورٹی فورسز کا ایکشن کمیٹی کے مظاہرین کے خلاف آپریشن، دو طرفہ فائرنگ اور جانی نقصان کے دعوے\n\nبشکریہ: بی بی سی اردو\n#خصوصی_رپورٹ #پاکستان",
+      "hook": "اسعد محمود کی نیب طلبی: حکومت اور مولانا فضل الرحمان کے درمیان اختلافات شدت کیوں اختیار کر گئے؟",
+      "text": "🔴 اسعد محمود کی نیب طلبی: حکومت اور مولانا فضل الرحمان کے درمیان اختلافات شدت کیوں اختیار کر گئے؟\n\nدوسری جانب وفاقی وزرا بھی مولانا کے خلاف سخت زبان استعمال کر رہے ہیں۔\n\nبشکریہ: بی بی سی اردو\n#خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c9146d6z5e0vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3527/live/fff3b870-d911-11f1-a81d-35e942472442.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cj75p054vlzyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1db4/live/d3333bb0-d94f-11f1-b2ee-87d22b17ac74.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T20:56:42.337321+05:00"
+      "status": "ready"
     },
     {
       "id": "post-6",
@@ -108,19 +103,18 @@
         "#عالمی_خبریں",
         "#جغرافیائی_سیاست"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T23:27:42.020331+05:00"
+      "status": "ready"
     },
     {
       "id": "post-7",
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم جو پیٹرول پمپ کی سی سی ٹی وی فوٹیج سے پکڑا گیا",
-      "text": "🔴 ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم جو پیٹرول پمپ کی سی سی ٹی وی فوٹیج سے پکڑا گیا\n\nنوٹ: اس تحریر میں موجود چند تفصیلات کچھ قارئین کے لیے پریشان کن ہو سکتی ہیں۔\n\nبشکریہ: بی بی سی اردو\n#تاریخی_حقائق #مثبت_سوچ",
+      "hook": "ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم ’پولیس مقابلے میں‘ ہلاک",
+      "text": "🔴 ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم ’پولیس مقابلے میں‘ ہلاک\n\nنوٹ: اس تحریر میں موجود چند تفصیلات کچھ قارئین کے لیے پریشان کن ہو سکتی ہیں۔\n\nبشکریہ: بی بی سی اردو\n#تاریخی_حقائق #مثبت_سوچ",
       "source_name": "بی بی سی اردو",
       "source_url": "https://www.bbc.com/urdu/articles/cx240j8p0ym8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aebb/live/d2b21bb0-d8c9-11f1-a2a7-03373c220754.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4b5/live/7cb16ab0-d9c6-11f1-a00c-673f8daaffd9.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
@@ -129,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-06T03:26:14.870219+05:00"
+  "email_sent_at": "2026-11-07T02:30:42.529880+05:00"
 }
