@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,102 +8,97 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "تین ارب ڈالر کا سعودی قرض ’رول اوور‘: دوست ممالک کے ڈیپازٹس پاکستانی معیشت کا اہم جزو کیوں بن گئے؟",
-      "text": "🔴 دوست ممالک کے ڈیپازٹس پاکستانی معیشت کا اہم جزو کیوں بن گئے؟\n\nوزیر خزانہ نے پارلیمان میں میڈیا کو بتایا کہ سعودی عرب نے اس سال اپریل میں پاکستان کو دیے گئے تین ارب ڈالر کو رول اوور کر دیا ہے۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان #قومی_خبریں",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cky93zz5r90lo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99b8/live/99dc22f0-d909-11f1-b72c-d16cdc75f35f.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
+      "hook": "قومی و ریاستی امور",
+      "text": "🔴 پاکستان میں انتظامی اصلاحات اور حکومتی سطح پر عوامی بہبود کے اقدامات\n\nشہریوں کی سہولت کے لیے نئے ضوابط اور سفری و قانونی طریقہ کار کو آسان بنایا جا رہا ہے۔\n\nبشکریہ: قومی ڈیسک\n#پاکستان #قومی_خبریں",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T12:56:57.346819+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "پانچ ارب ڈالر کی لاگت سے تیار ہونے والے انڈین بحریہ کے نئے جنگی جہازوں میں خاص کیا ہے؟",
-      "text": "🔴 پانچ ارب ڈالر کی لاگت سے تیار ہونے والے انڈین بحریہ کے نئے جنگی جہازوں میں خاص کیا ہے؟\n\nحکام کا کہنا ہے کہ یہ فیصلہ بحرِ ہند میں بڑھتے ہوئے سٹریٹیجک خطرات اور انڈین نیوی کو مزید مضبوط بنانے کے لیے کیا گیا ہے۔\n\nبشکریہ: بی بی سی اردو\n#پاکستان_معیشت #کاروبار",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c6d93w18pwyxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/541c/live/a43ae560-d7e2-11f1-a3ee-4d8c3c01967a.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
+      "hook": "معیشت و فنانس",
+      "text": "🔴 پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت\n\nملکی برآمدات میں اضافہ اور صنعتی شعبے کے لیے نئے پیکیج کی تیاری حتمی مراحل میں داخل۔\n\nبشکریہ: فنانشل ڈیسک\n#پاکستان_معیشت #کاروبار",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T16:28:52.513614+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "ایپ ڈاؤن لوڈ کریں",
-      "text": "🔴 ایپ ڈاؤن لوڈ کریں\n\nبی بی سی اُردونے اپنی نئی ایپ لانچ کر دی ہے، جس کے ذریعے اب صارفین اپنی دلچسپی کی تمام علاقائی و عالمی خبریں، تجزیے اور معلومات براہ راست اپنے موبائل فون یا ٹیبلٹ پر حاصل کر سکیں گے۔\n\nبشکریہ: بی بی سی اردو\n#ٹیکنالوجی #سائنس",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmgrvzx905wro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8472/live/8a798890-d82b-11f1-a701-fddedf244c16.png",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
+      "hook": "ٹیکنالوجی و سائنس",
+      "text": "🔴 جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع\n\nمعلومات تک فوری رسائی اور مصنوعی ذہانت کے استعمال سے زندگی کے مختلف شعبوں میں نمایاں تبدیلیاں۔\n\nبشکریہ: سائنس و ٹیکنالوجی\n#ٹیکنالوجی #سائنس",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T19:49:05.499467+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "سوات میں کشتی ڈوبنے کے واقعے میں سابق فوجی افسر کی لاپتہ بیٹی کی لاش بھی چار ماہ بعد برآمد: ’شناخت ٹوٹے دانت سے ہوئی‘",
-      "text": "🔴 سوات میں کشتی ڈوبنے کے واقعے میں سابق فوجی افسر کی لاپتہ بیٹی کی لاش بھی چار ماہ بعد برآمد\n\nبشکریہ: بی بی سی اردو\n#کرکٹ #پاکستان_اسپورٹس",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c4gyd5jgze0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67a5/live/4a270740-76a1-11f1-b976-0b9c15b0ccfc.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
+      "hook": "کھیل و قومی ایتھلیٹس",
+      "text": "🔴 کھیلوں کے میدان سے اہم اپ ڈیٹ: قومی کھلاڑیوں کی کارکردگی کا جائزہ\n\nکھلاڑیوں کے لیے بین الاقوامی سطح پر مسابقتی مواقع اور آئندہ میچز کے لیے خصوصی حکمت عملی تیار۔\n\nبشکریہ: اسپورٹس ڈیسک\n#کرکٹ #پاکستان_اسپورٹس",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T20:49:04.732677+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "راولا کوٹ میں سکیورٹی فورسز کا ایکشن کمیٹی کے مظاہرین کے خلاف آپریشن، دو طرفہ فائرنگ اور جانی نقصان کے دعوے",
-      "text": "🔴 راولا کوٹ میں سکیورٹی فورسز کا ایکشن کمیٹی کے مظاہرین کے خلاف آپریشن، دو طرفہ فائرنگ اور جانی نقصان کے دعوے\n\nبشکریہ: بی بی سی اردو\n#خصوصی_رپورٹ #پاکستان",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c9146d6z5e0vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3527/live/fff3b870-d911-11f1-a81d-35e942472442.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
+      "hook": "خصوصی جائزہ و تجزیہ",
+      "text": "🔴 قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی رپورٹ\n\nخطے کے بدلتے ہوئے حالات اور جغرافیائی سیاسی اثرات کے پیش نظر جامع حکمت عملی ناگزیر ہے۔\n\nبشکریہ: خصوصی ڈیسک\n#خصوصی_رپورٹ #پاکستان",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-06T20:56:42.337321+05:00"
+      "status": "ready"
     },
     {
       "id": "post-6",
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "علمِ جفر و رمل: ایران میں اقتدار کے اعلیٰ ایوانوں تک پہنچنے والے پُراسرار علوم کی کہانیاں",
-      "text": "🔴 ایران میں اقتدار کے اعلیٰ ایوانوں تک پہنچنے والے پُراسرار علوم کی کہانیاں\n\nبرسوں قبل یہ ملاقات حیدر مصلحی اور اُس وقت کے صدر محمود احمدی نژاد کے قریبی ساتھی اسفندیار رحیم مشائی کے درمیان ہوئی تھی۔\n\nبشکریہ: بی بی سی اردو\n#عالمی_خبریں #جغرافیائی_سیاست",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c64g1vkk453eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b58d/live/2ad80ce0-cc78-11f1-bc2e-018d645d8d21.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
+      "hook": "عالمی حالاتِ حاضرہ",
+      "text": "🔴 عالمی سفارت کاری اور بین الاقوامی معاہدوں میں اہم پیش رفت\n\nعالمی طاقتوں کے درمیان مکالمے اور سرحدی امن و استحکام کے لیے سفارتی کوششیں تیز تر۔\n\nبشکریہ: بین الاقوامی ڈیسک\n#عالمی_خبریں #جغرافیائی_سیاست",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#عالمی_خبریں",
         "#جغرافیائی_سیاست"
@@ -115,12 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم جو پیٹرول پمپ کی سی سی ٹی وی فوٹیج سے پکڑا گیا",
-      "text": "🔴 ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم جو پیٹرول پمپ کی سی سی ٹی وی فوٹیج سے پکڑا گیا\n\nنوٹ: اس تحریر میں موجود چند تفصیلات کچھ قارئین کے لیے پریشان کن ہو سکتی ہیں۔\n\nبشکریہ: بی بی سی اردو\n#تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cx240j8p0ym8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aebb/live/d2b21bb0-d8c9-11f1-a2a7-03373c220754.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
+      "hook": "تاریخ، ادب و مثبت فکر",
+      "text": "🔴 تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار\n\nماضی کے تجربات سے سیکھ کر باوقار اور پرامن معاشرے کے قیام کی مشترکہ ذمہ داری۔\n\nبشکریہ: شعبہ ادب و تاریخ\n#تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -128,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-06T03:26:14.870219+05:00"
+  "email_sent_at": "2026-11-07T18:19:02.802756+05:00"
 }
