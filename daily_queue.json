@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,102 +8,97 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "ایران کے جوہری پروگرام سے متعلق معلومات دینے پر پر دو کروڑ ڈالر انعام کا اعلان: امریکہ اب اس پیشکش سے کیا حاصل کرنا چاہتا ہے؟",
-      "text": "🔴 ایران کے جوہری پروگرام سے متعلق معلومات دینے پر پر دو کروڑ ڈالر انعام کا اعلان\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "امریکی ووٹرز فیصلہ سنا چکے، اب وائٹ ہاؤس اپنی سمت کا تعین کرے: عباس عراقچی کی واشنگٹن کو تنبیہ",
+      "text": "🔴 امریکی ووٹرز فیصلہ سنا چکے، اب وائٹ ہاؤس اپنی سمت کا تعین کرے\n\nسماجی رابطے کی ویب سائٹ ایکس پر اپنے ایک بیان میں عباس عراقچی نے کہا کہ اگر امریکہ ایران کی شرائط پوری کرے، جن میں ’تمام۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm62ypn3npp2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-1.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/cvj6jj726r3kt?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6efb/live/d4d36f40-dba1-11f1-a701-fddedf244c16.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-08T11:35:51.925154+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "بلوچستان میں 20 کروڑ کی بینک ڈکیتی: یونیورسٹی طلبہ نے سکیورٹی فورسز کی وردیاں آن لائن منگوائیں",
-      "text": "🔴 بلوچستان میں 20 کروڑ کی بینک ڈکیتی\n\nپولیس حکام کے مطابق یہ کوئی معمول کی ڈکیتی نہیں تھی۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
+      "hook": "دو کروڑ ڈالر کا انعام اور دوسری جگہ منتقل کرنے کی پیشکش: امریکہ ایران کے جوہری پروگرام کے بارے میں اب اور کیا جاننا چاہتا ہے؟",
+      "text": "🔴 دو کروڑ ڈالر کا انعام اور دوسری جگہ منتقل کرنے کی پیشکش\n\nامریکہ نے ایران کے جوہری پروگرام سے متعلق معلومات فراہم کرنے والوں کے لیے دو کروڑ ڈالر تک انعام اور ممکنہ طور پر دوسرے ملک۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmlydd08j74eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1b7e/live/8434d700-da6a-11f1-b441-2b33b063138f.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-2.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cm62ypn3npp2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-08T11:37:58.356022+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "جدید ٹیکنالوجی سے مذہبی سوالات پر بحث: کیا مصنوعی ذہانت سے اسلامی جواب اور فتویٰ لیا جا سکتا ہے؟",
-      "text": "🔴 جدید ٹیکنالوجی سے مذہبی سوالات پر بحث\n\nگذشتہ چند ماہ کے دوران سوشل میڈیا پر مذہبی سوالات کے جواب دینے میں مصنوعی ذہانت کے کردار پر گرما گرم بحث جاری ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
+      "hook": "طاقِ کسریٰ سے متاثر ڈیزائن، جدید ٹیکنالوجی اور ’خدا کے معمار‘ کا خواب: دنیا کا بلند ترین چرچ کیسے تعمیر ہوا؟",
+      "text": "🔴 طاقِ کسریٰ سے متاثر ڈیزائن، جدید ٹیکنالوجی اور ’خدا کے معمار‘ کا خواب\n\nچند روز بعد اس نے غریبوں کے لیے مخصوص ایک ہسپتال میں دم توڑ دیا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cqg7xl898g9ro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1964/live/f430eb00-daad-11f1-b441-2b33b063138f.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-3.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cvlydx77lrg9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/0163/live/1fc93f00-d5dc-11f1-b441-2b33b063138f.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-08T15:19:05.532745+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "سری لنکا کے خلاف سیریز: پاکستان کے ٹیسٹ سکواڈ میں مزید تبدیلیاں، تین نئے چہرے ٹیم میں شامل",
-      "text": "🔴 پاکستان کے ٹیسٹ سکواڈ میں مزید تبدیلیاں، تین نئے چہرے ٹیم میں شامل\n\nپاکستان کرکٹ بورڈ (پی سی بی) نے سری لنکا کے خلاف ٹیسٹ سیریز کے لیے مزید چار کھلاڑیوں کو سکواڈ میں شامل کر لیا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "انڈیا کے خلاف سنچری بنانے والے حمزہ ظہور کا میچ سے قبل خود کو لکھا گیا پیغام وائرل",
+      "text": "🔴 انڈیا کے خلاف سنچری بنانے والے حمزہ ظہور کا میچ سے قبل خود کو لکھا گیا پیغام وائرل\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cq5yn918j8dno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/313b/live/4933cfa0-daa4-11f1-9da2-b11e4d68c08e.jpg",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-4.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/crd6d1z69wn8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1e62/live/3121e330-db7f-11f1-ab1c-6b6075dcdfe1.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-08T18:27:22.641964+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "آبنائے ہرمز اور بحیرۂ عمان میں پھر کشیدگی: سینٹکام کا کارگو جہاز پر حملہ، ایران کا دو آئل ٹینکروں کے بارودی سرنگوں سے ٹکراکر آگ لگنے کا دعویٰ",
-      "text": "🔴 آبنائے ہرمز اور بحیرۂ عمان میں پھر کشیدگی\n\nآبنائے ہرمز اور بحیرۂ عمان میں ایک مال بردار جہاز پر امریکی سینٹکام کی جانب سے حملہ اور آئی آر جی سی کی جانب سے دو آئل ٹینکروں کے بارودی۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "hook": "پاکستان میں نئی آٹو پالیسی: کن گاڑیوں کی قیمتوں میں لاکھوں روپے کی کمی ہو سکتی ہے؟",
+      "text": "🔴 پاکستان میں نئی آٹو پالیسی: کن گاڑیوں کی قیمتوں میں لاکھوں روپے کی کمی ہو سکتی ہے؟\n\nپاکستان میں نئی آٹو پالیسی کے اعلان نے اس شعبے میں ہلچل مچا دی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/cvj6jj726r3kt?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e636/live/8ac555d0-db24-11f1-a701-fddedf244c16.png",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-5.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c679p28dyr7lo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/4fc3/live/d0d79a10-db60-11f1-adda-c54f54e3ce6a.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-08T23:51:06.499434+05:00"
+      "status": "ready"
     },
     {
       "id": "post-6",
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "اسرائیل کے سابق آرمی چیف اور اپوزیشن رہنما گاڈی آئزن کوٹ نئی حکومت بنائیں گے: ’کوشش کروں گا کہ ہم اس ذمہ داری پر پورا اتریں‘",
-      "text": "🔴 اسرائیل کے سابق آرمی چیف اور اپوزیشن رہنما گاڈی آئزن کوٹ نئی حکومت بنائیں گے\n\nانھیں یہ ذمہ داری اسرائیل کے صدر آئزک ہرزوگ نےسونپی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "نجی ٹی وی کی اینکر ربیعہ احسن کے قتل کا مقدمہ شوہر کے خلاف درج، راولپنڈی پولیس کی مختلف پہلوؤں سے تفتیش",
+      "text": "🔴 نجی ٹی وی کی اینکر ربیعہ احسن کے قتل کا مقدمہ شوہر کے خلاف درج، راولپنڈی پولیس کی..\n\nدوسری جانب پولیس کی ابتدائی تحقیقات میں واقعے کے مختلف پہلو سامنے آئے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmzxjjq97jkno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/631c/live/68071fe0-d9c8-11f1-bb8e-efaa31738708.png",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-6.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cmlyl7zygz9ro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/3723/live/9c573c70-db77-11f1-b1f1-3be4e895d0fe.png",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
         "#جغرافیائی_سیاست"
@@ -115,12 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "پاکستانی مسافروں کیلئے بڑی خبر، یو اے ای پہنچنے پر طویل امیگریشن کارروائی سے چھٹکارا",
-      "text": "🔴 پاکستانی مسافروں کیلئے بڑی خبر، یو اے ای پہنچنے پر طویل امیگریشن کارروائی سے چھٹکارا\n\nمتحدہ عرب امارات اور پاکستان نے متحدہ عرب امارات (یو اے ای) جانے والے پاکستانی شہریوں کے لیے پری۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: ڈان نیوز | #تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "ڈان نیوز",
-      "source_url": "https://www.dawnnews.tv/news/1275084/",
-      "image_url": "https://i.dawn.com/large/2026/01/13125733d38128e.webp",
-      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-7.jpg",
+      "hook": "’عمارت پر میزائل کے ٹکڑے گرے اور شیشے بھی ٹوٹے‘: ریاض میں آرامکو ٹاور پر حملے کے دوران کیا ہوا؟",
+      "text": "🔴 عمارت پر میزائل کے ٹکڑے گرے اور شیشے بھی ٹوٹے‘\n\nسعودی عرب کے دارالحکومت ریاض میں اتوار کی صبح متعدد زور دار دھماکوں کی آوازیں سنی گئیں، جس کے بعد سعودی حکام نے اعلان کیا کہ فضائی۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/cxp8g02581p7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/f8c1/live/1ff20930-db6d-11f1-9379-091c174aa659.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -128,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-08T11:30:00+05:00"
+  "email_sent_at": "2026-11-09T00:08:11.248466+05:00"
 }
