@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,83 +8,46 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-<<<<<<< HEAD
-      "hook": "قومی و ریاستی امور",
-      "text": "🔴 پاکستان میں انتظامی اصلاحات اور حکومتی سطح پر عوامی بہبود کے اقدامات\n\nشہریوں کی سہولت کے لیے نئے ضوابط اور سفری و قانونی طریقہ کار کو آسان بنایا جا رہا ہے۔\n\nبشکریہ: قومی ڈیسک\n#پاکستان #قومی_خبریں",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
-=======
-      "hook": "اگر میں ایران کو جوہری ہتھیار حاصل کرنے سے نہ روکتا تو آج اسرائیل اور پورا مشرق وسطیٰ موجود نہ ہوتا: ٹرمپ",
-      "text": "🔴 اگر میں ایران کو جوہری ہتھیار حاصل کرنے سے نہ روکتا تو آج اسرائیل اور پورا مشرق وسطیٰ موجود نہ ہوتا\n\nبشکریہ: بی بی سی اردو\n#پاکستان #قومی_خبریں",
+      "hook": "ایران کے جوہری پروگرام سے متعلق معلومات دینے پر پر دو کروڑ ڈالر انعام کا اعلان: امریکہ اب اس پیشکش سے کیا حاصل کرنا چاہتا ہے؟",
+      "text": "🔴 ایران کے جوہری پروگرام سے متعلق معلومات دینے پر پر دو کروڑ ڈالر انعام کا اعلان\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/cvj6jj726r3kt?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ab/live/f64f6800-da1a-11f1-bba7-b50f1faa7672.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
->>>>>>> 784292b5141fc91db1cb89b0678a681bd9039216
+      "source_url": "https://www.bbc.com/urdu/articles/cm62ypn3npp2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-<<<<<<< HEAD
       "status": "ready"
-=======
-      "status": "posted",
-      "posted_at": "2026-11-07T13:50:00.958182+05:00"
->>>>>>> 784292b5141fc91db1cb89b0678a681bd9039216
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-<<<<<<< HEAD
-      "hook": "معیشت و فنانس",
-      "text": "🔴 پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت\n\nملکی برآمدات میں اضافہ اور صنعتی شعبے کے لیے نئے پیکیج کی تیاری حتمی مراحل میں داخل۔\n\nبشکریہ: فنانشل ڈیسک\n#پاکستان_معیشت #کاروبار",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
-=======
-      "hook": "الرجی کی دوا سے اندام نہانی تنگ کرنے اور جنسی لذت بڑھانے کے وائرل رجحان پر ماہرین کا انتباہ",
-      "text": "🔴 الرجی کی دوا سے اندام نہانی تنگ کرنے اور جنسی لذت بڑھانے کے وائرل رجحان پر ماہرین کا انتباہ\n\nبشکریہ: بی بی سی اردو\n#پاکستان_معیشت #کاروبار",
+      "hook": "بلوچستان میں 20 کروڑ کی بینک ڈکیتی: یونیورسٹی طلبہ نے سکیورٹی فورسز کی وردیاں آن لائن منگوائیں",
+      "text": "🔴 بلوچستان میں 20 کروڑ کی بینک ڈکیتی\n\nپولیس حکام کے مطابق یہ کوئی معمول کی ڈکیتی نہیں تھی۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/ckly0jydl9qzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb55/live/aa4d8a80-d9c1-11f1-a00c-673f8daaffd9.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
->>>>>>> 784292b5141fc91db1cb89b0678a681bd9039216
+      "source_url": "https://www.bbc.com/urdu/articles/cmlydd08j74eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1b7e/live/8434d700-da6a-11f1-b441-2b33b063138f.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-<<<<<<< HEAD
       "status": "ready"
-=======
-      "status": "posted",
-      "posted_at": "2026-11-07T15:40:47.751640+05:00"
->>>>>>> 784292b5141fc91db1cb89b0678a681bd9039216
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-<<<<<<< HEAD
-      "hook": "ٹیکنالوجی و سائنس",
-      "text": "🔴 جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع\n\nمعلومات تک فوری رسائی اور مصنوعی ذہانت کے استعمال سے زندگی کے مختلف شعبوں میں نمایاں تبدیلیاں۔\n\nبشکریہ: سائنس و ٹیکنالوجی\n#ٹیکنالوجی #سائنس",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
-=======
-      "hook": "کیا 13 نومبر 2026 کو دنیا ختم ہو جائے گی؟ پرانی پیش گوئی ایک بار پھر زیرِ بحث کیوں؟",
-      "text": "🔴 کیا 13 نومبر 2026 کو دنیا ختم ہو جائے گی؟ پرانی پیش گوئی ایک بار پھر زیرِ بحث کیوں؟\n\nاس تاریخ کے قریب آتے ہی سوشل میڈیا اور بعض میڈیا اداروں میں ایک بار پھر ’دنیا کے خاتمے‘ سے متعلق دعوے گردش کر رہے ہیں۔\n\nبشکریہ: بی بی سی اردو\n#ٹیکنالوجی #سائنس",
+      "hook": "جدید ٹیکنالوجی سے مذہبی سوالات پر بحث: کیا مصنوعی ذہانت سے اسلامی جواب اور فتویٰ لیا جا سکتا ہے؟",
+      "text": "🔴 جدید ٹیکنالوجی سے مذہبی سوالات پر بحث\n\nگذشتہ چند ماہ کے دوران سوشل میڈیا پر مذہبی سوالات کے جواب دینے میں مصنوعی ذہانت کے کردار پر گرما گرم بحث جاری ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/crd6dd262qgeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/063d/live/feefdfc0-d98f-11f1-af00-c5e948d58280.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
->>>>>>> 784292b5141fc91db1cb89b0678a681bd9039216
+      "source_url": "https://www.bbc.com/urdu/articles/cqg7xl898g9ro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1964/live/f430eb00-daad-11f1-b441-2b33b063138f.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
@@ -96,21 +59,12 @@
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-<<<<<<< HEAD
-      "hook": "کھیل و قومی ایتھلیٹس",
-      "text": "🔴 کھیلوں کے میدان سے اہم اپ ڈیٹ: قومی کھلاڑیوں کی کارکردگی کا جائزہ\n\nکھلاڑیوں کے لیے بین الاقوامی سطح پر مسابقتی مواقع اور آئندہ میچز کے لیے خصوصی حکمت عملی تیار۔\n\nبشکریہ: اسپورٹس ڈیسک\n#کرکٹ #پاکستان_اسپورٹس",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
-=======
-      "hook": "پاکستانی ڈراموں کے پیچیدہ کردار: ’پہلے بھی ہیرو سگریٹ کا کش ہیروئن پر پھونکتا تھا، تو ہم کہتے تھے کتنا رومینٹک ہے‘",
-      "text": "🔴 پاکستانی ڈراموں کے پیچیدہ کردار: ’پہلے بھی ہیرو سگریٹ کا کش ہیروئن پر پھونکتا تھا، تو ہم کہتے تھے کتنا رومینٹک ہے\n\nان کی تہہ دار شخصیت کے کئی پہلو ہیں جو بلیک اور وائٹ سے ہٹ کر گرے کہلائے جا سکتے ہیں۔\n\nبشکریہ: بی بی سی اردو\n#کرکٹ #پاکستان_اسپورٹس",
+      "hook": "سری لنکا کے خلاف سیریز: پاکستان کے ٹیسٹ سکواڈ میں مزید تبدیلیاں، تین نئے چہرے ٹیم میں شامل",
+      "text": "🔴 پاکستان کے ٹیسٹ سکواڈ میں مزید تبدیلیاں، تین نئے چہرے ٹیم میں شامل\n\nپاکستان کرکٹ بورڈ (پی سی بی) نے سری لنکا کے خلاف ٹیسٹ سیریز کے لیے مزید چار کھلاڑیوں کو سکواڈ میں شامل کر لیا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c98rz86g32kgo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c12d/live/28287660-d501-11f1-afe6-8bc2333ca593.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
->>>>>>> 784292b5141fc91db1cb89b0678a681bd9039216
+      "source_url": "https://www.bbc.com/urdu/articles/cq5yn918j8dno?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/313b/live/4933cfa0-daa4-11f1-9da2-b11e4d68c08e.jpg",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
@@ -122,21 +76,12 @@
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-<<<<<<< HEAD
-      "hook": "خصوصی جائزہ و تجزیہ",
-      "text": "🔴 قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی رپورٹ\n\nخطے کے بدلتے ہوئے حالات اور جغرافیائی سیاسی اثرات کے پیش نظر جامع حکمت عملی ناگزیر ہے۔\n\nبشکریہ: خصوصی ڈیسک\n#خصوصی_رپورٹ #پاکستان",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
-=======
-      "hook": "اسعد محمود کی نیب طلبی: حکومت اور مولانا فضل الرحمان کے درمیان اختلافات شدت کیوں اختیار کر گئے؟",
-      "text": "🔴 اسعد محمود کی نیب طلبی: حکومت اور مولانا فضل الرحمان کے درمیان اختلافات شدت کیوں اختیار کر گئے؟\n\nدوسری جانب وفاقی وزرا بھی مولانا کے خلاف سخت زبان استعمال کر رہے ہیں۔\n\nبشکریہ: بی بی سی اردو\n#خصوصی_رپورٹ #پاکستان",
+      "hook": "آبنائے ہرمز اور بحیرۂ عمان میں پھر کشیدگی: سینٹکام کا کارگو جہاز پر حملہ، ایران کا دو آئل ٹینکروں کے بارودی سرنگوں سے ٹکراکر آگ لگنے کا دعویٰ",
+      "text": "🔴 آبنائے ہرمز اور بحیرۂ عمان میں پھر کشیدگی\n\nآبنائے ہرمز اور بحیرۂ عمان میں ایک مال بردار جہاز پر امریکی سینٹکام کی جانب سے حملہ اور آئی آر جی سی کی جانب سے دو آئل ٹینکروں کے بارودی۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cj75p054vlzyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1db4/live/d3333bb0-d94f-11f1-b2ee-87d22b17ac74.png",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
->>>>>>> 784292b5141fc91db1cb89b0678a681bd9039216
+      "source_url": "https://www.bbc.co.uk/urdu/live/cvj6jj726r3kt?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e636/live/8ac555d0-db24-11f1-a701-fddedf244c16.png",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
@@ -148,12 +93,12 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "عالمی حالاتِ حاضرہ",
-      "text": "🔴 عالمی سفارت کاری اور بین الاقوامی معاہدوں میں اہم پیش رفت\n\nعالمی طاقتوں کے درمیان مکالمے اور سرحدی امن و استحکام کے لیے سفارتی کوششیں تیز تر۔\n\nبشکریہ: بین الاقوامی ڈیسک\n#عالمی_خبریں #جغرافیائی_سیاست",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "اسرائیل کے سابق آرمی چیف اور اپوزیشن رہنما گاڈی آئزن کوٹ نئی حکومت بنائیں گے: ’کوشش کروں گا کہ ہم اس ذمہ داری پر پورا اتریں‘",
+      "text": "🔴 اسرائیل کے سابق آرمی چیف اور اپوزیشن رہنما گاڈی آئزن کوٹ نئی حکومت بنائیں گے\n\nانھیں یہ ذمہ داری اسرائیل کے صدر آئزک ہرزوگ نےسونپی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/cmzxjjq97jkno?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/631c/live/68071fe0-d9c8-11f1-bb8e-efaa31738708.png",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
         "#جغرافیائی_سیاست"
@@ -165,21 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-<<<<<<< HEAD
-      "hook": "تاریخ، ادب و مثبت فکر",
-      "text": "🔴 تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار\n\nماضی کے تجربات سے سیکھ کر باوقار اور پرامن معاشرے کے قیام کی مشترکہ ذمہ داری۔\n\nبشکریہ: شعبہ ادب و تاریخ\n#تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
-=======
-      "hook": "ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم ’پولیس مقابلے میں‘ ہلاک",
-      "text": "🔴 ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم ’پولیس مقابلے میں‘ ہلاک\n\nنوٹ: اس تحریر میں موجود چند تفصیلات کچھ قارئین کے لیے پریشان کن ہو سکتی ہیں۔\n\nبشکریہ: بی بی سی اردو\n#تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cx240j8p0ym8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4b5/live/7cb16ab0-d9c6-11f1-a00c-673f8daaffd9.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
->>>>>>> 784292b5141fc91db1cb89b0678a681bd9039216
+      "hook": "پاکستانی مسافروں کیلئے بڑی خبر، یو اے ای پہنچنے پر طویل امیگریشن کارروائی سے چھٹکارا",
+      "text": "🔴 پاکستانی مسافروں کیلئے بڑی خبر، یو اے ای پہنچنے پر طویل امیگریشن کارروائی سے چھٹکارا\n\nمتحدہ عرب امارات اور پاکستان نے متحدہ عرب امارات (یو اے ای) جانے والے پاکستانی شہریوں کے لیے پری۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: ڈان نیوز | #تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "ڈان نیوز",
+      "source_url": "https://www.dawnnews.tv/news/1275084/",
+      "image_url": "https://i.dawn.com/large/2026/01/13125733d38128e.webp",
+      "image_path": "C:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -187,9 +123,5 @@
       "status": "ready"
     }
   ],
-<<<<<<< HEAD
-  "email_sent_at": "2026-11-07T18:19:02.802756+05:00"
-=======
-  "email_sent_at": "2026-11-07T02:30:42.529880+05:00"
->>>>>>> 784292b5141fc91db1cb89b0678a681bd9039216
+  "email_sent_at": "2026-11-08T11:30:00+05:00"
 }

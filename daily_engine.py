@@ -53,8 +53,12 @@ X_CT0 = os.getenv("X_CT0", "")
 
 def load_queue():
     if os.path.exists(QUEUE_FILE):
-        with open(QUEUE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+        try:
+            with open(QUEUE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[Queue Warning] Corrupted or invalid queue file detected ({e}). Rebuilding fresh queue...")
+            return {"date": "", "status": "draft", "posts": []}
     return {"date": "", "status": "draft", "posts": []}
 
 def save_queue(queue):
@@ -224,6 +228,10 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
                 print(f"[Playwright Verified] Toast: {toast.inner_text().strip()}")
 
             print("[Playwright SUCCESS] Tweet successfully published to X!")
+
+            # Algorithmic Growth: engage with community to trigger reciprocal likes & profile visits
+            engage_community_for_growth(page, max_likes=3)
+
             browser.close()
             return True
         except Exception as e:
@@ -240,6 +248,34 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
                 pass
 
     return False
+
+def engage_community_for_growth(page, max_likes=3):
+    """
+    Likes 2-3 top relevant Pakistani news/cricket community tweets to attract
+    inbound profile visits, likes, and followers to @Zubair05111485.
+    """
+    try:
+        import random
+        print("[Growth Engine] Running community engagement to drive inbound likes & followers...")
+        search_terms = ["Pakistan cricket lang:ur", "%23Pakistan lang:ur", "Babar Azam lang:ur", "%23Cricket lang:ur"]
+        query = random.choice(search_terms)
+        page.goto(f"https://x.com/search?q={query}&f=live", timeout=35000, wait_until="domcontentloaded")
+        time.sleep(5)
+        
+        like_buttons = page.query_selector_all('button[data-testid="like"]')
+        liked_count = 0
+        for btn in like_buttons:
+            if liked_count >= max_likes:
+                break
+            try:
+                page.evaluate("(b) => b.click()", btn)
+                liked_count += 1
+                time.sleep(2)
+            except Exception:
+                pass
+        print(f"[Growth Engine] Successfully engaged with {liked_count} community posts on X.")
+    except Exception as e:
+        print(f"[Growth Engine Warning] Community engagement skipped: {e}")
 
 def parse_slot_minutes(slot_str: str) -> int:
     """Parses '08:30 AM PKT' into minutes from midnight (0 to 1439)."""
