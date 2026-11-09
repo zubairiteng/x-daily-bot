@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,48 +8,46 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "امریکی ووٹرز فیصلہ سنا چکے، اب وائٹ ہاؤس اپنی سمت کا تعین کرے: عباس عراقچی کی واشنگٹن کو تنبیہ",
-      "text": "🔴 امریکی ووٹرز فیصلہ سنا چکے، اب وائٹ ہاؤس اپنی سمت کا تعین کرے\n\nسماجی رابطے کی ویب سائٹ ایکس پر اپنے ایک بیان میں عباس عراقچی نے کہا کہ اگر امریکہ ایران کی شرائط پوری کرے، جن میں ’تمام۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "واشنگٹن نے پالیسی نہ بدلی تو امریکہ اور اس کے اتحادیوں کو سنگین نتائج کا سامنا ہو سکتا ہے: قالیباف",
+      "text": "🔴 واشنگٹن نے پالیسی نہ بدلی تو امریکہ اور اس کے اتحادیوں کو سنگین نتائج کا سامنا ہو..\n\nایرانی پارلیمان کے سپیکر باقر قالیباف نے دعویٰ کیا ہے کہ ’اسرائیل امریکہ کو ایران کے ساتھ ایک طویل۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/cvj6jj726r3kt?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6efb/live/d4d36f40-dba1-11f1-a701-fddedf244c16.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/c617k47lrej7t?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/43a0/live/1a008ef0-dc73-11f1-92b6-7dd459918707.jpg",
+      "image_path": "c:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-09T16:36:11.038674+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "دو کروڑ ڈالر کا انعام اور دوسری جگہ منتقل کرنے کی پیشکش: امریکہ ایران کے جوہری پروگرام کے بارے میں اب اور کیا جاننا چاہتا ہے؟",
-      "text": "🔴 دو کروڑ ڈالر کا انعام اور دوسری جگہ منتقل کرنے کی پیشکش\n\nامریکہ نے ایران کے جوہری پروگرام سے متعلق معلومات فراہم کرنے والوں کے لیے دو کروڑ ڈالر تک انعام اور ممکنہ طور پر دوسرے ملک۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
+      "hook": "’75 ہزار ڈالر ماہانہ‘: کیا انڈیا نے ٹرمپ سے مودی کی تعریف کروانے کے پیسے ادا کیے؟",
+      "text": "🔴 75 ہزار ڈالر ماہانہ‘: کیا انڈیا نے ٹرمپ سے مودی کی تعریف کروانے کے پیسے ادا کیے؟\n\nاس رپورٹ کے بعد اپوزیشن رہنماؤں نے وزیرِ اعظم نریندر مودی کو تنقید کا نشانہ بنایا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm62ypn3npp2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cqkgjmpyj247o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/d5b2/live/152b1080-dc0f-11f1-9f85-c35529b8c4b9.jpg",
+      "image_path": "c:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-09T17:07:01.054040+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "طاقِ کسریٰ سے متاثر ڈیزائن، جدید ٹیکنالوجی اور ’خدا کے معمار‘ کا خواب: دنیا کا بلند ترین چرچ کیسے تعمیر ہوا؟",
-      "text": "🔴 طاقِ کسریٰ سے متاثر ڈیزائن، جدید ٹیکنالوجی اور ’خدا کے معمار‘ کا خواب\n\nچند روز بعد اس نے غریبوں کے لیے مخصوص ایک ہسپتال میں دم توڑ دیا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
+      "hook": "ایپ ڈاؤن لوڈ کریں",
+      "text": "🔴 ایپ ڈاؤن لوڈ کریں\n\nبی بی سی اُردو کا تمام مواد BBC World Service کی نئی ایپ پر دستیاب ہو گا جسے آپ اپنے موبائل فون یا ٹیبلٹ کی مناسبت سے ایپ سٹور یا گوگل پلے سے ڈاؤن لوڈ کر سکتے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cvlydx77lrg9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/0163/live/1fc93f00-d5dc-11f1-b441-2b33b063138f.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cmgrvzx905wro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/3be0/live/956bd7d0-d759-11f1-a701-fddedf244c16.jpg",
+      "image_path": "c:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
@@ -61,12 +59,12 @@
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "انڈیا کے خلاف سنچری بنانے والے حمزہ ظہور کا میچ سے قبل خود کو لکھا گیا پیغام وائرل",
-      "text": "🔴 انڈیا کے خلاف سنچری بنانے والے حمزہ ظہور کا میچ سے قبل خود کو لکھا گیا پیغام وائرل\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "’عمران خان بھی ایچیسن کالج سے تھے‘: راولپنڈی کی ’مشکل وکٹ‘ پر نوجوان بیٹرز کی نصف سنچریاں اور طیب عارف کی تعریفیں",
+      "text": "🔴 عمران خان بھی ایچیسن کالج سے تھے‘\n\nطیب عارف کی اننگز کی خاص بات اُن کا سٹرائیک ریٹ تھا، اُنھوں نے ایک چھکے اور نو چوکوں کی مدد سے 51 گیندوں پر 57 رنز بنائے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/crd6d1z69wn8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1e62/live/3121e330-db7f-11f1-ab1c-6b6075dcdfe1.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cqj9k917gjjlo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/e6ee/live/2f1ea7d0-dc3d-11f1-95cf-a38331e6cb4b.jpg",
+      "image_path": "c:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
@@ -78,12 +76,12 @@
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "پاکستان میں نئی آٹو پالیسی: کن گاڑیوں کی قیمتوں میں لاکھوں روپے کی کمی ہو سکتی ہے؟",
-      "text": "🔴 پاکستان میں نئی آٹو پالیسی: کن گاڑیوں کی قیمتوں میں لاکھوں روپے کی کمی ہو سکتی ہے؟\n\nپاکستان میں نئی آٹو پالیسی کے اعلان نے اس شعبے میں ہلچل مچا دی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "hook": "مہندی کی تقریب میں بھگدڑ مچنے سے ہلاک ہونے والے شہری کے اہلخانہ کو دھمکیاں دینے کے الزام میں ٹک ٹاکر ’مسٹر پتلو‘ گرفتار",
+      "text": "🔴 مہندی کی تقریب میں بھگدڑ مچنے سے ہلاک ہونے والے شہری کے اہلخانہ کو دھمکیاں دینے..\n\nپنجاب کے ضلع سیالکوٹ میں پولیس نے معروف ٹک ٹاکر انصر محمود عرف 'مسٹر پتلو' کو فراز گراؤنڈ میں گذشتہ۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c679p28dyr7lo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/4fc3/live/d0d79a10-db60-11f1-adda-c54f54e3ce6a.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/ckdd8l2vvpvyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/5ee1/live/ff079df0-dc36-11f1-95cf-a38331e6cb4b.jpg",
+      "image_path": "c:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
@@ -95,12 +93,12 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "نجی ٹی وی کی اینکر ربیعہ احسن کے قتل کا مقدمہ شوہر کے خلاف درج، راولپنڈی پولیس کی مختلف پہلوؤں سے تفتیش",
-      "text": "🔴 نجی ٹی وی کی اینکر ربیعہ احسن کے قتل کا مقدمہ شوہر کے خلاف درج، راولپنڈی پولیس کی..\n\nدوسری جانب پولیس کی ابتدائی تحقیقات میں واقعے کے مختلف پہلو سامنے آئے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "مبینہ چینی جاسوس سے تعلق اور بیوی سے ’بے وفائی‘ کا اعتراف، اینویڈیا کے سربراہ کے خلاف تحقیقات شروع",
+      "text": "🔴 مبینہ چینی جاسوس سے تعلق اور بیوی سے ’بے وفائی‘ کا اعتراف، اینویڈیا کے سربراہ کے..\n\nکمپنی نے مزید کہا کہ چیف ایگزیکٹو کمپنی کی قیادت جاری رکھنے کے لیے پُرعزم ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmlyl7zygz9ro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/3723/live/9c573c70-db77-11f1-b1f1-3be4e895d0fe.png",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/ck8dzvdm0y8vo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/5aa8/live/e1250da0-dc12-11f1-a631-078d47c5aafb.jpg",
+      "image_path": "c:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
         "#جغرافیائی_سیاست"
@@ -112,12 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "’عمارت پر میزائل کے ٹکڑے گرے اور شیشے بھی ٹوٹے‘: ریاض میں آرامکو ٹاور پر حملے کے دوران کیا ہوا؟",
-      "text": "🔴 عمارت پر میزائل کے ٹکڑے گرے اور شیشے بھی ٹوٹے‘\n\nسعودی عرب کے دارالحکومت ریاض میں اتوار کی صبح متعدد زور دار دھماکوں کی آوازیں سنی گئیں، جس کے بعد سعودی حکام نے اعلان کیا کہ فضائی۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
+      "hook": "اینکر ربیعہ احسن کے شوہر کا دو روزہ ریمانڈ منظور، اہل خانہ کا قتل کا مقدمہ واپس لینے کا فیصلہ",
+      "text": "🔴 اینکر ربیعہ احسن کے شوہر کا دو روزہ ریمانڈ منظور، اہل خانہ کا قتل کا مقدمہ واپس..\n\nتاہم دوسری طرف اہل خانہ نے شوہر کے خلاف قتل کا مقدمہ واپس لینے کا فیصلہ کیا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cxp8g02581p7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/f8c1/live/1ff20930-db6d-11f1-9379-091c174aa659.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cmlyl7zygz9ro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/b208/live/428c6180-dc1b-11f1-8244-051a160372a2.png",
+      "image_path": "c:\\Users\\DELL\\Desktop\\automation\\Xpost\\media_cache\\post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -125,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-09T00:08:11.248466+05:00"
+  "email_sent_at": "2026-11-10T01:08:41.323387+05:00"
 }
