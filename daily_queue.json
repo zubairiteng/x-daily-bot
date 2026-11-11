@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,36 +8,34 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "امریکی نائب صدر نے پیٹ ہیگسیتھ کے خلاف مواخذے کی کارروائی کو ’مضحکہ خیز‘ قرار دے دیا",
-      "text": "🔴 امریکی نائب صدر نے پیٹ ہیگسیتھ کے خلاف مواخذے کی کارروائی کو ’مضحکہ خیز‘ قرار دے دیا\n\nامریکہ میں ایران کے خلاف جنگ کے معاملے پر سیاسی کشیدگی بڑھ گئی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "کوہاٹ: سونے کی غیرقانونی مائننگ کے خلاف آپریشن کے دوران پولیس پر حملہ، ڈی ایس پی سمیت کم از کم 10 اہلکار ہلاک، متعدد زخمی",
+      "text": "🔴 کوہاٹ: سونے کی غیرقانونی مائننگ کے خلاف آپریشن کے دوران پولیس پر حملہ، ڈی ایس پی..\n\nپاکستان میں صوبہ خیبر پختونخوا کی کوہاٹ پولیس اور سرکاری ہسپتال کے سربراہ نے تصدیق کی ہے کہ دربوکچ۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/c617k47lrej7t?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/798d/live/4c0395d0-dd33-11f1-ab46-9fae224bbf6f.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c94gnvprmkxeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/caaa/live/9cbe2ce0-ddee-11f1-ba1a-f14c9b2af876.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-11T11:19:09.276604+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "بلوچستان میں 20 کروڑ کی بینک ڈکیتی: یونیورسٹی طلبہ کا منصوبہ جس میں سکیورٹی فورسز جیسی وردیاں استعمال ہوئیں",
-      "text": "🔴 بلوچستان میں 20 کروڑ کی بینک ڈکیتی\n\nپولیس حکام کے مطابق یہ کوئی معمول کی ڈکیتی نہیں تھی۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
+      "hook": "اسلام قبول کرنے والی خاتون کو نکاح کے پانچ دن بعد طلاق: ’فریبی شوہر نے یقین دلایا اسے مجھ سے محبت ہے‘",
+      "text": "🔴 اسلام قبول کرنے والی خاتون کو نکاح کے پانچ دن بعد طلاق\n\nاپنے نکاح کے صرف پانچ دن بعد جین کو ایک ایسا ٹیکسٹ میسج موصول ہوا، جس نے ان کی زندگی کو الٹ کر رکھ دیا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmlydd08j74eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1b7e/live/8434d700-da6a-11f1-b441-2b33b063138f.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/ck7825wqqjw3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/bf10/live/f5bb75b0-dce9-11f1-9ef0-4b5930e2f80e.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-11T12:01:54.932630+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
@@ -54,37 +52,35 @@
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-11T15:49:07.270945+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "راولپنڈی ٹیسٹ میں پاکستان کی پوزیشن مضبوط، نوجوان بولر ثاقب خان کی تعریفیں لیکن رفتار پر بحث",
-      "text": "🔴 راولپنڈی ٹیسٹ میں پاکستان کی پوزیشن مضبوط، نوجوان بولر ثاقب خان کی تعریفیں لیکن..\n\nدوسرے دن جب کھیل ختم ہوا تو سری لنکا نے تین وکٹوں کے نقصان پر 114 رنز بنا لیے تھے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "ڈی سلوا اور کشال مینڈس کی سنچریوں کی بدولت سری لنکا کی میچ میں واپسی: ’سعود شکیل کا کیچ ڈراپ کرنا پاکستان کو مہنگا پڑ گیا‘",
+      "text": "🔴 ڈی سلوا اور کشال مینڈس کی سنچریوں کی بدولت سری لنکا کی میچ میں واپسی\n\nپاکستان اور سری لنکا کے درمیان راولپنڈی میں کھیلے جا رہے ٹیسٹ میچ کے تیسرے روز سری لنکن بلے باز دھننجے ڈی سلوا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
       "source_url": "https://www.bbc.com/urdu/articles/cqj9k917gjjlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/6c8d/live/e708da70-dd08-11f1-97df-bd0937690c4d.jpg",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/412b/live/6a57e860-ddd3-11f1-9053-236ccb99630c.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-11T21:49:05.304096+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "تربیلا فائیو منصوبہ: ٹنل حادثے کے بعد چینی انجینئرز اور عملے کو کیسے نکالا گیا اور ’کوفر ڈیم‘ پر تشویش کیوں ہے؟",
-      "text": "🔴 تربیلا فائیو منصوبہ: ٹنل حادثے کے بعد چینی انجینئرز اور عملے کو کیسے نکالا گیا..\n\nپاکستان کے صوبہ خیبر پختونخوا میں واقع تربیلا ڈیم کے پانچویں توسیعی پن بجلی منصوبے (ٹی فائیو) میں نو۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "hook": "ایران سے مبینہ دھمکیوں کے بعد امریکی وزیرِ خزانہ سکاٹ بیسنٹ فوجی اڈے پر منتقل",
+      "text": "🔴 ایران سے مبینہ دھمکیوں کے بعد امریکی وزیرِ خزانہ سکاٹ بیسنٹ فوجی اڈے پر منتقل\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmp3g30y01qeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/6318/live/eb2099b0-dd15-11f1-b4f2-5145cca625ab.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/crq5vd2npv92t?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5298/live/ee483a70-de10-11f1-bb16-0faa4383125d.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
@@ -97,11 +93,11 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "وہ خاتون کون ہیں جنھیں امریکہ ’چین کی مبینہ جاسوس‘ قرار دیتا ہے؟",
-      "text": "🔴 وہ خاتون کون ہیں جنھیں امریکہ ’چین کی مبینہ جاسوس‘ قرار دیتا ہے؟\n\nمصنوعی ذہانت کی صنعت کی ایک معروف شخصیت پر الزام عائد کیا گیا ہے کہ ان کا ایک مبینہ چینی جاسوس کے ساتھ تعلق۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "نیویارک میں سکھ رہنما کے قتل کی مبینہ سازش: امریکی عدالت نے اجیت ڈوال اور را کے سابق سربراہ کو سمن بھیجنے کی منظوری دے دی",
+      "text": "🔴 نیویارک میں سکھ رہنما کے قتل کی مبینہ سازش\n\nیہ مقدمہ نیویارک میں پنوں کے مبینہ قتل کی سازش سے متعلق ہے، جسے انڈیا بے بنیاد قرار دیتے ہوئے مسترد کر چکا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c6z0v0jlj8zro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/9e96/live/93051780-dd2c-11f1-ab46-9fae224bbf6f.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cwm2jnkplyp4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/a18f/live/913410b0-dddf-11f1-93e1-3b657b665bcf.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -114,11 +110,11 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "سپین میں عوامی مقامات پر کِسنگ (بوسہ لینا) اتنی عام کیوں ہے؟",
-      "text": "🔴 سپین میں عوامی مقامات پر کِسنگ (بوسہ لینا) اتنی عام کیوں ہے؟\n\nسپین میں بوسے دیتے لوگ ہر جگہ دکھائی دیتے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
+      "hook": "منشیات فروش گینگ جو مہنگی گاڑیوں اور اپارٹمنٹس کا لالچ دے کر بچوں کو کرائے کے قاتل بنا رہے ہیں",
+      "text": "🔴 منشیات فروش گینگ جو مہنگی گاڑیوں اور اپارٹمنٹس کا لالچ دے کر بچوں کو کرائے کے..\n\nانتباہ: اس تحریر میں سخت زبان اور جنسی تشدد کی تفصیلات شامل ہیں جو بعض قارئین کے لیے تکلیف دہ ہو۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cj93z3k5kv0po?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/164b/live/e9999f10-dc66-11f1-8fe6-5becaee5408f.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cq9vzvvr3w74o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/a160/live/111155a0-dc27-11f1-b441-2b33b063138f.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
@@ -127,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-11T01:36:50.752427+05:00"
+  "email_sent_at": "2026-11-12T04:03:30.839513+05:00"
 }
