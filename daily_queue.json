@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,36 +8,34 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "کوہاٹ: سونے کی غیرقانونی مائننگ کے خلاف آپریشن کے دوران پولیس پر حملہ، ڈی ایس پی سمیت کم از کم 10 اہلکار ہلاک، متعدد زخمی",
-      "text": "🔴 کوہاٹ: سونے کی غیرقانونی مائننگ کے خلاف آپریشن کے دوران پولیس پر حملہ، ڈی ایس پی..\n\nپاکستان میں صوبہ خیبر پختونخوا کی کوہاٹ پولیس اور سرکاری ہسپتال کے سربراہ نے تصدیق کی ہے کہ دربوکچ۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "واشنگٹن میں فائرنگ کے واقعے میں ایک شخص ہلاک اور چار زخمی، پولیس کی مبینہ حملہ آور کی ہلاکت کی تصدیق",
+      "text": "🔴 واشنگٹن میں فائرنگ کے واقعے میں ایک شخص ہلاک اور چار زخمی، پولیس کی مبینہ حملہ..\n\nپولیس حکام نے مبینہ حملہ آور کی ہلاکت کی تصدیق کی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c94gnvprmkxeo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/caaa/live/9cbe2ce0-ddee-11f1-ba1a-f14c9b2af876.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/crq5vd2npv92t?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6dcb/live/ea629ec0-deb3-11f1-b441-2b33b063138f.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-12T12:49:07.670850+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "اسلام قبول کرنے والی خاتون کو نکاح کے پانچ دن بعد طلاق: ’فریبی شوہر نے یقین دلایا اسے مجھ سے محبت ہے‘",
-      "text": "🔴 اسلام قبول کرنے والی خاتون کو نکاح کے پانچ دن بعد طلاق\n\nاپنے نکاح کے صرف پانچ دن بعد جین کو ایک ایسا ٹیکسٹ میسج موصول ہوا، جس نے ان کی زندگی کو الٹ کر رکھ دیا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
+      "hook": "’تین کھرب ڈالر‘ کے معدنی ذخائر: افغانستان کے پہاڑوں میں چھپا خزانہ جو ملک کے معاشی مسائل حل کر سکتا ہے",
+      "text": "🔴 افغانستان کے پہاڑوں میں چھپا خزانہ جو ملک کے معاشی مسائل حل کر سکتا ہے\n\nافغانستان ایک طویل عرصے سے کمزور معیشت لیکن قدرتی وسائل سے مالا مال ملک کے طور پر جانا جاتا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/ck7825wqqjw3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/bf10/live/f5bb75b0-dce9-11f1-9ef0-4b5930e2f80e.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cq5y152gr45ko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1cef/live/4b1c7c90-de64-11f1-b3da-c3356daf5d67.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-12T13:19:06.660121+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
@@ -54,51 +52,48 @@
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-12T20:19:06.256196+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "ڈی سلوا اور کشال مینڈس کی سنچریوں کی بدولت سری لنکا کی میچ میں واپسی: ’سعود شکیل کا کیچ ڈراپ کرنا پاکستان کو مہنگا پڑ گیا‘",
-      "text": "🔴 ڈی سلوا اور کشال مینڈس کی سنچریوں کی بدولت سری لنکا کی میچ میں واپسی\n\nپاکستان اور سری لنکا کے درمیان راولپنڈی میں کھیلے جا رہے ٹیسٹ میچ کے تیسرے روز سری لنکن بلے باز دھننجے ڈی سلوا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "’15 دن پہلے شیراز کی شادی میں شرکت کی اور آج اُس کے جنازے میں اکھٹے ہیں‘",
+      "text": "🔴 15 دن پہلے شیراز کی شادی میں شرکت کی اور آج اُس کے جنازے میں اکھٹے ہیں\n\nاور یہ اس کا ہمارے لیے آخری سلام تھا اس کے بعد ہمارا رابطہ نہیں ہوا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cqj9k917gjjlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/412b/live/6a57e860-ddd3-11f1-9053-236ccb99630c.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c94gnvprmkxeo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/520d/live/46071ea0-deb3-11f1-8fb5-a771a656a227.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-12T20:49:06.671180+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "ایران سے مبینہ دھمکیوں کے بعد امریکی وزیرِ خزانہ سکاٹ بیسنٹ فوجی اڈے پر منتقل",
-      "text": "🔴 ایران سے مبینہ دھمکیوں کے بعد امریکی وزیرِ خزانہ سکاٹ بیسنٹ فوجی اڈے پر منتقل\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "hook": "لاہور میں ٹک ٹاک ویڈیو بنانے کے دوران شیر کا حملہ، نوجوان ہلاک",
+      "text": "🔴 لاہور میں ٹک ٹاک ویڈیو بنانے کے دوران شیر کا حملہ، نوجوان ہلاک\n\nطٰہٰ اس فارم ہاؤس پر ملازمت کرتے تھے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/crq5vd2npv92t?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5298/live/ee483a70-de10-11f1-bb16-0faa4383125d.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cmrlgrgxrk0yo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/72d9/live/8b666830-de8f-11f1-9afe-1f03bfe02283.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-12T21:19:04.952013+05:00"
+      "status": "ready"
     },
     {
       "id": "post-6",
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "نیویارک میں سکھ رہنما کے قتل کی مبینہ سازش: امریکی عدالت نے اجیت ڈوال اور را کے سابق سربراہ کو سمن بھیجنے کی منظوری دے دی",
+      "hook": "نیویارک میں سکھ رہنما کے قتل کی مبینہ سازش: امریکی عدالت نے اجیت ڈوول اور را کے سابق سربراہ کو سمن بھیجنے کی منظوری دے دی",
       "text": "🔴 نیویارک میں سکھ رہنما کے قتل کی مبینہ سازش\n\nیہ مقدمہ نیویارک میں پنوں کے مبینہ قتل کی سازش سے متعلق ہے، جسے انڈیا بے بنیاد قرار دیتے ہوئے مسترد کر چکا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
       "source_url": "https://www.bbc.com/urdu/articles/cwm2jnkplyp4o?at_medium=RSS&at_campaign=rss",
@@ -115,11 +110,11 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "منشیات فروش گینگ جو مہنگی گاڑیوں اور اپارٹمنٹس کا لالچ دے کر بچوں کو کرائے کے قاتل بنا رہے ہیں",
-      "text": "🔴 منشیات فروش گینگ جو مہنگی گاڑیوں اور اپارٹمنٹس کا لالچ دے کر بچوں کو کرائے کے..\n\nانتباہ: اس تحریر میں سخت زبان اور جنسی تشدد کی تفصیلات شامل ہیں جو بعض قارئین کے لیے تکلیف دہ ہو۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
+      "hook": "اٹلی کے ایک چھوٹے سے قصبے سے کانگریس کی قیادت تک: سونیا گاندھی کی زندگی کے نشیب و فراز کی کہانی",
+      "text": "🔴 اٹلی کے ایک چھوٹے سے قصبے سے کانگریس کی قیادت تک\n\nوہ نہانے ہی والی تھیں کہ انھوں نے باغ میں فائرنگ کی آواز سنی۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cq9vzvvr3w74o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/a160/live/111155a0-dc27-11f1-b441-2b33b063138f.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/ck5y13dy3vq0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1c4b/live/a6eba6a0-ddfa-11f1-93e1-3b657b665bcf.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
@@ -128,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-12T04:03:30.839513+05:00"
+  "email_sent_at": "2026-11-13T02:06:08.959675+05:00"
 }
