@@ -43,22 +43,9 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Cache Playwright Browsers
-        uses: actions/cache@v4
-        id: playwright-cache
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-browsers-${{ runner.os }}-v1
-
-      - name: Install Playwright Chromium
-        if: steps.playwright-cache.outputs.cache-hit != 'true'
+      - name: Install Playwright Chromium & Dependencies
         run: |
           python -m playwright install --with-deps chromium
-
-      - name: Install System Dependencies for Cached Chromium
-        if: steps.playwright-cache.outputs.cache-hit == 'true'
-        run: |
-          python -m playwright install-deps chromium
 
       - name: Run Autonomous Engine
         env:
