@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,18 +8,17 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "سب کو واضح ہونا چاہیے کہ پہلگام واقعے کے بعد ہم کہاں کھڑے ہیں",
-      "text": "🔴 سب کو واضح ہونا چاہیے کہ پہلگام واقعے کے بعد ہم کہاں کھڑے ہیں\n\n💬 اس قومی معاملے پر آپ کی کیا رائے ہے؟ کمنٹ میں آگاہ کریں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "ریڑھی سے بڑے شاپنگ مالز تک",
+      "text": "🔴 ریڑھی سے بڑے شاپنگ مالز تک\n\nیعنی 31 دسمبر تک تمام کاروباری مراکز اور تاجروں کو ڈیجیٹل ادائیگیوں کے نظام سے منسلک کرنے کا ہدف مقرر کیا گیا ہے۔\n\n💬 اس قومی معاملے پر آپ کی کیا رائے ہے؟ کمنٹ میں آگاہ کریں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cw8dzy3qr2p0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/472e/live/39f26e40-df6b-11f1-9892-87464bbcc2b8.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c9kgmn2kezv1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/3ec2/live/6546dda0-df8a-11f1-a5d4-0b20a170e974.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-14T12:00:23.362207+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
@@ -36,73 +35,69 @@
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-14T15:28:56.620899+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "چینی محققین کا برقی کنگھی کی مدد سے موروثی گنج پن کا مؤثر علاج دریافت",
-      "text": "🔴 چینی محققین کا برقی کنگھی کی مدد سے موروثی گنج پن کا مؤثر علاج دریافت\n\nچینی محققین نے ’ڈی ٹینگل‘ نامی ایک برقی کنگھی تیار کی ہے، دعوے کے مطابق یہ موروثی گنج پن کے علاج میں مدد دے سکتی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
+      "hook": "ای میل ٹریفک معمول پر واپس آ رہی ہے",
+      "text": "🔴 ای میل ٹریفک معمول پر واپس آ رہی ہے\n\nمائیکروسافٹ نے ’حوصلہ افزا پیش رفت‘ کی اطلاع دیتے ہوئے کہا کہ ای میل ٹریفک معمول کی سطح پر واپس آ رہی ہے۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cwx2emnggejpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/2d7a/live/1a8e65b0-df55-11f1-b8ca-0348146d1a32.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cmvg2l16kg40o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/61f0/live/5b0b0560-e015-11f1-b884-a9f52ca7a4b1.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-14T19:30:42.119899+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "کل کا بچہ اور ایسا رویہ: انڈیا کو ون ڈے کرکٹ میں دوسری بڑی شکست اور گرنور",
-      "text": "🔴 کل کا بچہ اور ایسا رویہ: انڈیا کو ون ڈے کرکٹ میں دوسری بڑی شکست اور گرنور\n\nیہ رنز کے اعتبار سے انڈیا کی ون ڈے کرکٹ تاریخ کی دوسری سب سے بڑی شکست ہے۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "ایشیا کپ فائنل: انڈیا انڈر 19 نے پاکستان کو آخری گیند پر شکست دے دی",
+      "text": "🔴 ایشیا کپ فائنل: انڈیا انڈر 19 نے پاکستان کو آخری گیند پر شکست دے دی\n\nانڈیا انڈر 19 کے لیے پاکستان کی جانب سے دیا جانے والا 338 رنز کا ہدف ایک طویل اور مشکل پہاڑ سر کرنے جیسا لگ رہا تھا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c699ev7rv5klo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/a7d4/live/d8745ae0-df5e-11f1-a8af-15d7a25dc0d1.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c69q8lvrg3j8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/7d15/live/2e2cdc60-e030-11f1-9ca9-b3b288fceb81.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-14T21:49:07.608687+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار",
-      "text": "🔴 ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار\n\nپاکستان کا کہنا ہے کہ اس نے امریکی صدر ٹرمپ کے خاندان سے وابستہ کرپٹو کمپنی ورلڈ لبرٹی فنانشل میں کوئی سرمایہ کاری نہیں کی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "hook": "ربیعہ احسن کے شوہر کے جسمانی ریمانڈ میں چار روز کی توسیع",
+      "text": "🔴 ربیعہ احسن کے شوہر کے جسمانی ریمانڈ میں چار روز کی توسیع\n\nسنیچر کے روز ملزم کو سینئر سول جج نصر اللہ وٹو کی عدالت میں پیش کیا گیا۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cqgm0mn9mkj2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/6794/live/3f291ee0-ddb3-11f1-90cd-85e940e3a009.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cmlyl7zygz9ro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/b208/live/428c6180-dc1b-11f1-8244-051a160372a2.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-14T22:10:04.406325+05:00"
+      "status": "ready"
     },
     {
       "id": "post-6",
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "آبنائے ہرمز کی ناکہ بندی روس اور ایران کے تعلقات کو کیسے متاثر کر رہی ہے؟",
-      "text": "🔴 آبنائے ہرمز کی ناکہ بندی روس اور ایران کے تعلقات کو کیسے متاثر کر رہی ہے؟\n\nامریکی دباؤ اور آبنائے ہرمز میں تجارتی رکاوٹوں نے روس اور ایران کے تعلقات کو مزید مضبوط بنا دیا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "ایران بحران پر سفارتی سرگرمیاں تیز: ٹرمپ، پوتن اور شی جن پنگ کی ملاقات طے",
+      "text": "🔴 ایران بحران پر سفارتی سرگرمیاں تیز: ٹرمپ، پوتن اور شی جن پنگ کی ملاقات طے\n\n💬 کیا یہ بین الاقوامی سفارتی پیش رفت خطے میں استحکام لا سکے گی؟ اپنی رائے دیں۔ 🔁 شیئر کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm9q8vv5jqqpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/4d06/live/62803a70-df04-11f1-9f71-7d0084202c8a.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/cwlyml8md7ept?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/bcf6/live/29ccbbc0-e01e-11f1-b441-2b33b063138f.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -115,12 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "دنیا میں وہ علاقے جو کسی ملک کی ملکیت نہیں",
-      "text": "🔴 دنیا میں وہ علاقے جو کسی ملک کی ملکیت نہیں\n\nایران کی جنگ اور آبنائے ہرمز کی خودمختاری پر جاری سمندری تنازع اس کی حالیہ مثالیں ہیں۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/ck7v26llen00o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/a176/live/3a149130-be7a-11f1-a64c-550be9e3c66b.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
+      "hook": "تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار",
+      "text": "🔴 تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار\n\nماضی کے تجربات سے سیکھ کر باوقار اور پرامن معاشرے کے قیام کی مشترکہ ذمہ داری ہم سب پر عائد ہوتی ہے۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -128,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-14T02:59:34.844159+05:00"
+  "email_sent_at": "2026-11-15T00:28:32.401250+05:00"
 }
