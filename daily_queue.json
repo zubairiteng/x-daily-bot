@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -18,44 +18,41 @@
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-15T10:29:40.684983+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "181 فٹ لمبی سرنگ اور دو کروڑ کا تیل",
-      "text": "🔴 181 فٹ لمبی سرنگ اور دو کروڑ کا تیل\n\nپولیس نے ایک گھر کے زیر زمین ٹینک سے چوری کیا گیا 1431 لیٹر کروڈ آئل برآمد کرنے کے علاوہ اس مبینہ واردات میں استعمال ہونے والے آلات بھی برآمد کیے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm782dv6z20wo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/eef4/live/5b2b5880-df6e-11f1-8112-6b9154c79b48.png",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
+      "hook": "پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت",
+      "text": "🔴 پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت\n\nملکی برآمدات میں اضافہ اور صنعتی شعبے کے لیے نئے معاشی اقدامات حتمی مراحل میں داخل ہو چکے ہیں۔\n\n💬 کیا اس معاشی پیش رفت سے عام آدمی کو ریلیف ملے گا؟ اپنی رائے دیں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #پاکستان_معیشت #کاروبار",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-15T11:49:05.467586+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "ای میل ٹریفک معمول پر واپس آ رہی ہے",
-      "text": "🔴 ای میل ٹریفک معمول پر واپس آ رہی ہے\n\nمائیکروسافٹ نے ’حوصلہ افزا پیش رفت‘ کی اطلاع دیتے ہوئے کہا کہ ای میل ٹریفک معمول کی سطح پر واپس آ رہی ہے۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmvg2l16kg40o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/61f0/live/5b0b0560-e015-11f1-b884-a9f52ca7a4b1.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
+      "hook": "جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع",
+      "text": "🔴 جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع\n\nمعلومات تک فوری رسائی اور جدید ٹیکنالوجی کے استعمال سے روزمرہ زندگی کے مختلف شعبوں میں انقلابی تبدیلیاں آ رہی ہیں۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #ٹیکنالوجی #سائنس",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-15T14:28:52.984590+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
@@ -72,37 +69,35 @@
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-15T22:13:18.657837+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "ربیعہ احسن کے شوہر کے جسمانی ریمانڈ میں چار روز کی توسیع",
-      "text": "🔴 ربیعہ احسن کے شوہر کے جسمانی ریمانڈ میں چار روز کی توسیع\n\nسنیچر کے روز ملزم کو سینئر سول جج نصر اللہ وٹو کی عدالت میں پیش کیا گیا۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "hook": "ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار",
+      "text": "🔴 ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار\n\nپاکستان کا کہنا ہے کہ اس نے امریکی صدر ٹرمپ کے خاندان سے وابستہ کرپٹو کمپنی ورلڈ لبرٹی فنانشل میں کوئی سرمایہ کاری نہیں کی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmlyl7zygz9ro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/b208/live/428c6180-dc1b-11f1-8244-051a160372a2.png",
+      "source_url": "https://www.bbc.com/urdu/articles/cqgm0mn9mkj2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/6794/live/3f291ee0-ddb3-11f1-90cd-85e940e3a009.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-15T22:58:56.668611+05:00"
+      "status": "ready"
     },
     {
       "id": "post-6",
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "ایران بحران پر سفارتی سرگرمیاں تیز: ٹرمپ، پوتن اور شی جن پنگ کی ملاقات طے",
-      "text": "🔴 ایران بحران پر سفارتی سرگرمیاں تیز: ٹرمپ، پوتن اور شی جن پنگ کی ملاقات طے\n\n💬 کیا یہ بین الاقوامی سفارتی پیش رفت خطے میں استحکام لا سکے گی؟ اپنی رائے دیں۔ 🔁 شیئر کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "ایران کا نیا میزائل سٹی: کون سے نئے میزائل دکھائے گئے ہیں اور دشمنوں",
+      "text": "🔴 ایران کا نیا میزائل سٹی: کون سے نئے میزائل دکھائے گئے ہیں اور دشمنوں\n\nتاہم یہ واضح نہیں کہ جنگ سے پہلے کے مقابلے میں ایران کی میزائل صلاحیت کس حد تک کمزور ہوئی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/cwlyml8md7ept?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/bcf6/live/29ccbbc0-e01e-11f1-b441-2b33b063138f.png",
+      "source_url": "https://www.bbc.com/urdu/articles/c6808lv1lxp2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/c463/live/d3cbc1f0-df80-11f1-b844-3146c4983677.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -128,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-15T00:28:32.401250+05:00"
+  "email_sent_at": "2026-11-16T02:53:11.616371+05:00"
 }
