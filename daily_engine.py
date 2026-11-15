@@ -230,7 +230,7 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
             print("[Playwright SUCCESS] Tweet successfully published to X!")
 
             # Algorithmic Growth: engage with community to trigger reciprocal likes & profile visits
-            engage_community_for_growth(page, max_likes=3)
+            engage_community_for_growth(page, max_likes=4, max_follows=2)
 
             browser.close()
             return True
@@ -249,19 +249,27 @@ def post_via_playwright(text: str, image_path: str = None) -> bool:
 
     return False
 
-def engage_community_for_growth(page, max_likes=3):
+def engage_community_for_growth(page, max_likes=4, max_follows=2):
     """
-    Likes 2-3 top relevant Pakistani news/cricket community tweets to attract
-    inbound profile visits, likes, and followers to @Zubair05111485.
+    Likes 3-4 top relevant Pakistani news/cricket community tweets and follows
+    1-2 active community commentators to trigger reciprocal profile visits,
+    likes, and followers to @Zubair05111485.
     """
     try:
         import random
         print("[Growth Engine] Running community engagement to drive inbound likes & followers...")
-        search_terms = ["Pakistan cricket lang:ur", "%23Pakistan lang:ur", "Babar Azam lang:ur", "%23Cricket lang:ur"]
+        search_terms = [
+            "Pakistan cricket lang:ur",
+            "%23Pakistan lang:ur",
+            "Babar Azam lang:ur",
+            "%23Cricket lang:ur",
+            "Pakistan news lang:ur"
+        ]
         query = random.choice(search_terms)
         page.goto(f"https://x.com/search?q={query}&f=live", timeout=35000, wait_until="domcontentloaded")
         time.sleep(5)
         
+        # 1. Like 3-4 active tweets
         like_buttons = page.query_selector_all('button[data-testid="like"]')
         liked_count = 0
         for btn in like_buttons:
@@ -274,6 +282,38 @@ def engage_community_for_growth(page, max_likes=3):
             except Exception:
                 pass
         print(f"[Growth Engine] Successfully engaged with {liked_count} community posts on X.")
+        
+        # 2. Follow 1-2 active targeted users in the Pakistani news/cricket space
+        tweets = page.query_selector_all('article[data-testid="tweet"]')
+        target_users = []
+        for tw in tweets:
+            if len(target_users) >= max_follows:
+                break
+            user_elem = tw.query_selector('div[data-testid="User-Name"] a[role="link"]')
+            if user_elem:
+                href = user_elem.get_attribute("href")
+                if href and href.startswith("/") and not any(bad in href.lower() for bad in ["home", "explore", "notifications", "messages", "i/"]):
+                    username = href.strip("/")
+                    if username.lower() not in ["zubair05111485", "geonews_urdu", "dawn_urdu", "therealpcb", "arynewsofficial"]:
+                        target_users.append(username)
+                        
+        followed_count = 0
+        for username in target_users:
+            if followed_count >= max_follows:
+                break
+            try:
+                page.goto(f"https://x.com/{username}", timeout=30000, wait_until="domcontentloaded")
+                time.sleep(3)
+                follow_btn = page.query_selector('button[data-testid$="-follow"]')
+                if follow_btn and follow_btn.inner_text().strip().lower() == "follow":
+                    page.evaluate("(b) => b.click()", follow_btn)
+                    followed_count += 1
+                    print(f"[Growth Engine] Followed active community member: @{username}")
+                    time.sleep(2)
+            except Exception as e:
+                print(f"[Growth Engine] Could not follow @{username}: {e}")
+                
+        print(f"[Growth Engine] Completed run with {liked_count} likes and {followed_count} new targeted follows.")
     except Exception as e:
         print(f"[Growth Engine Warning] Community engagement skipped: {e}")
 
