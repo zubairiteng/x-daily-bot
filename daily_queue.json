@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,36 +8,34 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "ریڑھی سے بڑے شاپنگ مالز تک",
-      "text": "🔴 ریڑھی سے بڑے شاپنگ مالز تک\n\nیعنی 31 دسمبر تک تمام کاروباری مراکز اور تاجروں کو ڈیجیٹل ادائیگیوں کے نظام سے منسلک کرنے کا ہدف مقرر کیا گیا ہے۔\n\n💬 اس قومی معاملے پر آپ کی کیا رائے ہے؟ کمنٹ میں آگاہ کریں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "محسن نقوی اورعباس عراقچی کی ملاقات میں علاقائی امن واستحکام کے لیے مشترکہ اقدامات پراتفاق",
+      "text": "🔴 محسن نقوی اورعباس عراقچی کی ملاقات میں علاقائی امن واستحکام کے لیے مشترکہ اقدامات پراتفاق\n\nایرانی وزیر خارجہ کا کہنا تھا کہ ’ایران پاکستان کے ساتھ اپنے تعلقات کو خصوصی اہمیت دیتا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c9kgmn2kezv1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/3ec2/live/6546dda0-df8a-11f1-a5d4-0b20a170e974.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/cmlyjkzxel2et?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a092/live/e3315de0-e1f0-11f1-a094-5fdc692f3e33.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-16T14:48:48.264344+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت",
-      "text": "🔴 پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت\n\nملکی برآمدات میں اضافہ اور صنعتی شعبے کے لیے نئے معاشی اقدامات حتمی مراحل میں داخل ہو چکے ہیں۔\n\n💬 کیا اس معاشی پیش رفت سے عام آدمی کو ریلیف ملے گا؟ اپنی رائے دیں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #پاکستان_معیشت #کاروبار",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "181 فٹ لمبی سرنگ اور دو کروڑ کا تیل",
+      "text": "🔴 181 فٹ لمبی سرنگ اور دو کروڑ کا تیل\n\nپولیس نے ایک گھر کے زیر زمین ٹینک سے چوری کیا گیا 1431 لیٹر کروڈ آئل برآمد کرنے کے علاوہ اس مبینہ واردات میں استعمال ہونے والے آلات بھی برآمد کیے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/cm782dv6z20wo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/eef4/live/5b2b5880-df6e-11f1-8112-6b9154c79b48.png",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-16T15:19:11.170053+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
@@ -54,19 +52,18 @@
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-16T15:49:06.416880+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "ایشیا کپ فائنل: انڈیا انڈر 19 نے پاکستان کو آخری گیند پر شکست دے دی",
-      "text": "🔴 ایشیا کپ فائنل: انڈیا انڈر 19 نے پاکستان کو آخری گیند پر شکست دے دی\n\nانڈیا انڈر 19 کے لیے پاکستان کی جانب سے دیا جانے والا 338 رنز کا ہدف ایک طویل اور مشکل پہاڑ سر کرنے جیسا لگ رہا تھا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "اُمید ہے اگلی دہائی میں پاکستان کی باری آئے گی",
+      "text": "🔴 اُمید ہے اگلی دہائی میں پاکستان کی باری آئے گی\n\nدنیا کی دوسری بڑی کرکٹ کھیلنے والی قوم مزید بہتری کی مستحق ہے۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c69q8lvrg3j8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/7d15/live/2e2cdc60-e030-11f1-9ca9-b3b288fceb81.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/crgj37ege78do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/e436/live/c2bfb6f0-e10b-11f1-b3df-4961589d9b68.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
@@ -96,11 +93,11 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "ایران کا نیا میزائل سٹی: کون سے نئے میزائل دکھائے گئے ہیں اور دشمنوں",
-      "text": "🔴 ایران کا نیا میزائل سٹی: کون سے نئے میزائل دکھائے گئے ہیں اور دشمنوں\n\nتاہم یہ واضح نہیں کہ جنگ سے پہلے کے مقابلے میں ایران کی میزائل صلاحیت کس حد تک کمزور ہوئی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟",
+      "text": "🔴 امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟\n\n💬 کیا یہ بین الاقوامی سفارتی پیش رفت خطے میں استحکام لا سکے گی؟ اپنی رائے دیں۔ 🔁 شیئر کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c6808lv1lxp2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/c463/live/d3cbc1f0-df80-11f1-b844-3146c4983677.jpg",
+      "source_url": "https://www.bbc.com/urdu/watch/cmz655ej7yl3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/23fd/live/5a0478d0-da99-11f1-93e1-3b657b665bcf.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -113,12 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار",
-      "text": "🔴 تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار\n\nماضی کے تجربات سے سیکھ کر باوقار اور پرامن معاشرے کے قیام کی مشترکہ ذمہ داری ہم سب پر عائد ہوتی ہے۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "عاصم منیر اور عمران خان ایک ہی فہرست میں",
+      "text": "🔴 عاصم منیر اور عمران خان ایک ہی فہرست میں\n\nپاکستان کے سابق وزیر اعظم عمران خان کا نام بھی فہرست میں شامل ہے۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/cry49p8e4p91o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/98bd/live/fab04290-e198-11f1-9e84-492a244b27cc.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -126,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-16T02:53:11.616371+05:00"
+  "email_sent_at": "2026-11-17T01:30:53.616538+05:00"
 }
