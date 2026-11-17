@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,18 +8,17 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "محسن نقوی اورعباس عراقچی کی ملاقات میں علاقائی امن واستحکام کے لیے مشترکہ اقدامات پراتفاق",
-      "text": "🔴 محسن نقوی اورعباس عراقچی کی ملاقات میں علاقائی امن واستحکام کے لیے مشترکہ اقدامات پراتفاق\n\nایرانی وزیر خارجہ کا کہنا تھا کہ ’ایران پاکستان کے ساتھ اپنے تعلقات کو خصوصی اہمیت دیتا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "لاہور کے مسلمان شہریوں کا وہ خط جس نے رنجیت سنگھ کو پنجاب کا حکمران بنایا",
+      "text": "🔴 لاہور کے مسلمان شہریوں کا وہ خط جس نے رنجیت سنگھ کو پنجاب کا حکمران بنایا\n\nرنجیت سنگھ 13 نومبر 1780 اِسی لاہور شہر کے شمال میں واقع گوجرانوالہ میں پیدا ہوئے تھے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/cmlyjkzxel2et?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a092/live/e3315de0-e1f0-11f1-a094-5fdc692f3e33.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cm4gnqdg5qj9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/7f53/live/23529b70-deb1-11f1-8fb5-a771a656a227.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-17T08:55:40.727977+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
@@ -36,8 +35,7 @@
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-17T11:49:07.038295+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
@@ -54,37 +52,35 @@
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-17T18:29:14.787659+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "اُمید ہے اگلی دہائی میں پاکستان کی باری آئے گی",
-      "text": "🔴 اُمید ہے اگلی دہائی میں پاکستان کی باری آئے گی\n\nدنیا کی دوسری بڑی کرکٹ کھیلنے والی قوم مزید بہتری کی مستحق ہے۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "سری لنکا کو 98 رنز پر ڈھیر کرنے کے بعد پاکستان کی تین وکٹیں گِر گئیں",
+      "text": "🔴 سری لنکا کو 98 رنز پر ڈھیر کرنے کے بعد پاکستان کی تین وکٹیں گِر گئیں\n\nپہلے روز کھیل کے اختتام تک پاکستان نے تین وکٹوں کے نقصان پر 121 رنز بنائے ہیں۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/crgj37ege78do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/e436/live/c2bfb6f0-e10b-11f1-b3df-4961589d9b68.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cvglr9jex106o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/f9dd/live/b0ba80e0-e280-11f1-b166-176de21e2352.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-17T19:53:26.428458+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار",
-      "text": "🔴 ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار\n\nپاکستان کا کہنا ہے کہ اس نے امریکی صدر ٹرمپ کے خاندان سے وابستہ کرپٹو کمپنی ورلڈ لبرٹی فنانشل میں کوئی سرمایہ کاری نہیں کی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "hook": "ایران کی واشنگٹن پر مبینہ ڈرٹی بم حملے سے متعلق خبروں کی تردید",
+      "text": "🔴 ایران کی واشنگٹن پر مبینہ ڈرٹی بم حملے سے متعلق خبروں کی تردید\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cqgm0mn9mkj2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/6794/live/3f291ee0-ddb3-11f1-90cd-85e940e3a009.jpg",
+      "source_url": "https://www.bbc.co.uk/urdu/live/cmlyjkzxel2et?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/49f0/live/b9207150-e29d-11f1-99a1-253766e7ad8b.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
@@ -114,12 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "عاصم منیر اور عمران خان ایک ہی فہرست میں",
-      "text": "🔴 عاصم منیر اور عمران خان ایک ہی فہرست میں\n\nپاکستان کے سابق وزیر اعظم عمران خان کا نام بھی فہرست میں شامل ہے۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cry49p8e4p91o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/98bd/live/fab04290-e198-11f1-9e84-492a244b27cc.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
+      "hook": "تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار",
+      "text": "🔴 تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار\n\nماضی کے تجربات سے سیکھ کر باوقار اور پرامن معاشرے کے قیام کی مشترکہ ذمہ داری ہم سب پر عائد ہوتی ہے۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -127,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-17T01:30:53.616538+05:00"
+  "email_sent_at": "2026-11-18T03:26:55.294134+05:00"
 }
