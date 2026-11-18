@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,65 +8,62 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "لاہور کے مسلمان شہریوں کا وہ خط جس نے رنجیت سنگھ کو پنجاب کا حکمران بنایا",
-      "text": "🔴 لاہور کے مسلمان شہریوں کا وہ خط جس نے رنجیت سنگھ کو پنجاب کا حکمران بنایا\n\nرنجیت سنگھ 13 نومبر 1780 اِسی لاہور شہر کے شمال میں واقع گوجرانوالہ میں پیدا ہوئے تھے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "ٹرمپ کے قتل کا منصوبہ اور پاسداران انقلاب کی تربیت",
+      "text": "🔴 ٹرمپ کے قتل کا منصوبہ اور پاسداران انقلاب کی تربیت\n\nمارچ 2026 میں ایک وفاقی جیوری انھیں ان الزامات میں قصوروار قرار دے چکی تھی۔\n\nانا للہ وانا الیہ راجعون۔ واقعے سے متعلق متعلقہ حکام کی تحقیقات جاری ہیں۔\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm4gnqdg5qj9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/7f53/live/23529b70-deb1-11f1-8fb5-a771a656a227.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c6qj5vd7dz2yo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/c869/live/15b38790-e2f8-11f1-a6f3-43b2e0f645be.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-18T09:24:24.818727+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "181 فٹ لمبی سرنگ اور دو کروڑ کا تیل",
-      "text": "🔴 181 فٹ لمبی سرنگ اور دو کروڑ کا تیل\n\nپولیس نے ایک گھر کے زیر زمین ٹینک سے چوری کیا گیا 1431 لیٹر کروڈ آئل برآمد کرنے کے علاوہ اس مبینہ واردات میں استعمال ہونے والے آلات بھی برآمد کیے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
+      "hook": "کمنز کی پریس کانفرنس نے مجھے غصہ دلایا",
+      "text": "🔴 کمنز کی پریس کانفرنس نے مجھے غصہ دلایا\n\nبینکرافٹ کا کہنا ہے کہ ’سنہ 2018 میں پوری سچائی سامنے نہیں آئی تھی۔\n\n💬 کیا اس معاشی پیش رفت سے عام آدمی کو ریلیف ملے گا؟ اپنی رائے دیں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm782dv6z20wo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/eef4/live/5b2b5880-df6e-11f1-8112-6b9154c79b48.png",
+      "source_url": "https://www.bbc.com/urdu/articles/c6vg2409r5n9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-18T18:49:06.061041+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع",
-      "text": "🔴 جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع\n\nمعلومات تک فوری رسائی اور جدید ٹیکنالوجی کے استعمال سے روزمرہ زندگی کے مختلف شعبوں میں انقلابی تبدیلیاں آ رہی ہیں۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #ٹیکنالوجی #سائنس",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "زمین سے ایک نوری دن کا فاصلہ مکمل کرنے والا جہاز جس میں خلائی مخلوق کے لیے",
+      "text": "🔴 زمین سے ایک نوری دن کا فاصلہ مکمل کرنے والا جہاز جس میں خلائی مخلوق کے لیے\n\nیہ پیغامات زمین سے باہر موجود مخلوق کے لیے ریکارڈ گئے ہیں۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/cqrmg7wkyldgo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/8d16/live/3fcb94e0-ddbd-11f1-93e1-3b657b665bcf.png",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-18T19:00:35.535746+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "سری لنکا کو 98 رنز پر ڈھیر کرنے کے بعد پاکستان کی تین وکٹیں گِر گئیں",
-      "text": "🔴 سری لنکا کو 98 رنز پر ڈھیر کرنے کے بعد پاکستان کی تین وکٹیں گِر گئیں\n\nپہلے روز کھیل کے اختتام تک پاکستان نے تین وکٹوں کے نقصان پر 121 رنز بنائے ہیں۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "سری لنکا کی تین وکٹیں گِرنے کے بعد میچ پر پاکستان کی گرفت مضبوط",
+      "text": "🔴 سری لنکا کی تین وکٹیں گِرنے کے بعد میچ پر پاکستان کی گرفت مضبوط\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
       "source_url": "https://www.bbc.com/urdu/articles/cvglr9jex106o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/f9dd/live/b0ba80e0-e280-11f1-b166-176de21e2352.jpg",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/94b0/live/b9391640-e349-11f1-99aa-0f40b013ad11.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
@@ -79,12 +76,12 @@
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "ایران کی واشنگٹن پر مبینہ ڈرٹی بم حملے سے متعلق خبروں کی تردید",
-      "text": "🔴 ایران کی واشنگٹن پر مبینہ ڈرٹی بم حملے سے متعلق خبروں کی تردید\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/cmlyjkzxel2et?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/49f0/live/b9207150-e29d-11f1-99a1-253766e7ad8b.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
+      "hook": "قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ",
+      "text": "🔴 قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ\n\nخطے کے بدلتے ہوئے حالات اور اندرونی چیلنجز کے پیش نظر جامع حکمت عملی ناگزیر قرار دی گئی ہے۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #خصوصی_رپورٹ #پاکستان",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
@@ -96,11 +93,11 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟",
-      "text": "🔴 امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟\n\n💬 کیا یہ بین الاقوامی سفارتی پیش رفت خطے میں استحکام لا سکے گی؟ اپنی رائے دیں۔ 🔁 شیئر کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "ٹرمپ، پوتن اور شی جن پنگ کی تاریخی ملاقات کیوں اہم ہے اور یورپ کی تشویش کیا",
+      "text": "🔴 ٹرمپ، پوتن اور شی جن پنگ کی تاریخی ملاقات کیوں اہم ہے اور یورپ کی تشویش کیا\n\nان کا کہنا تھا کہ ’ہم ایران سے جنگ ختم کرنے کی کوشش کر رہے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/watch/cmz655ej7yl3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/23fd/live/5a0478d0-da99-11f1-93e1-3b657b665bcf.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cwe85xdd4eyko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/561e/live/6f82f850-e302-11f1-870f-4d4bc04872cc.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -126,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-18T03:26:55.294134+05:00"
+  "email_sent_at": "2026-11-19T02:38:08.372335+05:00"
 }
