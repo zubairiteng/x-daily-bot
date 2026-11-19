@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,18 +8,17 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "ٹرمپ کے قتل کا منصوبہ اور پاسداران انقلاب کی تربیت",
-      "text": "🔴 ٹرمپ کے قتل کا منصوبہ اور پاسداران انقلاب کی تربیت\n\nمارچ 2026 میں ایک وفاقی جیوری انھیں ان الزامات میں قصوروار قرار دے چکی تھی۔\n\nانا للہ وانا الیہ راجعون۔ واقعے سے متعلق متعلقہ حکام کی تحقیقات جاری ہیں۔\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "اب لوگ جہیز میں بھی سولر پینل دیتے ہیں",
+      "text": "🔴 اب لوگ جہیز میں بھی سولر پینل دیتے ہیں\n\nہم اپنا ایئر کولر سارا دن اسی پر چلاتے تھے۔\n\n💬 اس قومی معاملے پر آپ کی کیا رائے ہے؟ کمنٹ میں آگاہ کریں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c6qj5vd7dz2yo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/c869/live/15b38790-e2f8-11f1-a6f3-43b2e0f645be.png",
+      "source_url": "https://www.bbc.com/urdu/articles/cr5y16pez9j0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-19T08:30:45.136618+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
@@ -36,56 +35,53 @@
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-19T17:08:23.471574+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "زمین سے ایک نوری دن کا فاصلہ مکمل کرنے والا جہاز جس میں خلائی مخلوق کے لیے",
-      "text": "🔴 زمین سے ایک نوری دن کا فاصلہ مکمل کرنے والا جہاز جس میں خلائی مخلوق کے لیے\n\nیہ پیغامات زمین سے باہر موجود مخلوق کے لیے ریکارڈ گئے ہیں۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cqrmg7wkyldgo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/8d16/live/3fcb94e0-ddbd-11f1-93e1-3b657b665bcf.png",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
+      "hook": "جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع",
+      "text": "🔴 جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع\n\nمعلومات تک فوری رسائی اور جدید ٹیکنالوجی کے استعمال سے روزمرہ زندگی کے مختلف شعبوں میں انقلابی تبدیلیاں آ رہی ہیں۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #ٹیکنالوجی #سائنس",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-19T17:19:06.417839+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "سری لنکا کی تین وکٹیں گِرنے کے بعد میچ پر پاکستان کی گرفت مضبوط",
-      "text": "🔴 سری لنکا کی تین وکٹیں گِرنے کے بعد میچ پر پاکستان کی گرفت مضبوط\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "راولپنڈی ٹیسٹ: سری لنکا کو پاکستان پر 82 رنز کی برتری مگر صرف ایک وکٹ باقی",
+      "text": "🔴 راولپنڈی ٹیسٹ: سری لنکا کو پاکستان پر 82 رنز کی برتری مگر صرف ایک وکٹ باقی\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
       "source_url": "https://www.bbc.com/urdu/articles/cvglr9jex106o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/94b0/live/b9391640-e349-11f1-99aa-0f40b013ad11.jpg",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/9340/live/a1bf8950-e410-11f1-b37c-b3a71d7200af.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-19T17:49:06.035899+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ",
-      "text": "🔴 قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ\n\nخطے کے بدلتے ہوئے حالات اور اندرونی چیلنجز کے پیش نظر جامع حکمت عملی ناگزیر قرار دی گئی ہے۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #خصوصی_رپورٹ #پاکستان",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "2070 تک پاکستان سب سے بڑا مسلم ملک بن جائے گا",
+      "text": "🔴 2070 تک پاکستان سب سے بڑا مسلم ملک بن جائے گا\n\nپیو کے تخمینے جنوبی ایشیا میں ایک وسیع تر آبادیاتی تبدیلی کی نشاندہی کرتے ہیں۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/ck30gdem1l87o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/2d74/live/371c0ca0-e414-11f1-b37c-b3a71d7200af.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
@@ -97,11 +93,11 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "ٹرمپ، پوتن اور شی جن پنگ کی تاریخی ملاقات کیوں اہم ہے اور یورپ کی تشویش کیا",
-      "text": "🔴 ٹرمپ، پوتن اور شی جن پنگ کی تاریخی ملاقات کیوں اہم ہے اور یورپ کی تشویش کیا\n\nان کا کہنا تھا کہ ’ہم ایران سے جنگ ختم کرنے کی کوشش کر رہے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟",
+      "text": "🔴 امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟\n\n💬 کیا یہ بین الاقوامی سفارتی پیش رفت خطے میں استحکام لا سکے گی؟ اپنی رائے دیں۔ 🔁 شیئر کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cwe85xdd4eyko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/561e/live/6f82f850-e302-11f1-870f-4d4bc04872cc.png",
+      "source_url": "https://www.bbc.com/urdu/watch/cmz655ej7yl3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/23fd/live/5a0478d0-da99-11f1-93e1-3b657b665bcf.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -127,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-19T02:38:08.372335+05:00"
+  "email_sent_at": "2026-11-20T01:58:15.070174+05:00"
 }
