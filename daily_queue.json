@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,120 +8,114 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "پاکستانی وزیر کو بریانی اور کباب کھلائے جا رہے ہیں",
-      "text": "🔴 پاکستانی وزیر کو بریانی اور کباب کھلائے جا رہے ہیں\n\nوہ 2023 کے بعد انڈیا کا دورہ کرنے والے پاکستان کے پہلے وفاقی وزیر ہیں۔\n\n💬 اس قومی معاملے پر آپ کی کیا رائے ہے؟ کمنٹ میں آگاہ کریں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "سابق وزیر مملکت لیاقت عباس بھٹی کو نقدی اور زیورات کی خاطر قتل کیا گیا",
+      "text": "🔴 سابق وزیر مملکت لیاقت عباس بھٹی کو نقدی اور زیورات کی خاطر قتل کیا گیا\n\nپاکستان کے صوبے پنجاب کے شہر حافظ آباد پولیس نے سابق وزیر مملکت لیاقت بھٹی کے قتل کے مقدمے میں تین افراد کو گرفتار کیا ہے۔\n\nانا للہ وانا الیہ راجعون۔\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cqx2wr9ed721o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/41d0/live/1a835500-e4ee-11f1-8781-bf15c9202663.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c6j4rny9gzzko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/9f6c/live/42d9df60-e499-11f1-9cd2-85bef55939bc.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-21T13:45:19.721169+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت",
-      "text": "🔴 پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت\n\nملکی برآمدات میں اضافہ اور صنعتی شعبے کے لیے نئے معاشی اقدامات حتمی مراحل میں داخل ہو چکے ہیں۔\n\n💬 کیا اس معاشی پیش رفت سے عام آدمی کو ریلیف ملے گا؟ اپنی رائے دیں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #پاکستان_معیشت #کاروبار",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "جلی ہوئی گاڑی سے ملنے والی لاش کا معمہ",
+      "text": "🔴 جلی ہوئی گاڑی سے ملنے والی لاش کا معمہ\n\nچند روز قبل انڈیا کی ریاست گجرات کے شمال مشرقی ضلع سابرکانٹھا میں دریائے ہاتھمتی کے کنارے ایک جلی ہوئی گاڑی سے انسانی ڈھانچا برآمد ہوا۔\n\nانا للہ وانا الیہ راجعون۔\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/c6pqr2xgjl53o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/25b6/live/47377240-e54b-11f1-8580-67c3925c3ead.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-21T16:05:41.818180+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع",
-      "text": "🔴 جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع\n\nمعلومات تک فوری رسائی اور جدید ٹیکنالوجی کے استعمال سے روزمرہ زندگی کے مختلف شعبوں میں انقلابی تبدیلیاں آ رہی ہیں۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #ٹیکنالوجی #سائنس",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "لبلبے کے کینسر کے علاج میں بڑی پیش رفت",
+      "text": "🔴 لبلبے کے کینسر کے علاج میں بڑی پیش رفت\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/cv62pxk4p632o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-21T16:49:04.898531+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "باقی رافیل طیارے کہاں اور کس کے گیراج میں پارک ہیں",
-      "text": "🔴 باقی رافیل طیارے کہاں اور کس کے گیراج میں پارک ہیں\n\nرپورٹ میں دعویٰ کیا گیا ہے کہ انڈین فضائی کے پاس اس وقت 32 فعال رافیل طیارے موجود ہیں جبکہ اس نے 114 طیاروں کا آرڈر دے رکھا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "رضوان کا نام نہ ہونے پر عاقب جاوید کی وضاحتیں",
+      "text": "🔴 رضوان کا نام نہ ہونے پر عاقب جاوید کی وضاحتیں\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c3kgd1zp1nygo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/9ad4/live/cc915290-e4dc-11f1-9cc5-e9713e77fd78.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/ck1wrdqgjxr9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/d525/live/c23c2850-e59b-11f1-9ccc-ff5a88abcfc6.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
         "#پاکستان_اسپورٹس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-21T18:19:05.954105+05:00"
+      "status": "ready"
     },
     {
       "id": "post-5",
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ",
-      "text": "🔴 قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ\n\nخطے کے بدلتے ہوئے حالات اور اندرونی چیلنجز کے پیش نظر جامع حکمت عملی ناگزیر قرار دی گئی ہے۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #خصوصی_رپورٹ #پاکستان",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "باقی رافیل طیارے کہاں اور کس کے گیراج میں پارک ہیں",
+      "text": "🔴 باقی رافیل طیارے کہاں اور کس کے گیراج میں پارک ہیں\n\nرپورٹ میں دعویٰ کیا گیا ہے کہ انڈین فضائی کے پاس اس وقت 32 فعال رافیل طیارے موجود ہیں جبکہ اس نے 114 طیاروں کا آرڈر دے رکھا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/c3kgd1zp1nygo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/9ad4/live/cc915290-e4dc-11f1-9cc5-e9713e77fd78.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-21T20:19:04.978674+05:00"
+      "status": "ready"
     },
     {
       "id": "post-6",
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "ایران جو معاہدہ چاہتا ہے وہ امریکہ کے لیے قابلِ قبول نہیں: ٹرمپ",
-      "text": "🔴 ایران جو معاہدہ چاہتا ہے وہ امریکہ کے لیے قابلِ قبول نہیں: ٹرمپ\n\nانھوں نے اپنے حالیہ دورۂ ایشیا کو ’امریکی تاریخ کے کامیاب ترین صدارتی دوروں میں سے ایک‘ قرار دیا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "ایران کے ساتھ صرف ایک مستقل اور دیرپا معاہدہ چاہتا ہوں: صدر ٹرمپ",
+      "text": "🔴 ایران کے ساتھ صرف ایک مستقل اور دیرپا معاہدہ چاہتا ہوں: صدر ٹرمپ\n\nامریکہ کے صدر ڈونلڈ ٹرمپ نے کہا ہے کہ وہ ایران کے ساتھ صرف ایک مستقل اور دیرپا معاہدہ چاہتے ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
       "source_url": "https://www.bbc.co.uk/urdu/live/cx24e1zdpy5qt?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f9fd/live/2af7b0c0-e50c-11f1-b40b-5f46e8cf687c.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/992f/live/67364e10-e5cb-11f1-a738-4787e1a18cce.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
         "#جغرافیائی_سیاست"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-21T22:58:33.859678+05:00"
+      "status": "ready"
     },
     {
       "id": "post-7",
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "بچوں کے لیے کتاب، ہمارے لیے بھگتی",
-      "text": "🔴 بچوں کے لیے کتاب، ہمارے لیے بھگتی\n\nسناتن دھرم کی ان کتابوں میں رامائن، بھگوت گیتا، ہندو دیوی دیوتاؤں، مذہبی تہواروں اور رسومات کا تعارف شامل ہے۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cxp80yl8d380o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/c2ab/live/aabf97e0-e422-11f1-99b6-a35a62fa4264.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
+      "hook": "تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار",
+      "text": "🔴 تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار\n\nماضی کے تجربات سے سیکھ کر باوقار اور پرامن معاشرے کے قیام کی مشترکہ ذمہ داری ہم سب پر عائد ہوتی ہے۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -129,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-21T02:07:46.003571+05:00"
+  "email_sent_at": "2026-11-22T02:53:12.181252+05:00"
 }
