@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,48 +8,46 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "رحمان گل: حکومتِ بلوچستان کو مطلوب پاکستانی فوج کا حصہ رہنے والے بی ایل اے",
-      "text": "🔴 رحمان گل: حکومتِ بلوچستان کو مطلوب پاکستانی فوج کا حصہ رہنے والے بی ایل اے\n\nرحمان گل اسلم بلوچ کی قیادت میں بی ایل اے کے گروپ کی تشکیل نو کے بعد کالعدم تنظیم کے تیسرے کمانڈر اِن چیف ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "کیا پولیس افسر کو گھر میں کم عمر گھریلو ملازمہ کی موجودگی کا علم تھا؟",
+      "text": "🔴 کیا پولیس افسر کو گھر میں کم عمر گھریلو ملازمہ کی موجودگی کا علم تھا؟\n\nتصویر کا ذریعہGetty Images انتباہ: اس رپورٹ میں شامل چند تفصیلات قارئین کے لیے پریشان کن ہو سکتی ہیں۔\n\nانا للہ وانا الیہ راجعون۔\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c62klx05pwq1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/6ecd/live/e4a3e6d0-e186-11f1-938f-7d0e2ede1ea5.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cm93088y5gd7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/6964/live/2325ef10-e183-11f1-8979-811f8b259408.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-23T13:12:57.774052+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت",
-      "text": "🔴 پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت\n\nملکی برآمدات میں اضافہ اور صنعتی شعبے کے لیے نئے معاشی اقدامات حتمی مراحل میں داخل ہو چکے ہیں۔\n\n💬 کیا اس معاشی پیش رفت سے عام آدمی کو ریلیف ملے گا؟ اپنی رائے دیں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #پاکستان_معیشت #کاروبار",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "امریکہ کی ایران کے شیڈو بینکنگ نیٹ ورک پر نئی پابندیاں",
+      "text": "🔴 امریکہ کی ایران کے شیڈو بینکنگ نیٹ ورک پر نئی پابندیاں\n\nیہ بات امریکی محکمہ خزانہ کی ویب سائٹ پر پیر کو جاری ہونے والے ایک نوٹس میں کہی گئی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.co.uk/urdu/live/c6lymgx4k398t?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c170/live/2bda16f0-e77c-11f1-a094-5fdc692f3e33.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-23T17:47:44.548627+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع",
-      "text": "🔴 جدید ڈیجیٹل دور کے تقاضے اور سائنسی ایجادات کا دائرہ کار وسیع\n\nمعلومات تک فوری رسائی اور جدید ٹیکنالوجی کے استعمال سے روزمرہ زندگی کے مختلف شعبوں میں انقلابی تبدیلیاں آ رہی ہیں۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #ٹیکنالوجی #سائنس",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "برقی کنگھی سے گنج پن کا مؤثر علاج دریافت کرنے کے دعوے کی حقیقت کیا ہے؟",
+      "text": "🔴 برقی کنگھی سے گنج پن کا مؤثر علاج دریافت کرنے کے دعوے کی حقیقت کیا ہے؟\n\nچینی محققین نے ’ڈی ٹینگل‘ نامی ایک برقی کنگھی تیار کی ہے، دعوے کے مطابق یہ موروثی گنج پن کے علاج میں مدد دے سکتی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/cwx2emnggejpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/2d7a/live/1a8e65b0-df55-11f1-b8ca-0348146d1a32.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
@@ -61,11 +59,11 @@
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "پاکستان شاہینز کی انڈیا اے پر 48 رنز سے فتح، ٹیلنٹ کی نہیں، مواقع کی کمی ہے",
-      "text": "🔴 پاکستان شاہینز کی انڈیا اے پر 48 رنز سے فتح، ٹیلنٹ کی نہیں، مواقع کی کمی ہے\n\nدوحہ میں پاکستان اے نے انڈیا اے کو 48 رنز سے شکست دے دی۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "پشاور میں پہلی بار پی ایس ایل میچز سے قبل عمران خان کرکٹ سٹیڈیم کا نام",
+      "text": "🔴 پشاور میں پہلی بار پی ایس ایل میچز سے قبل عمران خان کرکٹ سٹیڈیم کا نام\n\nگورنر خیبر پختونخوا فیصل کریم کنڈی نے پشاور میں کرکٹ سٹیڈیم کا نام تبدیل کرنے کا اعلان کیا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmy5xrdxpep9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/99e4/live/5d767870-e6aa-11f1-b45e-bf1e220bd648.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c34gn2zg88y1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/61cb/live/0d59a050-e755-11f1-99a1-253766e7ad8b.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
@@ -78,12 +76,12 @@
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ",
-      "text": "🔴 قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ\n\nخطے کے بدلتے ہوئے حالات اور اندرونی چیلنجز کے پیش نظر جامع حکمت عملی ناگزیر قرار دی گئی ہے۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #خصوصی_رپورٹ #پاکستان",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "پاکستان شاہینز کی انڈیا اے پر 48 رنز سے فتح اور ٹاس میں ریفری کی کوتاہی",
+      "text": "🔴 پاکستان شاہینز کی انڈیا اے پر 48 رنز سے فتح اور ٹاس میں ریفری کی کوتاہی\n\nدوحہ میں پاکستان اے نے انڈیا اے کو 48 رنز سے شکست دے دی۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/cmy5xrdxpep9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/99e4/live/5d767870-e6aa-11f1-b45e-bf1e220bd648.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
@@ -125,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-23T02:48:03.690776+05:00"
+  "email_sent_at": "2026-11-24T01:32:27.249532+05:00"
 }
