@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,65 +8,62 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "کیا پولیس افسر کو گھر میں کم عمر گھریلو ملازمہ کی موجودگی کا علم تھا؟",
-      "text": "🔴 کیا پولیس افسر کو گھر میں کم عمر گھریلو ملازمہ کی موجودگی کا علم تھا؟\n\nتصویر کا ذریعہGetty Images انتباہ: اس رپورٹ میں شامل چند تفصیلات قارئین کے لیے پریشان کن ہو سکتی ہیں۔\n\nانا للہ وانا الیہ راجعون۔\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "پاکستانی خلا باز کون ہیں اور شینژو۔24 خلائی مشن پاکستان کے لیے کیوں اہم ہے؟",
+      "text": "🔴 پاکستانی خلا باز کون ہیں اور شینژو۔24 خلائی مشن پاکستان کے لیے کیوں اہم ہے؟\n\nپاکستانی خلا باز محمد ذیشان علی کو چین کے شینژو-24 مشن کے لیے منتخب کر لیا گیا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm93088y5gd7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/6964/live/2325ef10-e183-11f1-8979-811f8b259408.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c9gklddgegpyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/114b/live/0f28ad00-e7ef-11f1-8b26-c1adae33e7f2.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-24T09:58:23.789436+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "امریکہ کی ایران کے شیڈو بینکنگ نیٹ ورک پر نئی پابندیاں",
-      "text": "🔴 امریکہ کی ایران کے شیڈو بینکنگ نیٹ ورک پر نئی پابندیاں\n\nیہ بات امریکی محکمہ خزانہ کی ویب سائٹ پر پیر کو جاری ہونے والے ایک نوٹس میں کہی گئی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/c6lymgx4k398t?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c170/live/2bda16f0-e77c-11f1-a094-5fdc692f3e33.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
+      "hook": "پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت",
+      "text": "🔴 پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت\n\nملکی برآمدات میں اضافہ اور صنعتی شعبے کے لیے نئے معاشی اقدامات حتمی مراحل میں داخل ہو چکے ہیں۔\n\n💬 کیا اس معاشی پیش رفت سے عام آدمی کو ریلیف ملے گا؟ اپنی رائے دیں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #پاکستان_معیشت #کاروبار",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-24T15:57:15.188007+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "برقی کنگھی سے گنج پن کا مؤثر علاج دریافت کرنے کے دعوے کی حقیقت کیا ہے؟",
-      "text": "🔴 برقی کنگھی سے گنج پن کا مؤثر علاج دریافت کرنے کے دعوے کی حقیقت کیا ہے؟\n\nچینی محققین نے ’ڈی ٹینگل‘ نامی ایک برقی کنگھی تیار کی ہے، دعوے کے مطابق یہ موروثی گنج پن کے علاج میں مدد دے سکتی ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
+      "hook": "لاہور میں اے آئی کے ذریعے تعلیمی ادارے پر حملے کی منصوبہ بندی کا الزام",
+      "text": "🔴 لاہور میں اے آئی کے ذریعے تعلیمی ادارے پر حملے کی منصوبہ بندی کا الزام\n\nتاحال کلاڈ اے آئی نے اس کیس کے بارے میں کوئی تبصرہ نہیں کیا ہے۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cwx2emnggejpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/2d7a/live/1a8e65b0-df55-11f1-b8ca-0348146d1a32.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cm75231v1v70o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/8f22/live/5036ab00-e761-11f1-b407-33329b1ec67a.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-24T21:24:11.748107+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "پشاور میں پہلی بار پی ایس ایل میچز سے قبل عمران خان کرکٹ سٹیڈیم کا نام",
-      "text": "🔴 پشاور میں پہلی بار پی ایس ایل میچز سے قبل عمران خان کرکٹ سٹیڈیم کا نام\n\nگورنر خیبر پختونخوا فیصل کریم کنڈی نے پشاور میں کرکٹ سٹیڈیم کا نام تبدیل کرنے کا اعلان کیا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "ہم بھی گیند سے چھیڑ چھاڑ کرتے تھے",
+      "text": "🔴 ہم بھی گیند سے چھیڑ چھاڑ کرتے تھے\n\nوہ سینڈ پیپر استعمال نہیں کرتے تھے۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c34gn2zg88y1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/61cb/live/0d59a050-e755-11f1-99a1-253766e7ad8b.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cx24e96n76l0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/b7a2/live/28667390-e7f6-11f1-ab60-79086b6495b8.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
@@ -79,12 +76,12 @@
       "time_slot": "08:15 PM PKT",
       "category": "خصوصی جائزہ و تجزیہ",
       "format": "single",
-      "hook": "پاکستان شاہینز کی انڈیا اے پر 48 رنز سے فتح اور ٹاس میں ریفری کی کوتاہی",
-      "text": "🔴 پاکستان شاہینز کی انڈیا اے پر 48 رنز سے فتح اور ٹاس میں ریفری کی کوتاہی\n\nدوحہ میں پاکستان اے نے انڈیا اے کو 48 رنز سے شکست دے دی۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: بی بی سی اردو | #خصوصی_رپورٹ #پاکستان",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cmy5xrdxpep9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/99e4/live/5d767870-e6aa-11f1-b45e-bf1e220bd648.jpg",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-5.jpg",
+      "hook": "قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ",
+      "text": "🔴 قومی اور علاقائی سکیورٹی امور پر جامع تجزیاتی جائزہ\n\nخطے کے بدلتے ہوئے حالات اور اندرونی چیلنجز کے پیش نظر جامع حکمت عملی ناگزیر قرار دی گئی ہے۔\n\n💬 اس اہم تحقیقاتی رپورٹ پر آپ کا کیا مؤقف ہے؟ کمنٹ میں بتائیں۔ 🔁 لائک ضرور کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #خصوصی_رپورٹ #پاکستان",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#خصوصی_رپورٹ",
         "#پاکستان"
@@ -96,11 +93,11 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "ڈارک ویب اور وائٹ ہاؤس کے ڈیٹا تک رسائی کا دعویٰ",
-      "text": "🔴 ڈارک ویب اور وائٹ ہاؤس کے ڈیٹا تک رسائی کا دعویٰ\n\nچین اور امریکہ سے ملنے والی معلومات کے بعد پاکستانی شہری کو ڈارک ویب پر ڈیٹا فروخت کرنے کے الزام میں گرفتار کیا گیا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "مبینہ چینی جاسوس سے تعلق پر مستعفی ہونے والے جینسن ہوانگ کی بحالی پر ٹرمپ",
+      "text": "🔴 مبینہ چینی جاسوس سے تعلق پر مستعفی ہونے والے جینسن ہوانگ کی بحالی پر ٹرمپ\n\nلیکن اب انھیں بحال کر دیا گیا ہے۔\n\n💬 کیا یہ بین الاقوامی سفارتی پیش رفت خطے میں استحکام لا سکے گی؟ اپنی رائے دیں۔ 🔁 شیئر کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm8x084j27qlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/1a1e/live/c4900160-e5b1-11f1-a188-ff49e70cc466.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cm7523gv5qv4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/8b5d/live/778391b0-e7c9-11f1-99a1-253766e7ad8b.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -113,12 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار",
-      "text": "🔴 تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار\n\nماضی کے تجربات سے سیکھ کر باوقار اور پرامن معاشرے کے قیام کی مشترکہ ذمہ داری ہم سب پر عائد ہوتی ہے۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "آدھی دنیا فتح کرنے والا چنگیز خان ہندوستان کی سرحد سے واپس کیوں لوٹ گیا؟",
+      "text": "🔴 آدھی دنیا فتح کرنے والا چنگیز خان ہندوستان کی سرحد سے واپس کیوں لوٹ گیا؟\n\nاس کا نام تیموجن تھا جو بعد میں پوری دنیا میں چنگیز خان کے نام سے مشہور ہوا۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.com/urdu/articles/cwyvmj4l79wo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/33c3/live/dc508b30-df27-11f0-b67b-690eb873de1b.png",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -126,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-24T01:32:27.249532+05:00"
+  "email_sent_at": "2026-11-25T02:13:53.540874+05:00"
 }
