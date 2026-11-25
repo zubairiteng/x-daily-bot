@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,65 +8,62 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "پاکستانی خلا باز کون ہیں اور شینژو۔24 خلائی مشن پاکستان کے لیے کیوں اہم ہے؟",
-      "text": "🔴 پاکستانی خلا باز کون ہیں اور شینژو۔24 خلائی مشن پاکستان کے لیے کیوں اہم ہے؟\n\nپاکستانی خلا باز محمد ذیشان علی کو چین کے شینژو-24 مشن کے لیے منتخب کر لیا گیا۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "ذیشان علی اور شینژو-24 مشن",
+      "text": "🔴 ذیشان علی اور شینژو-24 مشن\n\nپاکستانی خلاباز محمد ذیشان علی چینی شینژو-24 مشن کے ساتھ خلا کی جانب روانہ ہو گئے ہیں۔\n\n💬 اس قومی معاملے پر آپ کی کیا رائے ہے؟ کمنٹ میں آگاہ کریں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c9gklddgegpyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/114b/live/0f28ad00-e7ef-11f1-8b26-c1adae33e7f2.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c6zxv0x7ggx0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/c02d/live/8b604680-e87b-11f1-bf29-cfcf7c01f5cc.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-25T09:18:04.194320+05:00"
+      "status": "ready"
     },
     {
       "id": "post-2",
       "time_slot": "11:30 AM PKT",
       "category": "معیشت و فنانس",
       "format": "single",
-      "hook": "پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت",
-      "text": "🔴 پاکستان کی تجارتی سرگرمیوں اور معاشی اعشاریوں میں مثبت پیش رفت\n\nملکی برآمدات میں اضافہ اور صنعتی شعبے کے لیے نئے معاشی اقدامات حتمی مراحل میں داخل ہو چکے ہیں۔\n\n💬 کیا اس معاشی پیش رفت سے عام آدمی کو ریلیف ملے گا؟ اپنی رائے دیں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #پاکستان_معیشت #کاروبار",
-      "source_name": "قومی ادارتی ڈیسک",
-      "source_url": "https://www.dawnnews.tv",
-      "image_url": "",
-      "image_path": "",
+      "hook": "امریکہ کا چین اور انڈیا سمیت بڑے تجارتی شراکت داروں پر نئے محصولات کا اعلان",
+      "text": "🔴 امریکہ کا چین اور انڈیا سمیت بڑے تجارتی شراکت داروں پر نئے محصولات کا اعلان\n\n💬 کیا اس معاشی پیش رفت سے عام آدمی کو ریلیف ملے گا؟ اپنی رائے دیں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان_معیشت #کاروبار",
+      "source_name": "بی بی سی اردو",
+      "source_url": "https://www.bbc.co.uk/urdu/live/c6wy4kl3vmd0t?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5f9c/live/eeeed6d0-e8e9-11f1-a094-5fdc692f3e33.jpg",
+      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-2.jpg",
       "hashtags": [
         "#پاکستان_معیشت",
         "#کاروبار"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-25T15:28:57.048801+05:00"
+      "status": "ready"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "لاہور میں اے آئی کے ذریعے تعلیمی ادارے پر حملے کی منصوبہ بندی کا الزام",
-      "text": "🔴 لاہور میں اے آئی کے ذریعے تعلیمی ادارے پر حملے کی منصوبہ بندی کا الزام\n\nتاحال کلاڈ اے آئی نے اس کیس کے بارے میں کوئی تبصرہ نہیں کیا ہے۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
+      "hook": "ذیشان علی کا چینی خلائی سٹیشن پر پہلا دن، اقبال کا شعر اور سپیس کیک",
+      "text": "🔴 ذیشان علی کا چینی خلائی سٹیشن پر پہلا دن، اقبال کا شعر اور سپیس کیک\n\nستاروں سے آگے جہاں اور بھی ہیں، ابھی عشق کے امتحاں اور بھی ہیں۔\n\n💬 کیا آپ روزمرہ کاموں میں جدید ٹیکنالوجی سے فائدہ اٹھاتے ہیں؟ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm75231v1v70o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/8f22/live/5036ab00-e761-11f1-b407-33329b1ec67a.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/cv702rjdn6p5o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/a9ce/live/c03148a0-e8c6-11f1-ac76-db9e97f93d67.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-25T20:38:07.691694+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "ہم بھی گیند سے چھیڑ چھاڑ کرتے تھے",
-      "text": "🔴 ہم بھی گیند سے چھیڑ چھاڑ کرتے تھے\n\nوہ سینڈ پیپر استعمال نہیں کرتے تھے۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "آٹھ سال میں تیار ہونے والی پاکستان کی پہلی نیٹ فلکس سیریز پر انڈیا",
+      "text": "🔴 آٹھ سال میں تیار ہونے والی پاکستان کی پہلی نیٹ فلکس سیریز پر انڈیا\n\nلیکن انڈیا میں اس سیریز کی ریلیز پر پابندی کا مطالبہ بھی کیا جا رہا ہے۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cx24e96n76l0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/b7a2/live/28667390-e7f6-11f1-ab60-79086b6495b8.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/c6742z51k21xo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/227c/live/875bbdc0-e845-11f1-aa88-031e8213533d.png",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
@@ -96,11 +93,11 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "مبینہ چینی جاسوس سے تعلق پر مستعفی ہونے والے جینسن ہوانگ کی بحالی پر ٹرمپ",
-      "text": "🔴 مبینہ چینی جاسوس سے تعلق پر مستعفی ہونے والے جینسن ہوانگ کی بحالی پر ٹرمپ\n\nلیکن اب انھیں بحال کر دیا گیا ہے۔\n\n💬 کیا یہ بین الاقوامی سفارتی پیش رفت خطے میں استحکام لا سکے گی؟ اپنی رائے دیں۔ 🔁 شیئر کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟",
+      "text": "🔴 امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟\n\n💬 کیا یہ بین الاقوامی سفارتی پیش رفت خطے میں استحکام لا سکے گی؟ اپنی رائے دیں۔ 🔁 شیئر کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm7523gv5qv4o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/8b5d/live/778391b0-e7c9-11f1-99a1-253766e7ad8b.png",
+      "source_url": "https://www.bbc.com/urdu/watch/cmz655ej7yl3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/23fd/live/5a0478d0-da99-11f1-93e1-3b657b665bcf.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -113,12 +110,12 @@
       "time_slot": "11:15 PM PKT",
       "category": "تاریخ، ادب و مثبت فکر",
       "format": "single",
-      "hook": "آدھی دنیا فتح کرنے والا چنگیز خان ہندوستان کی سرحد سے واپس کیوں لوٹ گیا؟",
-      "text": "🔴 آدھی دنیا فتح کرنے والا چنگیز خان ہندوستان کی سرحد سے واپس کیوں لوٹ گیا؟\n\nاس کا نام تیموجن تھا جو بعد میں پوری دنیا میں چنگیز خان کے نام سے مشہور ہوا۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #تاریخی_حقائق #مثبت_سوچ",
-      "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cwyvmj4l79wo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/33c3/live/dc508b30-df27-11f0-b67b-690eb873de1b.png",
-      "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-7.jpg",
+      "hook": "تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار",
+      "text": "🔴 تاریخی پس منظر اور اخلاقی اقدار کا معاشرتی شعور میں کردار\n\nماضی کے تجربات سے سیکھ کر باوقار اور پرامن معاشرے کے قیام کی مشترکہ ذمہ داری ہم سب پر عائد ہوتی ہے۔\n\n💬 اس تاریخی اور فکری پہلو سے ہمیں کیا سبق ملتا ہے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: قومی ادارتی ڈیسک | #تاریخی_حقائق #مثبت_سوچ",
+      "source_name": "قومی ادارتی ڈیسک",
+      "source_url": "https://www.dawnnews.tv",
+      "image_url": "",
+      "image_path": "",
       "hashtags": [
         "#تاریخی_حقائق",
         "#مثبت_سوچ"
@@ -126,5 +123,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-25T02:13:53.540874+05:00"
+  "email_sent_at": "2026-11-26T01:10:35.116389+05:00"
 }
