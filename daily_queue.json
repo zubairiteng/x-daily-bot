@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "status": "ready",
   "daily_target": 7,
   "posts": [
@@ -8,18 +8,18 @@
       "time_slot": "08:30 AM PKT",
       "category": "قومی و ریاستی امور",
       "format": "single",
-      "hook": "کویت کے ایران پر ڈرون حملے کے الزام کے بعد پاکستانی وزیر خارجہ کی دونوں",
-      "text": "🔴 کویت کے ایران پر ڈرون حملے کے الزام کے بعد پاکستانی وزیر خارجہ کی دونوں\n\n💬 اس قومی معاملے پر آپ کی کیا رائے ہے؟ کمنٹ میں آگاہ کریں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
+      "hook": "پاکستانی خلاباز کا سفر، دلی کے لیے سیاسی اور سفارتی اشارہ ہے",
+      "text": "🔴 پاکستانی خلاباز کا سفر، دلی کے لیے سیاسی اور سفارتی اشارہ ہے\n\nانڈین ٹی وی چینل ’این ڈی ٹی وی‘ نے اس پیش رفت کو ’ایک بڑا سفارتی اشارہ‘ کہا ہے۔\n\n💬 اس قومی معاملے پر آپ کی کیا رائے ہے؟ کمنٹ میں آگاہ کریں۔ 🔁 لائک اور شیئر کریں\n\nبشکریہ: بی بی سی اردو | #پاکستان #قومی_خبریں",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.co.uk/urdu/live/c6wy4kl3vmd0t?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/265a/live/c317fde0-e9c3-11f1-8d2a-f5d2aabc11cb.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/ck0jx4582jv7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/d4a9/live/03f9aa70-e8e3-11f1-a3b9-79c60ec9ab33.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-1.jpg",
       "hashtags": [
         "#پاکستان",
         "#قومی_خبریں"
       ],
       "status": "posted",
-      "posted_at": "2026-11-27T09:31:28.000218+05:00"
+      "posted_at": "2026-11-28T08:55:09.832470+05:00"
     },
     {
       "id": "post-2",
@@ -37,36 +37,35 @@
         "#کاروبار"
       ],
       "status": "posted",
-      "posted_at": "2026-11-27T17:25:07.740431+05:00"
+      "posted_at": "2026-11-28T13:19:05.705166+05:00"
     },
     {
       "id": "post-3",
       "time_slot": "02:00 PM PKT",
       "category": "ٹیکنالوجی و سائنس",
       "format": "single",
-      "hook": "میٹا کا اے آئی ایجنٹ میوز کیا ہے اور یہ کس طرح آپ کی مدد کر سکتا ہے؟",
-      "text": "🔴 میٹا کا اے آئی ایجنٹ میوز کیا ہے اور یہ کس طرح آپ کی مدد کر سکتا ہے؟\n\nمیٹا کمپنی نے آرٹیفیشل انٹیلیجنس پر ایک غیر معمولی رقم خرچ کرنے کا اعلان کر رکھا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
+      "hook": "روس خلائی شعبے میں پاکستان کو تعاون کی پیشکش کیوں کر رہا ہے؟",
+      "text": "🔴 روس خلائی شعبے میں پاکستان کو تعاون کی پیشکش کیوں کر رہا ہے؟\n\nتصویر کا ذریعہGetty Images 25 نومبر، 2026 کو خلائی سائنس کے شعبے میں پاکستان کے لیے ایک اہم دن قرار دیا جا رہا ہے۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #ٹیکنالوجی #سائنس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cm879304rjxpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/2662/live/5408d380-e823-11f1-99a1-253766e7ad8b.jpg",
+      "source_url": "https://www.bbc.com/urdu/articles/ckz6qgql15w6o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/5cd2/live/e707d510-ea66-11f1-a828-d384c0290f6b.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-3.jpg",
       "hashtags": [
         "#ٹیکنالوجی",
         "#سائنس"
       ],
-      "status": "posted",
-      "posted_at": "2026-11-27T18:49:05.865772+05:00"
+      "status": "ready"
     },
     {
       "id": "post-4",
       "time_slot": "05:30 PM PKT",
       "category": "کھیل و قومی ایتھلیٹس",
       "format": "single",
-      "hook": "درِ نجات: انڈیا میں ابو بکر اور زریاب کے فینز کی واچ پارٹی پر پولیس حرکت",
-      "text": "🔴 درِ نجات: انڈیا میں ابو بکر اور زریاب کے فینز کی واچ پارٹی پر پولیس حرکت\n\nمگر پھر جغرافیائی سیاست بیچ میں آ گئی۔\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
+      "hook": "انڈیا کے زیر انتظام کشمیر میں متنازع کوٹہ سسٹم",
+      "text": "🔴 انڈیا کے زیر انتظام کشمیر میں متنازع کوٹہ سسٹم\n\n💬 قومی ٹیم اور میچ کے نتائج پر آپ کی کیا رائے ہے؟ 🔁 لائک اور ریٹویٹ کریں\n\nبشکریہ: بی بی سی اردو | #کرکٹ #پاکستان_اسپورٹس",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/cqe9k30p79d7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/f5ab/live/48278a90-e95c-11f1-b8ee-3d27ee38d605.jpg",
+      "source_url": "https://www.bbc.com/urdu/watch/cv5y155kyjgjo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/604c/live/2824f4a0-e01d-11f1-ad34-45f8f10f7c55.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-4.jpg",
       "hashtags": [
         "#کرکٹ",
@@ -96,11 +95,11 @@
       "time_slot": "09:45 PM PKT",
       "category": "عالمی حالاتِ حاضرہ",
       "format": "single",
-      "hook": "پاکستانی ذائقے چین کے خلائی سٹیشن میں، ایک ہی دل ہے، کتنی بار جیتو گے",
-      "text": "🔴 پاکستانی ذائقے چین کے خلائی سٹیشن میں، ایک ہی دل ہے، کتنی بار جیتو گے\n\nیہ کھانے بظاہر چین کے خلائی سٹیشن پر موجود خلا بازوں کے لیے تیار کیے گئے خصوصی حلال مینیو کا حصہ ہیں۔\n\n💬 آپ کی رائے؟ 🔁 لائک اور کمنٹ کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
+      "hook": "امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟",
+      "text": "🔴 امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟\n\n💬 کیا یہ بین الاقوامی سفارتی پیش رفت خطے میں استحکام لا سکے گی؟ اپنی رائے دیں۔ 🔁 شیئر کریں\n\nبشکریہ: بی بی سی اردو | #عالمی_خبریں #جغرافیائی_سیاست",
       "source_name": "بی بی سی اردو",
-      "source_url": "https://www.bbc.com/urdu/articles/c6zxv0x7ggx0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/33ff/live/3bfab300-e97f-11f1-bb43-d1b6102e3b60.png",
+      "source_url": "https://www.bbc.com/urdu/watch/cmz655ej7yl3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_urdu/23fd/live/5a0478d0-da99-11f1-93e1-3b657b665bcf.jpg",
       "image_path": "/home/runner/work/x-daily-bot/x-daily-bot/media_cache/post-6.jpg",
       "hashtags": [
         "#عالمی_خبریں",
@@ -126,5 +125,5 @@
       "status": "ready"
     }
   ],
-  "email_sent_at": "2026-11-27T00:38:38.647677+05:00"
+  "email_sent_at": "2026-11-28T02:58:56.947278+05:00"
 }
